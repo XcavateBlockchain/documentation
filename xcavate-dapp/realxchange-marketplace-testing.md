@@ -59,13 +59,13 @@ The newPrice is the updated price of the real estate object.
 
 To buy tokens the real estate investor must call the function buyToken.
 
-As parameters, the investor must specify the listingId of the property and the number of tokens he wishes to purchase.
+As parameters, the investor must specify the listingId of the property and the number of tokens they wish to purchase.
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXcNAe8uPmRxHVSmIeyzSGjKXEnPnwmSbsmogokC77M2CSbEarh8Rl5yukAmiPk-T1T4WDAIJytvV7OSDXeESB3hHNbHvfRAjR7_Lc6YDoSVZVpZVRiwwsi2aKXj8sibitjfiKkY4qVF8Tn-BW3GZ_LH3vs?key=7f9wZvyo4duGyV394DhzbQ" alt=""><figcaption></figcaption></figure>
 
 **6.0 Object sold**
 
-Once the property is sold, the SPV is created, the funds go to the real estate developer and the tokens are sent to the investors/buyers.
+Once all the property tokens have been sold, the SPV is created (by triggering an Oracle which connects to the Companies House API - this will be connected and functional in DFG milestone 2). Once the SPV has been created a lawyer is automatically appointed from the verified (having a valid KYC) lawyer pool to represent the SPV. A multisig is created so the Lawyer who represents the Real Estae Developer and the SPV Lawyer can sign the exchange and completion of contracts. Once the multisig has been signed the property token sale funds (less fees) go to the real estate developer and the tokens are sent to the investors/buyers.
 
 The real estate investors can offer the tokens on the marketplace again by calling the relistToken function.
 
