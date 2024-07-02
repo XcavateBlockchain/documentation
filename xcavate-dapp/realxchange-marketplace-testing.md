@@ -1,71 +1,123 @@
 # NFT Marketplace - Testing
 
-#### NFT Real Estate Marketplace testing with polkadot js as frontend
+NFT Real Estate Marketplace testing with polkadot js as frontend
 
 To interact with the NFT Real Estate Marketplace, all user must have already gone through the DID/KYC/KYB/AML (Kilt DID & Deloitte Verifiable Credentials) process (and be whitelisted) in order to be able to call the extrinsics of the marketplace.
 
-**1.0 Listing Object**
+At the moment, an account must be added to the xcavate whitelist by calling the add\_to\_whitelist function in the xcavate\_whitelist pallet. This can only be done by the sudo account.
 
-The listObject function must be called by the Real Estate Developer in order to list an object on the marketplace.
+**1.0 Create new Region**
 
-The price must be selected as a parameter. This is the total price of the real estate object. Each NFT corresponds to 1% of this price. The property is divided into 100 NFTs.
+Before users can list objects on the marketplace, a region must be created with the sudo account.
 
-The data is the metadata of the collection and the metadata of the individual NFT.
+This can be done by calling the createNewRegion function.
 
-<figure><img src="https://lh7-us.googleusercontent.com/qWJ7cwSyMl-wqD-WXPsh-Rb2OhBdt_pcFDcL6XHfOK6q_Rcm4ADB-q3GLQDFq_Mv_5xarBUp8feSnIrfPlGwS_x7MQv3b7CNtgv9RYaWI6B44JMCcipTuq6TjEzGc0Web18mlYMQCCKYT2f2__kXrg" alt=""><figcaption></figcaption></figure>
+A region represents a country.
+
+<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfN9N25usprEuTCkAV7DKHY-j4x2dif0ooMh7_8svWYWRxgQjqbcth5qsLfXv4wTTNV-iZ5zksV9B4jZUKaqq5I8MYPVHqLUIMpntabJugMhQnAvj1O17JYc2zc34qgW3_kKzLybFxvR3-AlH8?key=7f9wZvyo4duGyV394DhzbQ" alt=""><figcaption></figcaption></figure>
+
+**2.0 Create new Location**
+
+Once a region has been created, a location must be created in this region with the sudo account.
+
+To do this, the createNewLocation function must be called. The region is created as a parameter. The region is the region ID of the region. The location is the postcode of the location that should be created.
 
 \
-**2.0 Listed Object**
+A location represents a city in the country.
+
+<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXepxaDuaH9Pz6bYZw59UTgR_BYRgWfeNxqplT5AZD_NIH0omUSVYCoW_uzx9qbbkEAmFI9_9WoKtSUWB6L16kLTpTTT961ULUeAxIVp2I757qoW3Q5xDr52REalyuBMuqaDiMw7NhHU9km1dtxL001QxhA?key=7f9wZvyo4duGyV394DhzbQ" alt=""><figcaption></figcaption></figure>
+
+**3.0 Listing Object**
+
+The listObject function must be called by the real estate developer to list an object on the marketplace.
+
+The region is the region ID of the country in which the property is located.
+
+The location is the postcode of the city in which the property is located.
+
+The tokenPrice must be selected as a parameter. This is the price of a single token.
+
+The tokenAmount is the amount of token the property is divided in.
+
+The data is the metadata of the nft that represents the property.
+
+<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXctopF0J0MFFOQzMGcMbtI3I73J_SVToEa6uIQfVzBD_4INHuHWqbALSrCt3zNeAEh4s_l8qTqG5jwShdmydJYyRX5gPM4bgMjcCzsh84OzAJFGkX5up1QDQCP_h5U5DbI7qh1GFHYjm1gX13P0oTh4oYY?key=7f9wZvyo4duGyV394DhzbQ" alt=""><figcaption></figcaption></figure>
+
+**4.0 Listed Object**
 
 Once the object is listed, the user has the option to upgrade the price of the object.
 
 To do this, they must call the upgradeObject function.
 
-The collectionId is the collection ID of the listed object.
+The listingId is the listing ID of the listed object.
 
-The price is the updated price of the real estate object. All remaining listed NFT of the object will be updated accordingly.
+The newPrice is the updated price of the real estate object.
 
-<figure><img src="https://lh7-us.googleusercontent.com/35x4dZQnyUiz3-spg5c_QO1S7AB_peIppIAcyIUFf2PJzOFXbO_oVThoeF9ToiGmjYDkhhnRodfMt_ESPCpwEQCCOK8Hd-W6g8mcsw0xuHndggmcMuK4E1MyWUSyVmD0RcadFhB8xgVoPbKSotVKPQ" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXeg_8tWMoUE1GrhgGWm5zrnODVN2o27VybwXHUQHle20RHNrDmr3Z1k5JYc02Wm0nd5ioq3u3aqwQ5G4NG8JNyBW6Gnhjtd25b3xyY7KH5UcSLFXiHFrw0q7_imJAoVhpMBiZ_Y30xy-zjL5LP5rk3BPg?key=7f9wZvyo4duGyV394DhzbQ" alt=""><figcaption></figcaption></figure>
 
-\
-**3.0 Buying process**
+**5.0 Buying process**
 
-To buy NFTs, the real estate investor must call the function buyNft.
+To buy tokens the real estate investor must call the function buyToken.
 
-As parameters, the investor must specify the collectionID of the property and the number of NFTs he wishes to purchase.
+As parameters, the investor must specify the listingId of the property and the number of tokens he wishes to purchase.
 
-<figure><img src="https://lh7-us.googleusercontent.com/dTP4b7Q8Vd6tZ_DSFpLm09twEUaifRFvAh7ssSPijdKC4SwSsadByluMtTMlidGYLCz9e9DdfBqLVks-SC5FeU66lmtZoHtYB-GY9UhAn_7fJsWq_QvHaehxmeEYM8Az-VjhhNukKKOmyaHcowt_rA" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXcNAe8uPmRxHVSmIeyzSGjKXEnPnwmSbsmogokC77M2CSbEarh8Rl5yukAmiPk-T1T4WDAIJytvV7OSDXeESB3hHNbHvfRAjR7_Lc6YDoSVZVpZVRiwwsi2aKXj8sibitjfiKkY4qVF8Tn-BW3GZ_LH3vs?key=7f9wZvyo4duGyV394DhzbQ" alt=""><figcaption></figcaption></figure>
 
-\
-**4.0 Object sold**
+**6.0 Object sold**
 
-Once the property is sold, the SPV is created, the funds go to the real estate developer and the NFTs are sent to the investors/buyers.
+Once the property is sold, the SPV is created, the funds go to the real estate developer and the tokens are sent to the investors/buyers.
 
-The real estate investors can relist the NFTs on the marketplace by calling the listNft function.
+The real estate investors can offer the tokens on the marketplace again by calling the relistToken function.
 
-The collectionID of the object and the itemID of the NFT that the investor wants to list are required as parameters for this function. The price is the price of the individual NFT.
+As parameters, the investor must specify the regionId, itemId of the nft of the property, price and quantity of tokens they wish to sell.
 
-<figure><img src="https://lh7-us.googleusercontent.com/-Mj_3iZELIBnviHwIZLNZrDugVMI7iBNLzl69OVaLlAuAXGj81uFWVkdbV3ONnAraEhLx_-E7-5Ph9OUtikSSy9ndq1JrfUvhxQGbuEfJe09K3MMNXoaIyKQudAPWVOL-9gnD6ST_RZb4uveFw3MBA" alt=""><figcaption></figcaption></figure>
+The property is represented by an nft and the nft is represented by the tokens, which are fractions of the nft. For this extrinsic, the seller needs the nft ID of the property.
 
-\
+The tokenPrice is the price of a single token.
+
+<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdP0GIRxBRQgO4-IJZ9RnQpFDVT6ZlKDdCoJEUlwxiW1rdTc3hMguSgfXEB-y5ocDBNVZPNTTjhQef9hpMg4bzBO6orWNmDXP4JgV8BJoaXSqCQg6LiztkQ_MpDQQonozz7Ncy2nV8ahCGwQCOdAwMWHw?key=7f9wZvyo4duGyV394DhzbQ" alt=""><figcaption></figcaption></figure>
+
 After listing, the investor can upgrade the price by calling the upgradeListing function.
 
-The collectionID of the object and the itemID of the NFT that the investor wants to upgrade are required as parameters for this function. The newPrice is the price of the individual NFT to which the investor wishes to upgrade.
+The listingId of the listing is required as a parameter for this function. The newPrice is the price of a token.
 
-<figure><img src="https://lh7-us.googleusercontent.com/pRzWJLHLe_IIAd--1aQJFbsYkbOgSvtKFMpGMUO9uHSm1RAGV8mktyiNPxQ_BpwgIHXtnobfY1yaJrTrCfhN-byrQqt21bx-Ou4N_3V7tMxhXt6sMl8MUII-81B-QyoseODHYELHmRYoWzCnKKShzA" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXcPbgej4V4AWFhNVEFNXOpawlwgBUvfiIS5ASSdhUUGS9lDkZLJ9FFPUBNLTy9QhSvoQgIHJEAFvvQq_N9HVz0NGHwly61u4HqxmEWd8x7fMon0saFyKOG4216d6aiXFiBGTKN4oUdJMxWGlBL220hHo1Q?key=7f9wZvyo4duGyV394DhzbQ" alt=""><figcaption></figcaption></figure>
+
+To remove the newly listed tokens from the marketplace, the investor can call the delistToken function.
+
+The listsingId of the listing that the investor wishes to remove is required as a parameter for this function.
+
+<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXe5LAV1x38caKGvzNIhItCv6cMAXsnvhAbI7v4bX3xdSVNUi5tN5kcqznfNjoGGbBi4fug0OBZW_N4KLv1bzVjyoZ0ZmqvhRlmQFXkf0RrmtwduMmyeioQilj_0j_weLUSzlk58UfB-PP9RqtcNjQ6proA?key=7f9wZvyo4duGyV394DhzbQ" alt=""><figcaption></figcaption></figure>
+
+**7.0 Buy relisted tokens**
+
+To buy newly listed tokens, the buyer must call the function buyRelistedToken.
 
 \
-To remove the newly listed NFT from the marketplace, the investor can call the delistNft function.
+The parameters required for this function are the listingId from the listing that the buyer wishes to purchase and the amount of token he wants to buy.
 
-The collectionID of the object and the itemID of the NFT that the investor wants to remove are required as parameters for this function.
+<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXftfZlWiZQnvwhJaO1QtiVz73a3RUyJ8yhAQwLcHOu2hrd_dH2cMJWCPNu-Dv5IvCHUSzHe3SbRRZKr-3GfqE88ouQoOqJxkv0Gy2E2-EQYJduLQxwY586c8j5zjbM5LYE7VNH5e074eucB24Ou05wYXN4?key=7f9wZvyo4duGyV394DhzbQ" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://lh7-us.googleusercontent.com/om5aQV9ir9KdbSBdTBPbfnxlSCUUYEl-wAe4XaRVDfntE0BgHalDm1wvbPmH-gLi_T3RguaPr8dyYZG7opj9pcVZs2_E1uGGxm9F02HLl9rSb_X0nfgA6flNBg96wo92GPJLrnNCT8yCsYyGe9H8oQ" alt=""><figcaption></figcaption></figure>
+**8.0 Make Offer**
+
+As an alternative a user can create an offer for a token listing by calling the makeOffer function.
 
 \
-**5.0 Buy a relisted NFT**
+As parameters the listing id of the token listing, the token price for a token and the amount of token the user wants to buy are required.
 
-To buy a relisted NFT, the buyer must call the function buySingleNft.
+<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdeUKXz2lxgGNcLJf4JZZ8FYzqO75DxudkY3EpPersgIADFjhhVNBYPCXQS3tktRxr3GCu-C8aD2A_vW2A7SFU9PV8eMlGdFZWf2wRcXvJrj5dDtFSfqYOuCk9SX55gd5JwzKGwB25sB_tjTu5g17whFRo?key=7f9wZvyo4duGyV394DhzbQ" alt=""><figcaption></figcaption></figure>
 
-The collectionID of the object and the itemID of the NFT that the buyer wishes to purchase are required as parameters for this function.
+The seller of the token has now the option to either accept or reject the offer by calling the handleOffer function.
 
-<figure><img src="https://lh7-us.googleusercontent.com/RpHSeuM9tgh4EEBecquZY9Dj9hzLYCoOXcPbOsHe5fSN_Ax5Uk3fDsQVOPxPFa4lMlcYV77bPP8C0GhU0lqUF_6zS98ktyWrcQZDXRBujqNXN8s4hzksegFBJdIzilzQK_1KaCQ-mb9ZB3Z5FUL6xw" alt=""><figcaption></figcaption></figure>
+The listingId, the offerId and the enum Offer with the choices Accept or Reject are required as parameters.
+
+\
+In case the seller rejects the offer the funds that have been blocked from the user that made the offer will be released again.
+
+<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXeNglqMDHM2YmG4McC1G5dhuTCOQpfKKDKqRBhN3efpnKqfVkCCd4Cjd_DmkInGk_YNJZpZGBFX6XY3gboALWzPFdchGfQMEjwU-pK2C8G73y3OW2zqFFK8lwunc1kvuXzu-phD08foljR9eaq_64g8IKM?key=7f9wZvyo4duGyV394DhzbQ" alt=""><figcaption></figcaption></figure>
+
+The user that made the offer can cancel the offer anytime as long as the seller did not handle the offer, by calling the cancelOffer function.
+
+As parameters the listingId and the offerId are needed.
+
+<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdvq6lc6KfYi4IkT-CbXqom7BY61qmhrEmbXT3p6iKyAsD5b-H-MGGzGBHEgQhr52VgaQTAkOft8_GWsJPf7YlKfGRGy2qYEhpVFgAishZovuzpbLa7xuSVhuNHAWJ9vszvZNwz0Pk2edomK3aj2YmuHg?key=7f9wZvyo4duGyV394DhzbQ" alt=""><figcaption></figcaption></figure>
