@@ -8,6 +8,7 @@
   * [Xcavate dApp User Journey](user-instructions/xcavate-dapp-user-journey.md)
   * [NFT Marketplace - Testing](testing/realxchange-marketplace-testing.md)
   * [Property Management - Testing](xcavate-dapp/property-management-testing.md)
+  * [Property Governance - Testing](xcavate-dapp/property-governance-testing.md)
   * [Xcavate Technical Diagram](xcavate-dapp/xcavate-technical-diagram.md)
 * [realXdeal game](realxdeal-game/README.md)
   * [Introduction](realxdeal-game/introduction.md)
