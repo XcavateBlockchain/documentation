@@ -10,6 +10,7 @@
   * [Property Management - Testing](xcavate-dapp/property-management-testing.md)
   * [Property Governance - Testing](xcavate-dapp/property-governance-testing.md)
   * [Xcavate Technical Diagram](xcavate-dapp/xcavate-technical-diagram.md)
+* [DIP verification testing](dip-verification-testing.md)
 * [realXdeal game](realxdeal-game/README.md)
   * [Introduction](realxdeal-game/introduction.md)
   * [User instructions](realxdeal-game/user-instructions.md)
@@ -24,4 +25,3 @@
   * [Xcavate Community Loan Pallet - Testing](testing/xcavate-community-loan-pallet-testing.md)
   * [Xcavate Staking Pallet - Testing](testing/xcavate-staking-pallet-testing.md)
   * [Running the node](testing/running-the-node.md)
-* [DIP verification testing](dip-verification-testing.md)
