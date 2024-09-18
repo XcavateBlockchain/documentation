@@ -24,3 +24,4 @@
   * [Xcavate Community Loan Pallet - Testing](testing/xcavate-community-loan-pallet-testing.md)
   * [Xcavate Staking Pallet - Testing](testing/xcavate-staking-pallet-testing.md)
   * [Running the node](testing/running-the-node.md)
+* [DIP verification testing](dip-verification-testing.md)
