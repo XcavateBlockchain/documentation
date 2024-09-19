@@ -100,6 +100,8 @@ Property owners vote on each stage of a challenge against a letting agent.
   * challengeId: ID of the challenge
   * vote: Enum (yes or no)
 
+Note: Token owners must vote for each stage (except stage 2) individually. If a stage has at least 50% no votes, the challenge will be removed. To successfully remove a landlord, each stage must have enough Yes votes.
+
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdgsTmKZf-2s60acDYBfWVMCKD3g_JwDtde40Lamzgc1clDi_U_20MG7qnTr3g_kxL9n71RIHNYBtWdLoaqI1xUQr8PS9yWVh3n0gtqDH6Tf3ZSeJfqFkRipkwKj7pn53Zp-PAPBJgyX0-lKVtcUosjNM0?key=2-QFkm8ErZXNIzbRKvUpWw" alt=""><figcaption></figcaption></figure>
 
 Note: View challenge status: Query challenges in chain state.
