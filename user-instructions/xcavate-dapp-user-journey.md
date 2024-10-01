@@ -23,20 +23,39 @@ There are currently four types of user accounts. If a user has passed KYC, KYB &
 
 **2.1 Real Estate Developer**
 
-Test Account 4 = Bob Builder (Real Estate Developer)... he has already been KYC, KYB (for his company) & AML checked so his account is active.
+Once the user account button has been clicked, then an account is created, which corresponds with a user DID.
+
+
 
 \
-Once you have setup Bob’s Sporran & Talisman / Polkadot.js wallet then you can connect to his account.
+The account creator can add a company DID and other team mates.
 
 <figure><img src="https://lh7-us.googleusercontent.com/YuSSUiwKe2MN8Ml8XFklkkyOjh2ZHR_xT7pfyZtst6fqVQj-ntW6YjvDs7Hie2ztz4sdoiHYmwodj3Nd23trdLFDuxWwwYmD0Vff-nJAOrkSNY-d_oR10C8CzJlLN2i9eEIozz7jsDBf8BPTmN5yog" alt=""><figcaption></figcaption></figure>
 
+**2.11 Adding a property**
+
+A real estate developer can add a property by clicking the "add property" button and filling in the form. A partially completed form will be saved and can be edited at any time.
+
+Once all the fields have been completed and the "list" button clicked the property will be verified.
+
+If there is a problem then a field may need to be amended prior to resubmitting.
+
+
+
 **2.2 Real Estate Investor**
 
-\
-Test Account 5 = Alice (Real Estate Investor)... she has already been KYC & AML checked so her account is active.
+Once the user account button has been clicked, then an account is created, which corresponds with a user DID.
+
+
+
+**2.3 Letting Agent**
+
+Once the user account button has been clicked, then an account is created, which corresponds with a user DID.
+
+
 
 \
-Once you have setup Alice’s Sporran & Talisman / Polkadot.js wallet then you can connect to her account.
+The account creator can add a company DID and other team mates.
 
 <figure><img src="https://lh7-us.googleusercontent.com/peJOhjRfoVeZnOYROe2ZiJpAcPZ3NVE7hvZHso4eB_p-OeUoWouwEq-jVr5Ie5oAegahG_Sr3O4I1huKFn8Jb36g1PgFIJQYpaGq2IqjVQ-Q4-QGo2BSeIUuukGiT-es44QeAi_BJwxjsAMxp5ZCOA" alt=""><figcaption></figcaption></figure>
 
