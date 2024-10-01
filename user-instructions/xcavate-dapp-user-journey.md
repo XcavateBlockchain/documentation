@@ -1,26 +1,23 @@
-# Xcavate dApp User Journey
+---
+description: This is a step-by-step guide detailing all aspects of the user journey.
+---
 
-All users should land on the homepage to start their journey. This page explains the purpose of the dApp and the different property NFTs available.
+# realXmarket user journey
 
-<figure><img src="https://lh7-us.googleusercontent.com/RBczsQsXhaqYKTvU30wPO2It5FXpq1vVwKrE71EqpDoa0CNq7-w0f0CDE-y4_atU3F2PehVns_pnxOhYXLNwYIFTFH03oY4ppNj-LPZXkUykbsU5HVMQd6hPy7mfy8vhamSq72iUnkgt5M9ocTA_RQ" alt=""><figcaption></figcaption></figure>
+Any page users land on will direct them to having the correct credentials. For the purpose of this documentation we have used the homepage to start their journey. This page explains the purpose of the dApp and the key stages throughout the process.
 
-**1.0 Connecting Wallets**
+**1.0 User Verification**
 
-To interact with the Xcavate dApp, the Real Estate Developer and all other user must have already gone through the DID/KYC/KYB/AML (Kilt DID & Deloitte Verifiable Credentials) process (and be whitelisted - this is a work around until the Kilt DIP pallet is active) in order to be able to call the extrinsics of the Community Loan pallet, NFT Marketplace pallet & Staking pallet.
+To interact with the realXmarket dApp, all users must have already gone through the DID/KYC/KYB/AML process (through a regulated verifiable provider) in order to be able to call any functions or submit any transactions.
 
-\
-We have created a number of test accounts with DID’s and verifiable credentials.
+<figure><img src="../.gitbook/assets/Landing page.jpg" alt=""><figcaption></figcaption></figure>
 
-\
-Please go to this page [(click this link)](https://github.com/BTE-Trusted-Entity/sporran-extension/blob/main/docs/external.md) to set up the Sporran wallet / DIDs / Credentials prior to proceeding.
-
-\
-You will also need to create Talisman or Polkadot.js wallets from the seed phrases.
+<figure><img src="../.gitbook/assets/Verify-Your-Personal-KYC-Credential.jpg" alt=""><figcaption></figcaption></figure>
 
 \
 **2.0 User Accounts**
 
-There are four types of user accounts. If a user has passed KYC, KYB & AML then they choose an account.
+There are currently four types of user accounts. If a user has passed KYC, KYB & AML then they choose an account type.
 
 <figure><img src="https://lh7-us.googleusercontent.com/GxKa_EK-AfdRUkXgtqymeeflIKIeyWnrOfz7IK4Mz-vlZRsoA4_f7iknm74J0WVbyo16mo-Y8iTUzZ-yBaSUkfJcGpphGyEAd8reoLu17Ja5HTRgmJNsZ1aTjXz4GJWgk8hqVBNaY9cWPsFqTwipOQ" alt=""><figcaption></figcaption></figure>
 
