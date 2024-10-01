@@ -36,9 +36,11 @@ The account creator can add a company DID and other team mates.
 
 A real estate developer can add a property by clicking the "add property" button and filling in the form. A partially completed form will be saved and can be edited at any time.
 
-Once all the fields have been completed and the "list" button clicked the property will be verified.
+Once all the fields have been completed and the "list" button clicked the property will be verified using several preconfigured oracles.
 
 If there is a problem then a field may need to be amended prior to resubmitting.
+
+If all checks have passed, then the property will appear in the marketplace and the property tokens are available to be purchased.
 
 
 
