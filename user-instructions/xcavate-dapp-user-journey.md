@@ -57,6 +57,17 @@ Once the user account button has been clicked, then an account is created, which
 \
 The account creator can add a company DID and other team mates.
 
+
+
+**2.4 Legal Representative**
+
+Once the user account button has been clicked, then an account is created, which corresponds with a user DID.
+
+
+
+\
+The account creator can add a company DID and other team mates.
+
 <figure><img src="https://lh7-us.googleusercontent.com/peJOhjRfoVeZnOYROe2ZiJpAcPZ3NVE7hvZHso4eB_p-OeUoWouwEq-jVr5Ie5oAegahG_Sr3O4I1huKFn8Jb36g1PgFIJQYpaGq2IqjVQ-Q4-QGo2BSeIUuukGiT-es44QeAi_BJwxjsAMxp5ZCOA" alt=""><figcaption></figcaption></figure>
 
 **3.0 NFT Marketplace**
