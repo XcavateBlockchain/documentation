@@ -10,7 +10,6 @@
   * [Property Management - Testing](xcavate-dapp/property-management-testing.md)
   * [Property Governance - Testing](xcavate-dapp/property-governance-testing.md)
   * [Xcavate Technical Diagram](xcavate-dapp/xcavate-technical-diagram.md)
-  * [realXmarket](xcavate-dapp/realxmarket.md)
 * [DIP verification testing](dip-verification-testing.md)
 * [realXdeal game](realxdeal-game/README.md)
   * [Introduction](realxdeal-game/introduction.md)
