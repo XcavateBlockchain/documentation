@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Whitelist Pallet - Testing](whitelist-pallet-testing.md)
 * [realXmarket](xcavate-dapp/README.md)
-  * [Xcavate property marketplace user flow](xcavate-dapp/xcavate-dapp-user-flow.md)
+  * [realXmarket user flow](xcavate-dapp/xcavate-dapp-user-flow.md)
   * [Xcavate dApp Test Accounts](user-instructions/xcavate-dapp-test-accounts.md)
   * [Xcavate dApp User Journey](user-instructions/xcavate-dapp-user-journey.md)
   * [NFT Marketplace - Testing](testing/realxchange-marketplace-testing.md)
