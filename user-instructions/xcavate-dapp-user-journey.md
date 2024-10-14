@@ -19,13 +19,11 @@ To interact with the realXmarket dApp, all users must have already gone through 
 
 There are currently four types of user accounts. If a user has passed KYC, KYB & AML then they choose an account type.
 
-<figure><img src="https://lh7-us.googleusercontent.com/GxKa_EK-AfdRUkXgtqymeeflIKIeyWnrOfz7IK4Mz-vlZRsoA4_f7iknm74J0WVbyo16mo-Y8iTUzZ-yBaSUkfJcGpphGyEAd8reoLu17Ja5HTRgmJNsZ1aTjXz4GJWgk8hqVBNaY9cWPsFqTwipOQ" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Select_user_type_1 (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **2.1 Real Estate Developer**
 
 Once the user account button has been clicked, then an account is created, which corresponds with a user DID.
-
-<figure><img src="../.gitbook/assets/Select_user_type_1 (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 \
 The account creator can add a company DID and other team mates.
@@ -34,7 +32,9 @@ The account creator can add a company DID and other team mates.
 
 **2.11 Adding a property**
 
-A real estate developer can add a property by clicking the "add property" button and filling in the form. A partially completed form will be saved and can be edited at any time.
+A real estate developer can add a property by clicking the "add property" button and filling in the form.&#x20;
+
+A partially completed form will be saved and can be edited at any time.
 
 Once all the fields have been completed and the "list" button clicked the property will be verified using several preconfigured oracles.
 
@@ -73,3 +73,41 @@ The account creator can add a company DID and other team mates.
 All the properties listed (passed price, ownership & planning permission Oracle checks) appear on the marketplace.
 
 <figure><img src="../.gitbook/assets/Marketplace (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+**3.1 Explore property details**
+
+Each individual property can be clicked on to expand on its full details.
+
+(insert image of property details)
+
+**3.2 Purchase property tokens**
+
+Once an investor has made a decision to purchase some property tokens they click the "buy" button and select the number of tokens they wish to purchase.
+
+(insert image of purchase modal)
+
+**3.3 Property token sale**
+
+If its the first time the property has been listed, then all of the property tokens will need to be purchased before the Special Purpose Vehicle (SPV) can be created.
+
+**3.4 Property token refund**
+
+Should all of the tokens not be sold within a specified time period (30 days). Then the funds will be returned to the buyers and the tokens burnt.
+
+**4.0 Legal process**
+
+Once the last property token(s) have been purchased an API creates a Limited Liability Partnership (LLP), which is the legal entity that owns the property. All the property token holders are the legal partners in that company and can vote on all property ownership based decisions.
+
+**5.0 Letting process**
+
+Once the SPV has been created a letting agent can "claim" the property and rent it out on behalf of the property token holders SPV.
+
+**6.0 Property Management**
+
+Contracts are electronically signed between the Letting Agent and the SPV.
+
+**6.1 Property voting**
+
+All property token holders based on their token holding can vote on all decisions of the property management.
+
+A property token holder can propose a vote based on certain criteria.
