@@ -25,12 +25,12 @@ There are currently four types of user accounts. If a user has passed KYC, KYB &
 
 Once the user account button has been clicked, then an account is created, which corresponds with a user DID.
 
-
+<figure><img src="../.gitbook/assets/Select_user_type_1 (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 \
 The account creator can add a company DID and other team mates.
 
-<figure><img src="https://lh7-us.googleusercontent.com/YuSSUiwKe2MN8Ml8XFklkkyOjh2ZHR_xT7pfyZtst6fqVQj-ntW6YjvDs7Hie2ztz4sdoiHYmwodj3Nd23trdLFDuxWwwYmD0Vff-nJAOrkSNY-d_oR10C8CzJlLN2i9eEIozz7jsDBf8BPTmN5yog" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Company.png" alt=""><figcaption></figcaption></figure>
 
 **2.11 Adding a property**
 
@@ -42,19 +42,17 @@ If there is a problem then a field may need to be amended prior to resubmitting.
 
 If all checks have passed, then the property will appear in the marketplace and the property tokens are available to be purchased.
 
-
+<figure><img src="../.gitbook/assets/Add properties.png" alt=""><figcaption></figcaption></figure>
 
 **2.2 Real Estate Investor**
 
 Once the user account button has been clicked, then an account is created, which corresponds with a user DID.
 
-
+<figure><img src="../.gitbook/assets/investor Profile.png" alt=""><figcaption></figcaption></figure>
 
 **2.3 Letting Agent**
 
 Once the user account button has been clicked, then an account is created, which corresponds with a user DID.
-
-
 
 \
 The account creator can add a company DID and other team mates.
@@ -65,15 +63,13 @@ The account creator can add a company DID and other team mates.
 
 Once the user account button has been clicked, then an account is created, which corresponds with a user DID.
 
-
-
 \
 The account creator can add a company DID and other team mates.
 
-<figure><img src="https://lh7-us.googleusercontent.com/peJOhjRfoVeZnOYROe2ZiJpAcPZ3NVE7hvZHso4eB_p-OeUoWouwEq-jVr5Ie5oAegahG_Sr3O4I1huKFn8Jb36g1PgFIJQYpaGq2IqjVQ-Q4-QGo2BSeIUuukGiT-es44QeAi_BJwxjsAMxp5ZCOA" alt=""><figcaption></figcaption></figure>
+
 
 **3.0 NFT Marketplace**
 
-All the properties listed (passed price, ownership & planning permission Oracle checks) appear on the marketplace.\\
+All the properties listed (passed price, ownership & planning permission Oracle checks) appear on the marketplace.
 
-<figure><img src="https://lh7-us.googleusercontent.com/-QoqsQWkejn15pV7459OaiD7rOE2N0KaUNSQ9rCdicMpDVJbaulzdyK6vmNCk6-WDXpxeOVhI_sbUDrFgLQPVcYQjZrtCIR911IFQmyEHBZVtzh9Re6HfIYEOBmBCQZTcw9nqAqQhGQ_5tsassJNTQ" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Marketplace (1) (1).png" alt=""><figcaption></figcaption></figure>
