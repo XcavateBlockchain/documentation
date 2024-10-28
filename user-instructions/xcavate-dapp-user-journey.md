@@ -8,7 +8,7 @@ Any page users land on will direct them to having the correct credentials. For t
 
 **1.0 User Verification**
 
-To interact with the realXmarket dApp, all users must have already gone through the DID/KYC/KYB/AML process (through a regulated verifiable provider) in order to be able to call any functions or submit any transactions.
+To interact with the realXmarket dApp, all users must have already gone through the DID/KYC/KYB/AML process (through a regulated verifiable provider) in order to be able to call any function or submit any transaction.
 
 <figure><img src="../.gitbook/assets/Landing page.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -17,7 +17,9 @@ To interact with the realXmarket dApp, all users must have already gone through 
 \
 **2.0 User Accounts**
 
-There are currently four types of user accounts. If a user has passed KYC, KYB & AML then they choose an account type.
+There are currently four types of user accounts. If a user type button is clicked for the first time, then the user is prompted to connect / create a Digital Identifier (DID), which is attributed to their user account. Once a DID has been set then a user needs to pass an independent KYC & AML process through an accredited partner.
+
+A returning user will simply be logged in and directed to their profile.
 
 <figure><img src="../.gitbook/assets/Select_user_type_1 (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -26,7 +28,7 @@ There are currently four types of user accounts. If a user has passed KYC, KYB &
 Once the user account button has been clicked, then an account is created, which corresponds with a user DID.
 
 \
-The account creator can add a company DID and other team mates.
+The account creator can add a company DID and other team mates. Once a company DID has been set then the company needs to pass an independent KYB & AML process through an accredited partner.
 
 <figure><img src="../.gitbook/assets/Company.png" alt=""><figcaption></figcaption></figure>
 
@@ -55,9 +57,15 @@ Once the user account button has been clicked, then an account is created, which
 Once the user account button has been clicked, then an account is created, which corresponds with a user DID.
 
 \
-The account creator can add a company DID and other team mates.
+The account creator can add a company DID and other team mates. Once a company DID has been set then the company needs to pass an independent KYB & AML process through an accredited partner.
 
-\*\*\* add screenshot of letting account \*\*\*
+<figure><img src="../.gitbook/assets/Letting agent add Company - Team.png" alt=""><figcaption></figcaption></figure>
+
+**2.31 Letting process**
+
+Once the SPV has been created a verified letting agent can "claim" the property and rent it out on behalf of the property token holders SPV.
+
+<figure><img src="../.gitbook/assets/Letting process.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -66,7 +74,7 @@ The account creator can add a company DID and other team mates.
 Once the user account button has been clicked, then an account is created, which corresponds with a user DID.
 
 \
-The account creator can add a company DID and other team mates.
+The account creator can add a company DID and other team mates. Once a company DID has been set then the company needs to pass an independent KYB & AML process through an accredited partner.
 
 \*\*\* add screenshot of lawyer account \*\*\*
 
@@ -88,7 +96,7 @@ Each individual property can be clicked on to expand on its full details.
 
 Once an investor has made a decision to purchase some property tokens they click the "buy" button and select the number of tokens they wish to purchase.
 
-\*\*\* add image of purchase modal \*\*\*
+<figure><img src="../.gitbook/assets/Payment summary.png" alt=""><figcaption></figcaption></figure>
 
 **3.3 Property token sale**
 
@@ -96,34 +104,30 @@ If its the first time the property has been listed, then all of the property tok
 
 **3.4 Property token refund**
 
-Should all of the tokens not be sold within a specified time period (30 days). Then the funds will be returned to the buyers and the tokens burnt.
+Should all of the tokens not be sold within a specified time period (initially set at 30 days). Then the funds will be returned to the buyers and the tokens burnt.
 
 **4.0 Legal process**
 
-Once the last property token(s) have been purchased an API creates a Limited Liability Partnership (LLP), which is the legal entity that owns the property. All the property token holders are the legal partners in that company and can vote on all property ownership based decisions.
+Once the last property token(s) have been purchased an API creates a Special Purpose Vehicle (SPV), which is a Limited Liability Partnership (LLP), this is the legal entity that owns the property. All the property token holders are the legal partners in that company and can vote on all property ownership based decisions.
 
-**5.0 Letting process**
-
-Once the SPV has been created a letting agent can "claim" the property and rent it out on behalf of the property token holders SPV.
-
-**6.0 Property Management**
+**5.0 Property Management**
 
 Contracts are electronically signed between the Letting Agent and the SPV.
 
-**6.1 Rental income distribution**
+**5.1 Rental income distribution**
 
-The first months rental for a property (less fees) is deposited by the letting agent. The is to be used as a float to pay for costs relating to the day to day running of the property. All other months rental income is to be distributed to the property token holders wallets based on the number of tokens they hold.
+The first months rental for a property (less fees) is deposited by the letting agent. The is to be used as a SPV treasury fund to pay for costs relating to the day to day running of the property. All other months rental income is to be distributed to the property token holders wallets based on the number of tokens they hold.
 
-**6.2 Property voting**
+**5.2 Property voting**
 
-All property token holders based on their token holding can vote on all decisions of the property management over and above a pre-determined threshold (initially defaulted to £500).
+All property token holders based on their token holding can vote on all decisions of the property management over and above a pre-determined threshold (initially set to £500).
 
 A property token holder can propose a vote based on certain criteria.
 
-**7.0 Secondary Market**
+**6.0 Secondary Market**
 
 Any property token holder can re-list the property tokens back on to the realXmarket within the pre-determined lower and upper price band based on current market value.
 
 Potential buyers can then make offers to the seller.
 
-The sale is concluded once an offer has been accepted.
+The sale is concluded once an offer has been accepted by the seller.
