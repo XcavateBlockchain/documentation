@@ -57,6 +57,8 @@ Once the user account button has been clicked, then an account is created, which
 \
 The account creator can add a company DID and other team mates.
 
+\*\*\* add screenshot of letting account \*\*\*
+
 
 
 **2.4 Legal Representative**
@@ -65,6 +67,8 @@ Once the user account button has been clicked, then an account is created, which
 
 \
 The account creator can add a company DID and other team mates.
+
+\*\*\* add screenshot of lawyer account \*\*\*
 
 
 
@@ -78,13 +82,13 @@ All the properties listed (passed price, ownership & planning permission Oracle 
 
 Each individual property can be clicked on to expand on its full details.
 
-(insert image of property details)
+<figure><img src="../.gitbook/assets/Properties details.png" alt=""><figcaption></figcaption></figure>
 
 **3.2 Purchase property tokens**
 
 Once an investor has made a decision to purchase some property tokens they click the "buy" button and select the number of tokens they wish to purchase.
 
-(insert image of purchase modal)
+\*\*\* add image of purchase modal \*\*\*
 
 **3.3 Property token sale**
 
@@ -106,8 +110,20 @@ Once the SPV has been created a letting agent can "claim" the property and rent 
 
 Contracts are electronically signed between the Letting Agent and the SPV.
 
-**6.1 Property voting**
+**6.1 Rental income distribution**
 
-All property token holders based on their token holding can vote on all decisions of the property management.
+The first months rental for a property (less fees) is deposited by the letting agent. The is to be used as a float to pay for costs relating to the day to day running of the property. All other months rental income is to be distributed to the property token holders wallets based on the number of tokens they hold.
+
+**6.2 Property voting**
+
+All property token holders based on their token holding can vote on all decisions of the property management over and above a pre-determined threshold (initially defaulted to £500).
 
 A property token holder can propose a vote based on certain criteria.
+
+**7.0 Secondary Market**
+
+Any property token holder can re-list the property tokens back on to the realXmarket within the pre-determined lower and upper price band based on current market value.
+
+Potential buyers can then make offers to the seller.
+
+The sale is concluded once an offer has been accepted.
