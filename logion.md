@@ -22,7 +22,7 @@ The identity then needs to be verified by a legal officer
 
 A verified digital identity can then create a collection. This contains the data on the asset as well as associated documents.
 
-<figure><img src=".gitbook/assets/image0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image1 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% file src=".gitbook/assets/property-test.csv" %}
 
@@ -36,7 +36,7 @@ Both public and private documents can be added to the collection
 
 The appointed legal officer then reviews the documentation.
 
-\* **add a screenshot** \*
+<figure><img src=".gitbook/assets/image0.png" alt=""><figcaption></figcaption></figure>
 
 **4.0 Certificate issued**
 
