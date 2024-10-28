@@ -40,6 +40,6 @@ The appointed legal officer then reviews the documentation.
 
 **4.0 Certificate issued**
 
-If all checks pass then a legal officer certificate is created.
+If all checks pass then a legal officer case certificate is created.
 
 <figure><img src=".gitbook/assets/screencapture-test-app-logion-network-public-certificate-255965062182744311246443426991058902563-2024-10-28-12_25_34.png" alt=""><figcaption></figcaption></figure>
