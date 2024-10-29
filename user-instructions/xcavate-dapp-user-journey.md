@@ -78,7 +78,19 @@ The account creator can add a company DID and other team mates. Once a company D
 
 \*\*\* add screenshot of lawyer account \*\*\*
 
+**2.41 Claiming property**
 
+Once the SPV has been created then all verified lawyers can claim a property to represent either the real estate developer or the SPV but not both at the same time.
+
+**2.42 Review Property Documentation**
+
+Both lawyer review the property documentation and vote to complete the sale through the exchange of contracts.
+
+**2.43 Distribution of funds and tokens**
+
+Once the vote has been cast and both lawyers have voted to complete the transaction, then all the property tokens are distributed to the investors and the funds are distributed to the real estate developer (less fees and taxes).
+
+Should the vote not be agreed, then the funds are returned to the investors and the property tokens are locked.
 
 **3.0 NFT Marketplace**
 
