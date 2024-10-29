@@ -90,7 +90,7 @@ Both lawyer review the property documentation and vote to complete the sale thro
 
 Once the vote has been cast and both lawyers have voted to complete the transaction, then all the property tokens are distributed to the investors and the funds are distributed to the real estate developer (less fees and taxes).
 
-Should the vote not be agreed, then the funds are returned to the investors and the property tokens are locked.
+Should the vote not be agreed, then the funds are returned to the investors and the property tokens are burnt.
 
 **3.0 NFT Marketplace**
 
