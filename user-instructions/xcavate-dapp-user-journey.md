@@ -32,7 +32,7 @@ The account creator can add a company DID and other team mates. Once a company D
 
 <figure><img src="../.gitbook/assets/Company.png" alt=""><figcaption></figcaption></figure>
 
-**2.11 Adding a property**
+**2.1.1 Adding a property**
 
 A real estate developer can add a property by clicking the "add property" button and filling in the form.&#x20;
 
@@ -61,7 +61,7 @@ The account creator can add a company DID and other team mates. Once a company D
 
 <figure><img src="../.gitbook/assets/Letting agent add Company - Team.png" alt=""><figcaption></figcaption></figure>
 
-**2.31 Letting process**
+**2.3.1 Letting process**
 
 Once the SPV has been created a verified letting agent can "claim" the property and rent it out on behalf of the property token holders SPV.
 
@@ -78,15 +78,15 @@ The account creator can add a company DID and other team mates. Once a company D
 
 \*\*\* add screenshot of lawyer account \*\*\*
 
-**2.41 Claiming property**
+**2.4.1 Claiming property**
 
 Once the SPV has been created then all verified lawyers can claim a property to represent either the real estate developer or the SPV but not both at the same time.
 
-**2.42 Review Property Documentation**
+**2.4.2 Review Property Documentation**
 
 Both lawyer review the property documentation and vote to complete the sale through the exchange of contracts.
 
-**2.43 Distribution of funds and tokens**
+**2.4.3 Distribution of funds and tokens**
 
 Once the vote has been cast and both lawyers have voted to complete the transaction, then all the property tokens are distributed to the investors and the funds are distributed to the real estate developer (less fees and taxes).
 
