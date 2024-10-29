@@ -10,17 +10,19 @@ description: >-
 
 Initially we created an identity based on a real estate developer
 
-\* **add a screenshot** \*
+<figure><img src=".gitbook/assets/screencapture-test-app-logion-network-user-loc-identity-request-2024-10-29-05_12_30.png" alt=""><figcaption></figcaption></figure>
 
 **1.1 Verify Digital Identity**
 
 The identity then needs to be verified by a legal officer
 
-\* **add a screenshot** \*
+<figure><img src=".gitbook/assets/screencapture-test-app-logion-network-user-loc-identity-e393ba4a-163d-42ad-a723-d17c31d71521-2024-10-29-05_13_40.png" alt=""><figcaption></figcaption></figure>
 
 **2.0 Create a collection**
 
 A verified digital identity can then create a collection. This contains the data on the asset as well as associated documents.
+
+<figure><img src=".gitbook/assets/screencapture-test-app-logion-network-user-loc-collection-request-2024-10-29-05_14_06.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image1 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -30,13 +32,15 @@ A verified digital identity can then create a collection. This contains the data
 
 Both public and private documents can be added to the collection
 
-\* **add a screenshot** \*
+
 
 **3.0 Legal officer reviews the documentation**
 
 The appointed legal officer then reviews the documentation.
 
 <figure><img src=".gitbook/assets/image0.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/screencapture-test-app-logion-network-user-loc-collection-c09113ea-88f0-4226-bcd9-04ca645ade23-2024-10-29-05_14_38.png" alt=""><figcaption></figcaption></figure>
 
 **4.0 Certificate issued**
 
