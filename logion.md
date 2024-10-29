@@ -32,7 +32,7 @@ A verified digital identity can then create a collection. This contains the data
 
 Both public and private documents can be added to the collection
 
-
+<figure><img src=".gitbook/assets/screencapture-test-app-logion-network-user-loc-collection-4232efff-a7a2-4ccb-a4ea-1d3ddfaa5145-2024-10-29-09_49_47.png" alt=""><figcaption></figcaption></figure>
 
 **3.0 Legal officer reviews the documentation**
 
