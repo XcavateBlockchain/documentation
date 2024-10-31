@@ -63,7 +63,43 @@ As parameters, the investor must specify the listingId of the property and the n
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXcNAe8uPmRxHVSmIeyzSGjKXEnPnwmSbsmogokC77M2CSbEarh8Rl5yukAmiPk-T1T4WDAIJytvV7OSDXeESB3hHNbHvfRAjR7_Lc6YDoSVZVpZVRiwwsi2aKXj8sibitjfiKkY4qVF8Tn-BW3GZ_LH3vs?key=7f9wZvyo4duGyV394DhzbQ" alt=""><figcaption></figcaption></figure>
 
-**6.0 Object sold**
+**6.0 Lawyer process**
+
+A lawyer must first be registered by the sudo account.
+
+This is done by calling the registerLawyer function with the lawyer’s account ID as a parameter.
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc-Fj09Cx9WZgOVQDb57HJ1D4_wsm4zjlZb_Xim1qxIp2ApBVY6oRti_gBK3E_iWV-VoDJyjzR2EbXxLcg9FbMsPt3PLZ612wPK-M006Wb8C8BaW7MuR1CIvonvGYHrjyhaYdeOKo36eyNgmBh_Wlq0APVZ?key=7f9wZvyo4duGyV394DhzbQ" alt=""><figcaption></figcaption></figure>
+
+Once all tokens of a property are sold, the lawyers can claim the property to manage the process.
+
+Two lawyers are needed for a property transaction: one lawyer to represent the real estate investor’s side (SPV) and one lawyer to represent the real estate developer. This process requires two different lawyers, as it would be illegal for both sides to be represented by the same lawyer.
+
+To take on the case, a lawyer must call the lawyerClaimProperty function.
+
+The listingId is the ID of the listed object.
+
+The legalSite is either RealEstateDeveloperSite or SpvSite.
+
+The costs represent the lawyer’s fees, which cannot exceed 1% of the property price.
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdXw64Cf_D53e6DHu7Pw-y8DfT0UaMZHFC6SpJJiROrUX4XOs57vMCN0QOSzcuDAu4nwCF82Hk7wr928S9d1cpSIrMAMVFsbh9LoMLJedZDMpz7fJcF9YV1ZJz0mSlMvoknX_J5eLH06rV4EFYY5sVZMo65?key=7f9wZvyo4duGyV394DhzbQ" alt=""><figcaption></figcaption></figure>
+
+Once the lawyer completes the legal work, he needs to call the lawyerConfirmDocuments function.
+
+The listingId is the ID of the listed object.
+
+Approve is a boolean value. A value of true means the documents are approved and the process can be finalised. A value of false means the process cannot be finalised, and the lawyer wishes to cancel the process.
+
+Both lawyers need to confirm the process with true. Once this happens, the tokens will be distributed to the real estate investors. The fees will go to the treasury, and the lawyer's costs will be paid to the lawyer, including the 3% tax.
+
+If one lawyer confirms with true and the other confirms with false, there will be a second round where the lawyers must confirm again. If they provide two different answers again, the process will be rejected and not finalized.
+
+If both lawyers call the function with false, the process will be rejected and not finalized. This means that the NFTs and tokens will be burned. Additionally, the funds will be returned to the investors, including the 3% tax. Only the 1% fee will be paid to the lawyers to cover their costs, and the remaining fee will be sent to the treasury.
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc2mg523dhnhljVIO6uk2aBG7Gt6633nLtxQXs4wZoFfgiZcSQ8_A7lCXJ7RBDEQMxQsVxic0lzGKDJJ2DG_vIH8_HHiiTDoemszSNfUHWP_h8nLAQYmePC3K3_wKtq-gqE2bxXH0d9mgAzlAQXq_cpnQ89?key=7f9wZvyo4duGyV394DhzbQ" alt=""><figcaption></figcaption></figure>
+
+**7.0 Object sold**
 
 Once all the property tokens have been sold, the SPV is created (by triggering an Oracle which connects to the Companies House API - this will be connected and functional in DFG milestone 2). Once the SPV has been created a lawyer is automatically appointed from the verified (having a valid KYC) lawyer pool to represent the SPV. A multisig is created so the Lawyer who represents the Real Estae Developer and the SPV Lawyer can sign the exchange and completion of contracts. Once the multisig has been signed the property token sale funds (less fees) go to the real estate developer and the tokens are sent to the investors/buyers.
 
