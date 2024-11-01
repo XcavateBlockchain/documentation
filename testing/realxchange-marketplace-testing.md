@@ -79,7 +79,7 @@ To take on the case, a lawyer must call the lawyerClaimProperty function.
 
 The listingId is the ID of the listed object.
 
-The legalSite is either RealEstateDeveloperSite or SpvSite.
+The legalSide is either RealEstateDeveloperSide or SpvSide.
 
 The costs represent the lawyer’s fees, which cannot exceed 1% of the property price.
 
@@ -93,15 +93,15 @@ Approve is a boolean value. A value of true means the documents are approved and
 
 Both lawyers need to confirm the process with true. Once this happens, the tokens will be distributed to the real estate investors. The fees will go to the treasury, and the lawyer's costs will be paid to the lawyer, including the 3% tax.
 
-If one lawyer confirms with true and the other confirms with false, there will be a second round where the lawyers must confirm again. If they provide two different answers again, the process will be rejected and not finalized.
+If one lawyer confirms with true and the other confirms with false, there will be a second round where the lawyers must confirm again. If both lawyers do not agree, the process will be rejected and not finalised.
 
-If both lawyers call the function with false, the process will be rejected and not finalized. This means that the NFTs and tokens will be burned. Additionally, the funds will be returned to the investors, including the 3% tax. Only the 1% fee will be paid to the lawyers to cover their costs, and the remaining fee will be sent to the treasury.
+This means that the NFTs and tokens will be burned. Additionally, the funds will be returned to the investors, including the 3% tax. Only the 1% fee will be paid to the lawyers to cover their costs, and the remaining fee will be sent to the treasury.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc2mg523dhnhljVIO6uk2aBG7Gt6633nLtxQXs4wZoFfgiZcSQ8_A7lCXJ7RBDEQMxQsVxic0lzGKDJJ2DG_vIH8_HHiiTDoemszSNfUHWP_h8nLAQYmePC3K3_wKtq-gqE2bxXH0d9mgAzlAQXq_cpnQ89?key=7f9wZvyo4duGyV394DhzbQ" alt=""><figcaption></figcaption></figure>
 
 **7.0 Object sold**
 
-Once the SPV is created, the property is sold and the lawyers finalized the process, the funds go to the real estate developer and the tokens are sent to the investors/buyers.
+Once the SPV is created, the property is sold and the lawyers finalised the process, the funds go to the real estate developer and the tokens are sent to the investors/buyers.
 
 The real estate investors can offer the tokens on the marketplace again by calling the relistToken function.
 
