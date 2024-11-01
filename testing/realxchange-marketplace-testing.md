@@ -101,7 +101,7 @@ If both lawyers call the function with false, the process will be rejected and n
 
 **7.0 Object sold**
 
-Once all the property tokens have been sold, the SPV is created (by triggering an Oracle which connects to the Companies House API - this will be connected and functional in DFG milestone 2). Once the SPV has been created a lawyer is automatically appointed from the verified (having a valid KYC) lawyer pool to represent the SPV. A multisig is created so the Lawyer who represents the Real Estae Developer and the SPV Lawyer can sign the exchange and completion of contracts. Once the multisig has been signed the property token sale funds (less fees) go to the real estate developer and the tokens are sent to the investors/buyers.
+Once the SPV is created, the property is sold and the lawyers finalized the process, the funds go to the real estate developer and the tokens are sent to the investors/buyers.
 
 The real estate investors can offer the tokens on the marketplace again by calling the relistToken function.
 
@@ -111,7 +111,7 @@ The property is represented by an nft and the nft is represented by the tokens, 
 
 The tokenPrice is the price of a single token.
 
-<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdP0GIRxBRQgO4-IJZ9RnQpFDVT6ZlKDdCoJEUlwxiW1rdTc3hMguSgfXEB-y5ocDBNVZPNTTjhQef9hpMg4bzBO6orWNmDXP4JgV8BJoaXSqCQg6LiztkQ_MpDQQonozz7Ncy2nV8ahCGwQCOdAwMWHw?key=7f9wZvyo4duGyV394DhzbQ" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcJA5VXsgKXM-oUVLBRETaImFg9qnGxWTZgSHLnF7HHl5pJB6aQmTIY5KIpmN0KxKysPgzhbsQ5MF61hJpE_ez3Rom7w_b-0-AyrZwIlpop-Sf2mmmLLk0u240L56RYw6A4fal26gcZ_zrWHF-udiKJnf8?key=7f9wZvyo4duGyV394DhzbQ" alt=""><figcaption></figcaption></figure>
 
 After listing, the investor can upgrade the price by calling the upgradeListing function.
 
@@ -125,7 +125,7 @@ The listsingId of the listing that the investor wishes to remove is required as 
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXe5LAV1x38caKGvzNIhItCv6cMAXsnvhAbI7v4bX3xdSVNUi5tN5kcqznfNjoGGbBi4fug0OBZW_N4KLv1bzVjyoZ0ZmqvhRlmQFXkf0RrmtwduMmyeioQilj_0j_weLUSzlk58UfB-PP9RqtcNjQ6proA?key=7f9wZvyo4duGyV394DhzbQ" alt=""><figcaption></figcaption></figure>
 
-**7.0 Buy relisted tokens**
+**8.0 Buy relisted tokens**
 
 To buy newly listed tokens, the buyer must call the function buyRelistedToken.
 
