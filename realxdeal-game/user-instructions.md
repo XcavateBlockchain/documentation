@@ -4,7 +4,7 @@ description: This page describes how to pay the game
 
 # User instructions
 
-1. Go to realXdeal app landing page
+1. Go to realXdeal app landing page [https://realxdeal.xcavate.io](https://realxdeal.xcavate.io)
 
 <figure><img src="../.gitbook/assets/Landing page.png" alt=""><figcaption></figcaption></figure>
 
