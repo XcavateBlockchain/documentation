@@ -13,7 +13,7 @@
 * [DIP verification testing](dip-verification-testing.md)
 * [realXdeal game](realxdeal-game/README.md)
   * [Introduction](realxdeal-game/introduction.md)
-  * [User instructions](realxdeal-game/user-instructions.md)
+  * [How to play](realxdeal-game/how-to-play.md)
   * [Technical](realxdeal-game/technical.md)
   * [Testing](realxdeal-game/testing.md)
 * [realXchange dApp](user-instructions/README.md)
