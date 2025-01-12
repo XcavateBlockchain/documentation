@@ -18,9 +18,9 @@ When you first enter the game, you’ll arrive at the Landing Page. Here, you ca
 
 ### Home
 
-To progress through the game play the prictice round at least once:
+To help you progress through the game we suggest you play the practice round at least once:
 
-* **Start with practice Mode.**
+* **Start with Practice mode.**
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdQzn0xRVbgSTSGTh2jXNw_SHhvi0YYF1hFRBPk0h2IqA-wN5WN401MzlSyu02Nqw_G6XHr4zA2WKgT2W7mAJEKk15u1vMd4wPaDZoNjJAY7YIJnmRCXa9ozuPcxoZ4QP1T24y_?key=h3cAiP8sxVKQ__rxXKVEa5GF" alt=""><figcaption></figcaption></figure>
 
@@ -28,23 +28,41 @@ To progress through the game play the prictice round at least once:
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXgVTN_uUSdlKDyrR9k7C9qzcaJwy4J7WQJGtaSof5eOs2KcGXL2OiNY67QKCBK9K9SFLkqcmr4z1Wjkq6-0VH82TqXLyoGB4JseoIRZFlHaF9Cs6nuo8_-iz9o-uvFucGHII?key=h3cAiP8sxVKQ__rxXKVEa5GF" alt=""><figcaption></figcaption></figure>
 
+### How to guess
+
+You are presented with a random property, which has all the key features and some property images to help you make an accurate guess. The game timer will start to count down as soon as the details are displayed. You must enter an amount (numbers only) in the "Enter your guess" imput box and click "Enter" to submit your guess.
+
 ### Game result win
+
+Your guess will be compared to the actual property price and if you guess within 1% higher or lower of the real price you will win a random coloured property card which is worth x100 points (there are four different cards in each colour and eight colours in total).
+
+If you guess outside the 1% correct price band but still within the "winning zone" then you will win points.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdRQLG6Rqf1OWoC1-0DYKLQp3_STP2Rkd91NRtX6Q23tb3sVNx3bJnqBPTiFh9-RsxtnYNuuC4WlCnPLb7ZCVQTqut7NFpsPKKBPU77It5zMvfKTJPqshU9abgfPf_-R-vrI20F?key=h3cAiP8sxVKQ__rxXKVEa5GF" alt=""><figcaption></figcaption></figure>
 
 ### Game result failed
 
+If you guess is outside the "winning zone" then you will be slashed points.
+
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdpx7jVDaVEFxBktZl6UyIOkdrZDJYfL9ZIUo4bI3EpJ4ioYQpuKWIUQWKx11Mm-voVPVqy_65TwKVnO3lXHEuVdeZzYUB3BRguROIUyoEIHhxkbTguk6FjYkVqqImTyS9R14U?key=h3cAiP8sxVKQ__rxXKVEa5GF" alt=""><figcaption></figcaption></figure>
 
 ### Profile
+
+Your profile displays what rank you are as a player compared to other players. It also displays how many points you have in total. Finally you can also see how many coloured property cards you have won.
+
+If you win four of the same coloured property cards, then you are crowned that colour champion.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdv1tb3MbxPtV13bipIx9C20sdgOiXsYB5yJ5FF63sfCisgXkduih3p7Wbl-20ezuc1hdH7Od9SkKJuwzi5dfCcv-5z0RbpjnAkf887eAdzILr4toO07KpG_2mo9GgTljXTgGY?key=h3cAiP8sxVKQ__rxXKVEa5GF" alt=""><figcaption></figcaption></figure>
 
 ### Leaderboard
 
+All players points total is displayed in the leaderboard.
+
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf-7D3Th-mHZMUSPDfH4s7k5fBCqYzU2E-qAxwJ_mi5AJzzhh4ThWpZceB_ZayATA_r-r7o7YVG_Z-anTLp5olI7W_qrt6D4JaguIKKU7DnL_66_88gvVXH3voBZ0Vgb9QrjJY?key=h3cAiP8sxVKQ__rxXKVEa5GF" alt=""><figcaption></figcaption></figure>
 
 ### Marketplace
+
+If you have more than four of the same coloured property cards, those additional cards do not have any points value, so it is advisable to list them. Once listed other players can offer a colour property card you do not yet have or another colour that you do have but don't have four of. You can either accept or reject an offer.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdKNDKLDW96wt9KtHt6nt2nrHRO6O8SUWxxTKi0KoqvAijLBcD2SUYsEjAxKtl7mCyXTtTge9wIPscZRR8qdVNFu8xwnyC8s25_5ebDJtnp_IJT-6-HuNZit3FP2XKZjq8kz3zA?key=h3cAiP8sxVKQ__rxXKVEa5GF" alt=""><figcaption></figcaption></figure>
 
