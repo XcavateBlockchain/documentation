@@ -34,9 +34,9 @@ You are presented with a random property, which has all the key features and som
 
 ### Game result win
 
-Your guess will be compared to the actual property price and if you guess within 1% higher or lower of the real price you will win a random coloured property card which is worth x100 points (there are four different cards in each colour and eight colours in total).
+Your guess will be compared to the actual property price and if you guess within 5% higher or lower of the real price you will win a random coloured property card which is worth x100 points (there are four different cards in each colour and eight colours in total).
 
-If you guess outside the 1% correct price band but still within the "winning zone" then you will win points.
+If you guess outside the 5% correct price band but still within the "winning zone" then you will win points.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdRQLG6Rqf1OWoC1-0DYKLQp3_STP2Rkd91NRtX6Q23tb3sVNx3bJnqBPTiFh9-RsxtnYNuuC4WlCnPLb7ZCVQTqut7NFpsPKKBPU77It5zMvfKTJPqshU9abgfPf_-R-vrI20F?key=h3cAiP8sxVKQ__rxXKVEa5GF" alt=""><figcaption></figcaption></figure>
 
