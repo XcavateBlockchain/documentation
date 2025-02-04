@@ -12,11 +12,11 @@ To interact with the realXmarket dApp, all users must have already gone through 
 
 <figure><img src="../.gitbook/assets/Landing page.jpg" alt=""><figcaption></figcaption></figure>
 
-1.1 Digital Identifier (DID) creation
+**1.1 Digital Identifier (DID) creation**
 
 If it is the users first time to the application they will need to create a new DID. The DID is like an account reference code that will be used to record all data relating to the users account.
 
-1.2 KYC/KYB/AML checks
+**1.2 Know Your Customer (KYC) / Know Your Business (LYB) / Anti Money Laundering (AML) checks**
 
 In order to be regulatory compliant all users must complete a process that verifies the users personal (and business) data. Once completed, verifiable credentials will be stored on the users device and presented when required to perform specific tasks.
 
@@ -31,6 +31,10 @@ Watch this video to understand the process for the business identity check.
 Once you have these credentials then when you log on you will be asked to present your credentials. This all happens without any need to share any actual documents, so none of your personal data is ever stored on the realXmarket app..
 
 <figure><img src="../.gitbook/assets/Verify-Your-Personal-KYC-Credential.jpg" alt=""><figcaption></figcaption></figure>
+
+**1.3 Issues with your DID or credentials**
+
+If you are unable to connect for whatever reason please raise a support ticket with our help desk.
 
 \
 **2.0 User Accounts**
