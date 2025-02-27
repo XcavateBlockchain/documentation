@@ -6,17 +6,15 @@ description: This is a step-by-step guide detailing all aspects of the user jour
 
 Any page users land on will direct them to having the correct credentials. For the purpose of this documentation we have used the homepage to start their journey. This page explains the purpose of the dApp and the key stages throughout the process.
 
+A user can browse the marketplace and view property information however no transaction can be made without first completing the KYC process.
+
 **1.0 User Verification**
 
-To interact with the realXmarket dApp, all users must have already gone through the DID/KYC/KYB/AML process (through a regulated verifiable provider) in order to be able to call any function or submit any transaction.
+To transact with the realXmarket dApp, all users must have already gone through the KYC/KYB/AML process (through a regulated verifiable provider like Sumsub) in order to be able to call any function or submit any transaction.
 
 <figure><img src="../.gitbook/assets/Landing page.jpg" alt=""><figcaption></figcaption></figure>
 
-**1.1 Digital Identifier (DID) creation**
-
-If it is the users first time to the application they will need to create a new DID. The DID is like an account reference code that will be used to record all data relating to the users account.
-
-**1.2 Know Your Customer (KYC) / Know Your Business (LYB) / Anti Money Laundering (AML) checks**
+**1.1 Know Your Customer (KYC) / Know Your Business (KYB) / Anti Money Laundering (AML) checks**
 
 In order to be regulatory compliant all users must complete a process that verifies the users personal (and business) data. Once completed, verifiable credentials will be stored on the users device and presented when required to perform specific tasks.
 
@@ -28,7 +26,9 @@ Watch this video to understand the process for the business identity check.
 
 {% embed url="https://sumsub.com/business-verification-services/" %}
 
-Once you have these credentials then when you log on you will be asked to present your credentials. This all happens without any need to share any actual documents, so none of your personal data is ever stored on the realXmarket app..
+**1.2 Digital Identifier (DID) & verifiable credential creation**
+
+Once you have successfully completed the KYC/KYB/AML process a DID (acts as an account reference) and verifiable credentials are automatically created. Then when you return to the application as long as your credentials are still valid you can interact with the application without having to repeat the KYC process.
 
 <figure><img src="../.gitbook/assets/Verify-Your-Personal-KYC-Credential.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -39,7 +39,7 @@ If you are unable to connect for whatever reason please raise a support ticket w
 \
 **2.0 User Accounts**
 
-There are currently four types of user accounts. If a user type button is clicked for the first time, then the user is prompted to connect / create a Digital Identifier (DID), which is attributed to their user account. Once a DID has been set then a user needs to pass an independent KYC & AML process through an accredited partner.
+There are currently four types of user accounts. If a user type button is clicked for the first time, then the user is prompted to pass an independent KYC & AML process through an accredited partner like Sumsub.
 
 A returning user will simply be logged in and directed to their profile.
 
@@ -47,10 +47,10 @@ A returning user will simply be logged in and directed to their profile.
 
 **2.1 Real Estate Developer**
 
-Once the user account button has been clicked, then an account is created, which corresponds with a user DID.
+Once the user account button has been clicked, then an account is created.
 
 \
-The account creator can add a company DID and other team mates. Once a company DID has been set then the company needs to pass an independent KYB & AML process through an accredited partner.
+The account creator can add a company and other team mates. Once a company has been set then the company needs to pass an independent KYB & AML process through an accredited partner.
 
 <figure><img src="../.gitbook/assets/Company.png" alt=""><figcaption></figcaption></figure>
 
@@ -70,7 +70,7 @@ If all checks have passed, then the property will appear in the marketplace and 
 
 **2.2 Real Estate Investor**
 
-Once the user account button has been clicked, then an account is created, which corresponds with a user DID.
+Once the user account button has been clicked, then an account is created.
 
 <figure><img src="../.gitbook/assets/investor Profile.png" alt=""><figcaption></figcaption></figure>
 
@@ -93,10 +93,10 @@ Once the SPV has been created a verified letting agent can "claim" the property 
 
 **2.4 Legal Representative**
 
-Once the user account button has been clicked, then an account is created, which corresponds with a user DID.
+Once the user account button has been clicked, then an account is created.
 
 \
-The account creator can add a company DID and other team mates. Once a company DID has been set then the company needs to pass an independent KYB & AML process through an accredited partner.
+The account creator can add a company and other team mates. Once a company has been set then the company needs to pass an independent KYB & AML process through an accredited partner.
 
 \*\*\* add screenshot of lawyer account \*\*\*
 
