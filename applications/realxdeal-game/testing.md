@@ -28,11 +28,11 @@ For the user / player to start a game they have to call the playGame function.As
 
 The user has to make one practice round before unlocking the other options.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 The property for the game is visible under that game info card.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Submit Answer
 
@@ -40,11 +40,11 @@ To submit an answer the player has to call the submitAnswer function, which has 
 
 The player has to make a guess within the time limit, otherwise the round is counted as a loss and the player (as long as it is not a practice round) loses some points.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 A player can see their points and collected NFTs in their account data.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 6. Trade NFTs
 
@@ -52,7 +52,7 @@ To trade NFTs with other players, a player can list their NFTs for trading. It i
 
 To list a NFT the player has to call the listNft function. As parameters the collectionId and the itemNft of the NFT are needed.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 7. Delist NFT
 
@@ -60,13 +60,13 @@ The player has the option to delist their listed NFT by calling the delist funct
 
 This function takes the parameter listingId of the listing.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 8. Make Offer
 
 Another player can now make an offer for the listing by offering one of their NFTs. As parameters the listingId is needed and the collectionId and itemId of their NFT.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 9. Withdraw Offer
 
@@ -74,7 +74,7 @@ The player who made the offer has the option to withdraw their offer, as long as
 
 This function takes the parameter offerId.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 10. Handle Offer
 
@@ -82,4 +82,4 @@ The owner of the listing has the option to accept the offer or reject the offer.
 
 As a parameter this function takes the offerId and the enum with the options Accept or Reject.
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>

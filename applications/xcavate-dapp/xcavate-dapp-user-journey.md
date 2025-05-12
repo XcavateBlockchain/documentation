@@ -12,7 +12,7 @@ A user can browse the marketplace and view property information however no trans
 
 To transact with the realXmarket dApp, all users must have already gone through the KYC/KYB/AML process (through a regulated verifiable provider like Sumsub) in order to be able to call any function or submit any transaction.
 
-<figure><img src="../.gitbook/assets/Landing page.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Landing page.jpg" alt=""><figcaption></figcaption></figure>
 
 **1.1 Know Your Customer (KYC) / Know Your Business (KYB) / Anti Money Laundering (AML) checks**
 
@@ -30,7 +30,7 @@ Watch this video to understand the process for the business identity check.
 
 Once you have successfully completed the KYC/KYB/AML process a DID (acts as an account reference) and verifiable credentials are automatically created. Then when you return to the application as long as your credentials are still valid you can interact with the application without having to repeat the KYC process.
 
-<figure><img src="../.gitbook/assets/Verify-Your-Personal-KYC-Credential.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Verify-Your-Personal-KYC-Credential.jpg" alt=""><figcaption></figcaption></figure>
 
 **1.3 Issues with your DID or credentials**
 
@@ -43,7 +43,7 @@ There are currently four types of user accounts. If a user type button is clicke
 
 A returning user will simply be logged in and directed to their profile.
 
-<figure><img src="../.gitbook/assets/Select_user_type_1 (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Select_user_type_1 (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **2.1 Real Estate Developer**
 
@@ -52,7 +52,7 @@ Once the user account button has been clicked, then an account is created.
 \
 The account creator can add a company and other team mates. Once a company has been set then the company needs to pass an independent KYB & AML process through an accredited partner.
 
-<figure><img src="../.gitbook/assets/Company.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Company.png" alt=""><figcaption></figcaption></figure>
 
 **2.1.1 Adding a property**
 
@@ -66,13 +66,13 @@ If there is a problem then a field may need to be amended prior to resubmitting.
 
 If all checks have passed, then the property will appear in the marketplace and the property tokens are available to be purchased.
 
-<figure><img src="../.gitbook/assets/Add properties.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Add properties.png" alt=""><figcaption></figcaption></figure>
 
 **2.2 Real Estate Investor**
 
 Once the user account button has been clicked, then an account is created.
 
-<figure><img src="../.gitbook/assets/investor Profile.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/investor Profile.png" alt=""><figcaption></figcaption></figure>
 
 **2.3 Letting Agent**
 
@@ -81,13 +81,13 @@ Once the user account button has been clicked, then an account is created, which
 \
 The account creator can add a company DID and other team mates. Once a company DID has been set then the company needs to pass an independent KYB & AML process through an accredited partner.
 
-<figure><img src="../.gitbook/assets/Letting agent add Company - Team.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Letting agent add Company - Team.png" alt=""><figcaption></figcaption></figure>
 
 **2.3.1 Letting process**
 
 Once the SPV has been created a verified letting agent can "claim" the property and rent it out on behalf of the property token holders SPV.
 
-<figure><img src="../.gitbook/assets/Letting process.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Letting process.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -118,19 +118,19 @@ Should the vote not be agreed, then the funds are returned to the investors and 
 
 All the properties listed (passed price, ownership & planning permission Oracle checks) appear on the marketplace.
 
-<figure><img src="../.gitbook/assets/Marketplace (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Marketplace (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3.1 Explore property details**
 
 Each individual property can be clicked on to expand on its full details.
 
-<figure><img src="../.gitbook/assets/Properties details.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Properties details.png" alt=""><figcaption></figcaption></figure>
 
 **3.2 Purchase property tokens**
 
 Once an investor has made a decision to purchase some property tokens they click the "buy" button and select the number of tokens they wish to purchase.
 
-<figure><img src="../.gitbook/assets/Payment summary.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Payment summary.png" alt=""><figcaption></figcaption></figure>
 
 **3.3 Property token sale**
 
