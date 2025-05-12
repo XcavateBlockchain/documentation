@@ -26,4 +26,5 @@
     * [realXchange User Journey](applications/user-instructions/realxchange-user-journey.md)
     * [realXchange Community Project - Testing](applications/user-instructions/realxchange-community-project-testing.md)
     * [realXchange Technical Diagram](applications/user-instructions/realxchange-technical-diagram.md)
-* [Logion](logion.md)
+* [Partnerships](partnerships/README.md)
+  * [Logion](partnerships/logion.md)
