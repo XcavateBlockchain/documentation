@@ -1,6 +1,6 @@
 root: ./
 
-​structure:
+structure:
   readme: README.md
 
-redirects:
+redirects: {}
