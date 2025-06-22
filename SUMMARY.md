@@ -32,7 +32,7 @@
     * [Security Audit](protocol/property-governance-pallet/security-audit.md)
       * [Audit Scope](protocol/property-governance-pallet/security-audit/overview.md)
       * [Audit Summary](protocol/property-governance-pallet/security-audit/audit-summary.md)
-      * [Audit Scope and Checklists](protocol/property-governance-pallet/security-audit/audit-scope-and-checklists.md)
+      * [Detailed Findings](protocol/property-governance-pallet/security-audit/detailed-findings.md)
       * [FCA Compliance Alignment](protocol/property-governance-pallet/security-audit/fca-compliance-alignment.md)
       * [Audit Tools and Methods](protocol/property-governance-pallet/security-audit/audit-tools-and-methods.md)
       * [Audit Sign-Off Table](protocol/property-governance-pallet/security-audit/audit-sign-off-table.md)
