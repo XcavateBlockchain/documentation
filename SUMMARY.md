@@ -30,7 +30,7 @@
       * [Tools & Frameworks](protocol/property-governance-pallet/quality-audit/tools-and-frameworks.md)
       * [Final Approval Sign-Off](protocol/property-governance-pallet/quality-audit/final-approval-sign-off.md)
     * [Security Audit](protocol/property-governance-pallet/security-audit.md)
-      * [Overview](protocol/property-governance-pallet/security-audit/overview.md)
+      * [Audit Scope](protocol/property-governance-pallet/security-audit/audit-scope.md)
       * [Objectives](protocol/property-governance-pallet/security-audit/objectives.md)
       * [Audit Scope and Checklists](protocol/property-governance-pallet/security-audit/audit-scope-and-checklists.md)
       * [FCA Compliance Alignment](protocol/property-governance-pallet/security-audit/fca-compliance-alignment.md)
