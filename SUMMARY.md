@@ -34,6 +34,7 @@
       * [Objectives](protocol/property-governance-pallet/security-audit/objectives.md)
       * [Audit Scope and Checklists](protocol/property-governance-pallet/security-audit/audit-scope-and-checklists.md)
       * [FCA Compliance Alignment](protocol/property-governance-pallet/security-audit/fca-compliance-alignment.md)
+      * [Audit Tools and Methods](protocol/property-governance-pallet/security-audit/audit-tools-and-methods.md)
   * [NFT Marketplace](protocol/nft-marketplace/README.md)
     * [Unit Test](protocol/nft-marketplace/unit-test.md)
     * [Fuzzer](protocol/nft-marketplace/fuzzer/README.md)
