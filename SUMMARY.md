@@ -32,6 +32,7 @@
     * [Security Audit](protocol/property-governance-pallet/security-audit.md)
       * [Overview](protocol/property-governance-pallet/security-audit/overview.md)
       * [Objectives](protocol/property-governance-pallet/security-audit/objectives.md)
+      * [Audit Scope and Checklists](protocol/property-governance-pallet/security-audit/audit-scope-and-checklists.md)
   * [NFT Marketplace](protocol/nft-marketplace/README.md)
     * [Unit Test](protocol/nft-marketplace/unit-test.md)
     * [Fuzzer](protocol/nft-marketplace/fuzzer/README.md)
