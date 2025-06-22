@@ -36,6 +36,7 @@
       * [Testing and Verification](protocol/property-governance-pallet/security-audit/fca-compliance-alignment.md)
       * [Recommendations](protocol/property-governance-pallet/security-audit/recommendations.md)
       * [Sign-Off and Approval](protocol/property-governance-pallet/security-audit/sign-off-and-approval.md)
+      * [Attachments](protocol/property-governance-pallet/security-audit/attachments.md)
   * [NFT Marketplace](protocol/nft-marketplace/README.md)
     * [Unit Test](protocol/nft-marketplace/unit-test.md)
     * [Fuzzer](protocol/nft-marketplace/fuzzer/README.md)
