@@ -27,6 +27,7 @@
       * [Audit Objectives](protocol/property-governance-pallet/quality-audit/audit-objectives.md)
       * [Audit Checklist](protocol/property-governance-pallet/quality-audit/audit-checklist.md)
       * [Key Test Scenarios](protocol/property-governance-pallet/quality-audit/key-test-scenarios.md)
+      * [Tools & Frameworks](protocol/property-governance-pallet/quality-audit/tools-and-frameworks.md)
     * [Security Audit](protocol/property-governance-pallet/security-audit.md)
   * [NFT Marketplace](protocol/nft-marketplace/README.md)
     * [Unit Test](protocol/nft-marketplace/unit-test.md)
