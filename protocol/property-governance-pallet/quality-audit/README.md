@@ -1,6 +1,6 @@
-# Security Audit
+# Quality Audit
 
 **Module:** `pallet-property-governance`\
 **Version:** v1.0\
-**Audience:** Security Engineers, Protocol Developers, Governance Teams, Compliance Officers\
+**Audience:** Blockchain Protocol Developers, QA Engineers, Governance and Compliance Teams\
 **Maintainer:** Xcavate Protocol Engineering Team

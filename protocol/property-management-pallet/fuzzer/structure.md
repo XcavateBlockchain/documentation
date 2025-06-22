@@ -3,14 +3,14 @@
 Located in:
 
 ```rust
-rustCopyEdit#[cfg(test)]
+#[cfg(test)]
 mod fuzz_tests;
 ```
 
 or optionally extracted into:
 
 ```rust
-rustCopyEditpub mod fuzzer;
+pub mod fuzzer;
 ```
 
 #### Key Functions
