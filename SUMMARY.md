@@ -35,7 +35,7 @@
       * [Detailed Findings](protocol/property-governance-pallet/security-audit/audit-scope-and-checklists.md)
       * [Testing and Verification](protocol/property-governance-pallet/security-audit/fca-compliance-alignment.md)
       * [Recommendations](protocol/property-governance-pallet/security-audit/recommendations.md)
-      * [Audit Sign-Off Table](protocol/property-governance-pallet/security-audit/audit-sign-off-table.md)
+      * [Sign-Off and Approval](protocol/property-governance-pallet/security-audit/sign-off-and-approval.md)
   * [NFT Marketplace](protocol/nft-marketplace/README.md)
     * [Unit Test](protocol/nft-marketplace/unit-test.md)
     * [Fuzzer](protocol/nft-marketplace/fuzzer/README.md)
