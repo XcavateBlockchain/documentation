@@ -1,6 +1,7 @@
 # Security Audit
 
-**Module:** `pallet-property-governance`\
 **Version:** v1.0\
-**Audience:** Security Engineers, Protocol Developers, Governance Teams, Compliance Officers\
-**Maintainer:** Xcavate Protocol Engineering Team
+**Module:** `pallet-property-governance`\
+**Audit Date:** `YYYY-MM-DD`\
+**Maintainer:** Xcavate Protocol Engineering Team\
+**Compliance Standard:** NIST Cybersecurity Framework (CSF), FCA Guidelines
