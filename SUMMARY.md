@@ -55,7 +55,6 @@
     * [Quality Audit](protocol/nft-marketplace/quality-audit.md)
       * [Audit Objectives](protocol/nft-marketplace/quality-audit/audit-objectives.md)
       * [Scope of Audit](protocol/nft-marketplace/quality-audit/scope-of-audit.md)
-      * [Quality Verification Approach](protocol/nft-marketplace/quality-audit/quality-verification-approach.md)
     * [Security Audit](protocol/nft-marketplace/security-audit.md)
   * [Property Management Pallet](protocol/property-management-pallet/README.md)
     * [Unit Test](protocol/property-management-pallet/unit-test.md)
