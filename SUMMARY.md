@@ -86,8 +86,6 @@
       * [References](protocol/property-management-pallet/fuzzer/references.md)
     * [Quality Audit](protocol/property-management-pallet/quality-audit.md)
       * [Purpose of the Quality Audit](protocol/property-management-pallet/quality-audit/purpose-of-the-quality-audit.md)
-      * [Scope of Audit](protocol/property-management-pallet/quality-audit/scope-of-audit.md)
-      * [Quality Metrics](protocol/property-management-pallet/quality-audit/quality-metrics.md)
     * [Security Audit](protocol/property-management-pallet/security-audit.md)
 * [Applications](applications/README.md)
   * [realXmarket](applications/xcavate-dapp/README.md)
