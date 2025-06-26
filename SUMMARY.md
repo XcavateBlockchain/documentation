@@ -89,6 +89,7 @@
       * [Scope of Audit](protocol/property-management-pallet/quality-audit/scope-of-audit.md)
       * [Quality Metrics](protocol/property-management-pallet/quality-audit/quality-metrics.md)
       * [Audit Methodology](protocol/property-management-pallet/quality-audit/audit-methodology.md)
+      * [Findings and Recommendations](protocol/property-management-pallet/quality-audit/findings-and-recommendations.md)
     * [Security Audit](protocol/property-management-pallet/security-audit.md)
 * [Applications](applications/README.md)
   * [realXmarket](applications/xcavate-dapp/README.md)
