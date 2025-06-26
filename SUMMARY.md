@@ -102,6 +102,7 @@
       * [Security Controls Tested](protocol/property-management-pallet/security-audit/security-controls-tested.md)
       * [Code and Logic Review Highlights](protocol/property-management-pallet/security-audit/code-and-logic-review-highlights.md)
       * [FCA Systems and Controls (SYSC) Alignment](protocol/property-management-pallet/security-audit/fca-systems-and-controls-sysc-alignment.md)
+      * [Attack Scenarios Simulated](protocol/property-management-pallet/security-audit/attack-scenarios-simulated.md)
 * [Applications](applications/README.md)
   * [realXmarket](applications/xcavate-dapp/README.md)
     * [realXmarket user flow](applications/xcavate-dapp/xcavate-dapp-user-flow.md)
