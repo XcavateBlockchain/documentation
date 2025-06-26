@@ -99,6 +99,7 @@
       * [Summary](protocol/property-management-pallet/security-audit/summary.md)
       * [Audit Objectives](protocol/property-management-pallet/security-audit/audit-objectives.md)
       * [NIST Alignment Summary](protocol/property-management-pallet/security-audit/nist-alignment-summary.md)
+      * [Security Controls Tested](protocol/property-management-pallet/security-audit/security-controls-tested.md)
 * [Applications](applications/README.md)
   * [realXmarket](applications/xcavate-dapp/README.md)
     * [realXmarket user flow](applications/xcavate-dapp/xcavate-dapp-user-flow.md)
