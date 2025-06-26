@@ -93,6 +93,7 @@
       * [Directory Structure Reviewed](protocol/property-management-pallet/quality-audit/directory-structure-reviewed.md)
       * [Summary of Benchmarked Calls](protocol/property-management-pallet/quality-audit/summary-of-benchmarked-calls.md)
       * [Test Case Matrix (Sample)](protocol/property-management-pallet/quality-audit/test-case-matrix-sample.md)
+      * [Sign-Off](protocol/property-management-pallet/quality-audit/sign-off.md)
     * [Security Audit](protocol/property-management-pallet/security-audit.md)
 * [Applications](applications/README.md)
   * [realXmarket](applications/xcavate-dapp/README.md)
