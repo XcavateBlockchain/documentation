@@ -68,8 +68,6 @@
       * [NIST CSF Alignment Matrix](protocol/nft-marketplace/security-audit/nist-csf-alignment-matrix.md)
       * [FCA Compliance Highlights](protocol/nft-marketplace/security-audit/fca-compliance-highlights.md)
       * [Recommendations](protocol/nft-marketplace/security-audit/recommendations.md)
-      * [Sign-Off and Approval](protocol/nft-marketplace/security-audit/sign-off-and-approval.md)
-      * [Attachments](protocol/nft-marketplace/security-audit/attachments.md)
   * [Property Management Pallet](protocol/property-management-pallet/README.md)
     * [Unit Test](protocol/property-management-pallet/unit-test.md)
     * [Fuzzer](protocol/property-management-pallet/fuzzer/README.md)
