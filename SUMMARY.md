@@ -58,6 +58,8 @@
       * [Quality Verification Approach](protocol/nft-marketplace/quality-audit/quality-verification-approach.md)
       * [Key Findings and Observations](protocol/nft-marketplace/quality-audit/key-findings-and-observations.md)
       * [Recommendations for Continuous Improvement](protocol/nft-marketplace/quality-audit/recommendations-for-continuous-improvement.md)
+      * [Sign-Off and Approval](protocol/nft-marketplace/quality-audit/sign-off-and-approval.md)
+      * [Attachments](protocol/nft-marketplace/quality-audit/attachments.md)
     * [Security Audit](protocol/nft-marketplace/security-audit.md)
   * [Property Management Pallet](protocol/property-management-pallet/README.md)
     * [Unit Test](protocol/property-management-pallet/unit-test.md)
