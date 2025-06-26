@@ -96,7 +96,7 @@
       * [Sign-Off](protocol/property-management-pallet/quality-audit/sign-off.md)
       * [Attachments](protocol/property-management-pallet/quality-audit/attachments.md)
     * [Security Audit](protocol/property-management-pallet/security-audit.md)
-      * [Summary](protocol/property-management-pallet/security-audit/summary.md)
+      * [Audit Summary](protocol/property-management-pallet/security-audit/audit-summary.md)
       * [Audit Objectives](protocol/property-management-pallet/security-audit/audit-objectives.md)
       * [NIST Alignment Summary](protocol/property-management-pallet/security-audit/nist-alignment-summary.md)
       * [Security Controls Tested](protocol/property-management-pallet/security-audit/security-controls-tested.md)
