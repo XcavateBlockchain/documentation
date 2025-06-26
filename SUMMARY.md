@@ -104,6 +104,7 @@
       * [FCA Systems and Controls (SYSC) Alignment](protocol/property-management-pallet/security-audit/fca-systems-and-controls-sysc-alignment.md)
       * [Attack Scenarios Simulated](protocol/property-management-pallet/security-audit/attack-scenarios-simulated.md)
       * [Reviewed Files](protocol/property-management-pallet/security-audit/reviewed-files.md)
+      * [Recommendations](protocol/property-management-pallet/security-audit/recommendations.md)
 * [Applications](applications/README.md)
   * [realXmarket](applications/xcavate-dapp/README.md)
     * [realXmarket user flow](applications/xcavate-dapp/xcavate-dapp-user-flow.md)
