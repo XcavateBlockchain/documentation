@@ -1,6 +1,24 @@
 # Unit Test
 
-use crate::{mock::\*, Error, Event}; use crate::{ HoldReason, LastRegionProposalBlock, LocationRegistration, OngoingRegionOwnerProposalVotes, OngoingRegionProposalVotes, RegionAuctions, RegionDetails, RegionOperatorAccounts, RegionOwnerProposals, RegionProposals, RegionReplacementAuctions, UserRegionOwnerVote, UserRegionVote, VoteStats, }; use frame\_support::BoundedVec; use frame\_support::{ assert\_noop, assert\_ok, traits::{fungible::Inspect, fungible::InspectHold, OnFinalize, OnInitialize}, }; use sp\_runtime::{traits::BadOrigin, Permill, TokenError};
+use crate::{mock::\*, Error, Event};&#x20;
+
+use crate::{&#x20;
+
+HoldReason, LastRegionProposalBlock, LocationRegistration, OngoingRegionOwnerProposalVotes, OngoingRegionProposalVotes, RegionAuctions, RegionDetails, RegionOperatorAccounts, RegionOwnerProposals, RegionProposals, RegionReplacementAuctions, UserRegionOwnerVote, UserRegionVote, VoteStats,&#x20;
+
+};&#x20;
+
+use frame\_support::BoundedVec;&#x20;
+
+use frame\_support::{&#x20;
+
+assert\_noop, assert\_ok,&#x20;
+
+traits::{fungible::Inspect, fungible::InspectHold, OnFinalize, OnInitialize},&#x20;
+
+};&#x20;
+
+use sp\_runtime::{traits::BadOrigin, Permill, TokenError};
 
 macro\_rules! bvec { ($( $x:tt )_) => { vec!\[$( $x )_].try\_into().unwrap() } }
 
