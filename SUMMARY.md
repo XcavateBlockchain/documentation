@@ -108,6 +108,7 @@
       * [Sign-Off and Compliance](protocol/property-management-pallet/security-audit/sign-off-and-compliance.md)
       * [Attachments](protocol/property-management-pallet/security-audit/attachments.md)
   * [Regions](protocol/regions.md)
+  * [Real Estate Asset](protocol/real-estate-asset.md)
 * [Applications](applications/README.md)
   * [realXmarket](applications/xcavate-dapp/README.md)
     * [realXmarket user flow](applications/xcavate-dapp/xcavate-dapp-user-flow.md)
