@@ -137,5 +137,4 @@
     * [How to play](applications/realxdeal-game/how-to-play.md)
     * [Technical](applications/realxdeal-game/technical.md)
     * [Testing](applications/realxdeal-game/testing.md)
-* [Partnerships](partnerships/README.md)
-  * [Logion](partnerships/logion.md)
+* [Partnerships](partnerships.md)
