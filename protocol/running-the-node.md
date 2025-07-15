@@ -6,13 +6,13 @@ description: OUT OF DATE - WILL BE UPDATED IN DFG MILESTONE 3
 
 #### Accessing Tanssi Node
 
-[`https://polkadot.js.org/apps/?rpc=wss://fraa-flashbox-2036-rpc.a.stagenet.tanssi.network#/explorer`](https://polkadot.js.org/apps/?rpc=wss://fraa-flashbox-2036-rpc.a.stagenet.tanssi.network#/explorer)
+[`https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc1-polkadot.xcavate.io#/explorer`](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc1-polkadot.xcavate.io#/explorer)
 
 #### Running Xcavate\_Node Locally
 
-git clone [https://github.com/XcavateBlockchain/Xcavate\_Node](https://github.com/XcavateBlockchain/Xcavate\_Node)
+git clone [https://github.com/XcavateBlockchain/xcavate-node-paseo](https://github.com/XcavateBlockchain/xcavate-node-paseo)
 
-`cd Xcavate\_Node`
+`cd xcavate-node-paseo`
 
 `cargo build --release`
 
