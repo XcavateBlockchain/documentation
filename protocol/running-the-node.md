@@ -1,7 +1,3 @@
----
-description: OUT OF DATE - WILL BE UPDATED IN DFG MILESTONE 3
----
-
 # Running the node
 
 #### Accessing Tanssi Node
