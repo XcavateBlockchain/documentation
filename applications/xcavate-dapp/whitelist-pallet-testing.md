@@ -14,7 +14,7 @@ To add an account to the whitelist, the sudo account must call the addToWhitelis
 
 This function only requires the AccountId of the user to be added to the whitelist as a parameter.
 
-<figure><img src="../.gitbook/assets/image1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image1.png" alt=""><figcaption></figcaption></figure>
 
 \
 **2.0 Remove accounts on the Xcavate whitelist**
@@ -23,4 +23,4 @@ To remove an account from the whitelist, the sudo account must call the removeFr
 
 This function only requires the AccountId of the user to be added to the whitelist as a parameter.
 
-<figure><img src="../.gitbook/assets/image2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image2.png" alt=""><figcaption></figcaption></figure>
