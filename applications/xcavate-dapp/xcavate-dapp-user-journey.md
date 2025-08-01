@@ -8,19 +8,25 @@ This section provides a clear walkthrough of the app’s main interface. Users c
 
 Page actions
 
-Add comment​
-
 The first (splash) screen users see when opening the app. It briefly displays the realXmarket brand identity and highlights its built using the latest blockchain based technology with Polkadot, reassuring users of the platform's decentralized foundation and security.
 
 When you launch the realXmarket mobile application, the first screen you see is the dashboard.
 
-This screen provides a snapshot of your current investment activity and balance, and gives you access to the most essential features of the app. It’s designed to help you track your financial performance and quickly navigate to other sections like your account, the help center, and the marketplace.
+This screen provides a snapshot of your current investment activity and balance, and gives you access to the most essential features of the app. It’s designed to help you track your financial performance and quickly navigate to other sections like your account, the help centre, and the marketplace.
 
-🔍Key Elements of Dashboard
+🔍 Key Elements of Dashboard
 
-Disclaimer Banner: A security warning advising users of the financial risks involved. Clicking “Take 2 mins to learn more” opens additional safety details.Airdrop & Investment Stats:Property Tokens Bought – The total number of property tokens you've acquired.Total Invested – The cumulative amount of money you’ve invested so far.
+Disclaimer Banner: A security warning advising users of the financial risks involved. Clicking “Take 2 mins to learn more” opens additional safety details.
 
-ROI (Return on Investment) – Shows your current investment return percentage.Balance – Your available wallet balance; tapping the right-arrow icon may lead to more detailed balance or token management options.
+Airdrop & Investment Stats:
+
+Property Tokens Bought – The total number of property tokens you've acquired.
+
+Total Invested – The cumulative amount of money you’ve invested so far.
+
+ROI (Return on Investment) – Shows your current investment return percentage.
+
+Balance – Your available wallet balance; tapping the right-arrow icon may lead to more detailed balance or token management options.
 
 No Properties Section: Displays “No. of Properties” you have invested in.Top Right Icons:Notifications – View important alerts or updates.QR Scanner – For scanning wallet addresses or QR codes.Menu – Opens the app’s extended menu or settings.
 
@@ -28,9 +34,13 @@ What You Can Do
 
 Track Investment Summary at a glance.
 
-Click the Balance arrow to manage or view your tokens.Navigate using the Bottom Tabs:
+Click the Balance arrow to manage or view your tokens.
 
-My Account – Access your personal profile and app settings.Help – Get support or read through common FAQs.Marketplace – Browse and invest in real estate properties.
+Navigate using the Bottom Tabs:
+
+My Account – Access your personal profile and app settings.Help – Get support or read through common FAQs.
+
+Marketplace – Browse and invest in real estate properties.
 
 Marketplace
 
@@ -38,7 +48,15 @@ The Marketplace section is where you can browse through available property listi
 
 Step-by-Step Guide:
 
-1\. Access the MarketplaceTap on the Marketplace icon in the bottom navigation bar.You will now see a scrollable list of properties available for investment.2. Explore Property ListingsEach listing contains:Property Image: Visual representation of the building or plot.
+1\. Access the Marketplace
+
+Tap on the Marketplace icon in the bottom navigation bar.
+
+You will now see a scrollable list of properties available for investment.
+
+2\. Explore Property Listings
+
+Each listing contains:Property Image: Visual representation of the building or plot.
 
 Location: Where the property is situated (e.g., The Avenue, London).
 
@@ -52,15 +70,13 @@ Price: The total price of the property.📝 Example: Plot 34 – High Rise, loca
 
 3\. Mark Your Favourites
 
-Add comment
+* Tap the **heart icon** (♡) on the top right corner of any listing to save it to your favourites.
+* This helps you keep track of interesting properties for later.
 
-* Add commentTap the **heart icon** (♡) on the top right corner of any listing to save it to your favourites.
-* Add commentThis helps you keep track of interesting properties for later.
+**4. View More Properties**Add comment
 
-Add comment**4. View More Properties**Add comment
-
-* Add commentScroll down to load more listings. You can browse multiple locations and property types.
-* Add commentAll listings are displayed in an easy-to-view card format, making it simple to compare opportunities.
+* Scroll down to load more listings. You can browse multiple locations and property types.
+* All listings are displayed in an easy-to-view card format, making it simple to compare opportunities.
 
 **Property Details Page**
 
