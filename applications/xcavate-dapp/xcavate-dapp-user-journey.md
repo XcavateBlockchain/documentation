@@ -4,164 +4,39 @@ description: This is a step-by-step guide detailing all aspects of the user jour
 
 # realXmarket user journey
 
-Any page users land on will direct them to having the correct credentials. For the purpose of this documentation we have used the homepage to start their journey. This page explains the purpose of the dApp and the key stages throughout the process.
-
-A user can browse the marketplace and view property information however no transaction can be made without first completing the KYC process.
-
-**1.0 User Verification**
-
-To transact with the realXmarket dApp, all users must have already gone through the KYC/KYB/AML process (through a regulated verifiable provider like Sumsub) in order to be able to call any function or submit any transaction.
-
-<figure><img src="../../.gitbook/assets/Landing page.jpg" alt=""><figcaption></figcaption></figure>
-
-**1.1 Know Your Customer (KYC) / Know Your Business (KYB) / Anti Money Laundering (AML) checks**
-
-In order to be regulatory compliant all users must complete a process that verifies the users personal (and business) data. Once completed, verifiable credentials will be stored on the users device and presented when required to perform specific tasks.
-
-Watch this video to understand the process for the personal identity check.
-
-{% embed url="https://sumsub.com/non-doc-verification/?video=true" %}
-
-Watch this video to understand the process for the business identity check.
-
-{% embed url="https://sumsub.com/business-verification-services/" %}
-
-**1.2 Digital Identifier (DID) & verifiable credential creation**
-
-Once you have successfully completed the KYC/KYB/AML process a DID (acts as an account reference) and verifiable credentials are automatically created. Then when you return to the application as long as your credentials are still valid you can interact with the application without having to repeat the KYC process.
-
-<figure><img src="../../.gitbook/assets/Verify-Your-Personal-KYC-Credential.jpg" alt=""><figcaption></figcaption></figure>
-
-**1.3 Issues with your DID or credentials**
-
-If you are unable to connect for whatever reason please raise a support ticket with our help desk.
-
-\
-**2.0 User Accounts**
-
-There are currently four types of user accounts. If a user type button is clicked for the first time, then the user is prompted to pass an independent KYC & AML process through an accredited partner like Sumsub.
-
-A returning user will simply be logged in and directed to their profile.
-
-<figure><img src="../../.gitbook/assets/Select_user_type_1 (2).png" alt="" width="375"><figcaption></figcaption></figure>
-
-**2.1 Real Estate Developer**
-
-Once the user account button has been clicked, then an account is created.
-
-\
-The account creator can add a company and other team mates. Once a company has been set then the company needs to pass an independent KYB & AML process through an accredited partner.
-
-<figure><img src="../../.gitbook/assets/Company.png" alt=""><figcaption></figcaption></figure>
-
-**2.1.1 Adding a property**
-
-A real estate developer can add a property by clicking the "add property" button and filling in the form.&#x20;
-
-A partially completed form will be saved and can be edited at any time.
-
-Once all the fields have been completed and the "list" button clicked the property will be verified using several preconfigured oracles.
-
-If there is a problem then a field may need to be amended prior to resubmitting.
-
-If all checks have passed, then the property will appear in the marketplace and the property tokens are available to be purchased.
-
-<figure><img src="../../.gitbook/assets/Add properties.png" alt=""><figcaption></figcaption></figure>
-
-**2.2 Real Estate Investor**
-
-Once the user account button has been clicked, then an account is created.
-
-<figure><img src="../../.gitbook/assets/investor Profile.png" alt=""><figcaption></figcaption></figure>
-
-**2.3 Letting Agent**
-
-Once the user account button has been clicked, then an account is created, which corresponds with a user DID.
-
-\
-The account creator can add a company DID and other team mates. Once a company DID has been set then the company needs to pass an independent KYB & AML process through an accredited partner.
-
-<figure><img src="../../.gitbook/assets/Letting agent add Company - Team.png" alt=""><figcaption></figcaption></figure>
-
-**2.3.1 Letting process**
-
-Once the SPV has been created a verified letting agent can "claim" the property and rent it out on behalf of the property token holders SPV.
-
-<figure><img src="../../.gitbook/assets/Letting process.png" alt=""><figcaption></figcaption></figure>
-
-
-
-**2.4 Legal Representative**
-
-Once the user account button has been clicked, then an account is created.
-
-\
-The account creator can add a company and other team mates. Once a company has been set then the company needs to pass an independent KYB & AML process through an accredited partner.
-
-\*\*\* add screenshot of lawyer account \*\*\*
-
-**2.4.1 Claiming property**
-
-Once the SPV has been created then all verified lawyers can claim a property to represent either the real estate developer or the SPV but not both at the same time.
-
-**2.4.2 Review Property Documentation**
-
-Both lawyer review the property documentation and vote to complete the sale through the exchange of contracts.
-
-**2.4.3 Distribution of funds and tokens**
-
-Once the vote has been cast and both lawyers have voted to complete the transaction, then all the property tokens are distributed to the investors and the funds are distributed to the real estate developer (less fees and taxes).
-
-Should the vote not be agreed, then the funds are returned to the investors and the property tokens are burnt.
-
-**3.0 NFT Marketplace**
-
-All the properties listed (passed price, ownership & planning permission Oracle checks) appear on the marketplace.
-
-<figure><img src="../../.gitbook/assets/Marketplace (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-**3.1 Explore property details**
-
-Each individual property can be clicked on to expand on its full details.
-
-<figure><img src="../../.gitbook/assets/Properties details.png" alt=""><figcaption></figcaption></figure>
-
-**3.2 Purchase property tokens**
-
-Once an investor has made a decision to purchase some property tokens they click the "buy" button and select the number of tokens they wish to purchase.
-
-<figure><img src="../../.gitbook/assets/Payment summary.png" alt=""><figcaption></figcaption></figure>
-
-**3.3 Property token sale**
-
-If its the first time the property has been listed, then all of the property tokens will need to be purchased before the Special Purpose Vehicle (SPV) can be created.
-
-**3.4 Property token refund**
-
-Should all of the tokens not be sold within a specified time period (initially set at 30 days). Then the funds will be returned to the buyers and the tokens burnt.
-
-**4.0 Legal process**
-
-Once the last property token(s) have been purchased an API creates a Special Purpose Vehicle (SPV), which is a Limited Liability Partnership (LLP), this is the legal entity that owns the property. All the property token holders are the legal partners in that company and can vote on all property ownership based decisions.
-
-**5.0 Property Management**
-
-Contracts are electronically signed between the Letting Agent and the SPV.
-
-**5.1 Rental income distribution**
-
-The first months rental for a property (less fees) is deposited by the letting agent. The is to be used as a SPV treasury fund to pay for costs relating to the day to day running of the property. All other months rental income is to be distributed to the property token holders wallets based on the number of tokens they hold.
-
-**5.2 Property voting**
-
-All property token holders based on their token holding can vote on all decisions of the property management over and above a pre-determined threshold (initially set to £500).
-
-A property token holder can propose a vote based on certain criteria.
-
-**6.0 Secondary Market**
-
-Any property token holder can re-list the property tokens back on to the realXmarket within the pre-determined lower and upper price band based on current market value.
-
-Potential buyers can then make offers to the seller.
-
-The sale is concluded once an offer has been accepted by the seller.
+This section provides a clear walkthrough of the app’s main interface. Users can view investment performance, access wallet details, and explore features like token airdrops and marketplace access.Page actionsAdd comment​The first screen users see when opening the app. It briefly displays the realXmarket brand identity and highlights its blockchain integration with Polkadot, reassuring users of the platform's decentralized foundation and security.When you launch the realXmarket mobile application, the first screen you see is the dashboard. This screen provides a snapshot of your current investment activity and balance, and gives you access to the most essential features of the app. It’s designed to help you track your financial performance and quickly navigate to other sections like your account, the help center, and the marketplace.🔍Key Elements of DashboardDisclaimer Banner: A security warning advising users of the financial risks involved. Clicking “Take 2 mins to learn more” opens additional safety details.Airdrop & Investment Stats:Property Tokens Bought – The total number of property tokens you've acquired.Total Invested – The cumulative amount of money you’ve invested so far.ROI (Return on Investment) – Shows your current investment return percentage.Balance – Your available wallet balance; tapping the right-arrow icon may lead to more detailed balance or token management options.No Properties Section: Displays “No. of Properties” you have invested in.Top Right Icons:Notifications – View important alerts or updates.QR Scanner – For scanning wallet addresses or QR codes.Menu – Opens the app’s extended menu or settings.What You Can DoTrack Investment Summary at a glance.Click the Balance arrow to manage or view your tokens.Navigate using the Bottom Tabs:My Account – Access your personal profile and app settings.Help – Get support or read through common FAQs.Marketplace – Browse and invest in real estate properties.MarketplaceThe Marketplace section is where you can browse through available property listings and explore investment opportunities.Step-by-Step Guide:1. Access the MarketplaceTap on the Marketplace icon in the bottom navigation bar.You will now see a scrollable list of properties available for investment.2. Explore Property ListingsEach listing contains:Property Image: Visual representation of the building or plot.Location: Where the property is situated (e.g., The Avenue, London).Plot Name & Type: Title of the plot, like Plot 40 – Lime House or Plot 34 – High Rise.Tokens: Number of tokens available to purchase.APY: Annual Percentage Yield (estimated return on investment).Price: The total price of the property.📝 Example: Plot 34 – High Rise, located at The Avenue, Enfield, offers an APY of 12.73%, with a price of £270600 and 52 tokens available.3. Mark Your FavouritesAdd comment
+
+* Add commentTap the **heart icon** (♡) on the top right corner of any listing to save it to your favourites.
+* Add commentThis helps you keep track of interesting properties for later.
+
+Add comment**4. View More Properties**Add comment
+
+* Add commentScroll down to load more listings. You can browse multiple locations and property types.
+* Add commentAll listings are displayed in an easy-to-view card format, making it simple to compare opportunities.
+
+Add comment**Property Details Page**Add comment![](https://www.gitbook.com/cdn-cgi/image/dpr=2,width=760,onerror=redirect,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2FhJ9Jc2UtJhbju4d2MYvd%2Fuploads%2FE6mLW3SWD0O6YoaWq8az%2Fimage.png%3Falt%3Dmedia%26token%3D68183008-c319-4674-9577-becfa5173f32)Add comment![](https://www.gitbook.com/cdn-cgi/image/dpr=2,width=760,onerror=redirect,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2FhJ9Jc2UtJhbju4d2MYvd%2Fuploads%2FuAS32T4XWhzjrHM5cUqZ%2Fimage.png%3Falt%3Dmedia%26token%3D84c17289-5f6f-40a6-95b4-afa68a2faa0e)Add commentWhenever you click on any of the listed property, you will be able to see the detail of the property:Add comment**Basic Info**Add comment
+
+* Add commentYou’ll see the plot name and location at the top.
+* Add commentBelow that:Add comment
+  * Add comment**Price per token** in GBP and USDT (e.g., £1025 / 1250 USDT)
+  * Add comment**Listing Price** (e.g., £205,000)
+  * Add comment**Rental Yield** (e.g., 5.76%)
+  * Add comment**Tokens Available** (e.g., 1 / 200)
+  * Add comment**Property Type** (e.g., Flat)
+* Add comment**Area Prices & Income**Add comment
+  * Add commentA visual bar shows the local property price range.
+  * Add commentBelow that, you’ll see estimated **rental income** (e.g., £984).
+* Add comment**Rental Demand**Add comment
+  * Add commentA demand meter shows how in-demand the property area is.
+* Add comment**Description & Specs**Add comment
+  * Add commentSee the property description (e.g., "1 bed apartment overlooking the river").
+  * Add commentKey specs:Add comment
+    * Add comment📐 Size: 100sqm
+    * Add comment🛏 Bedrooms: 1
+    * Add comment🛁 Bathrooms: 1
+    * Add comment🏷 Type: Flat
+    * Add comment📍 Location: The Avenue, Hertford
+* Add comment**Taking Action**Add comment
+  * Add commentReady to invest?Add comment
+    * Add commentTap **Buy** at the bottom of the screen.
+    * Add commentFollow the on-screen instructions to complete your token purchase.
