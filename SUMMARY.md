@@ -119,7 +119,7 @@
 * [Applications](applications/README.md)
   * [realXmarket](applications/xcavate-dapp/README.md)
     * [realXmarket user flow](applications/xcavate-dapp/xcavate-dapp-user-flow.md)
-    * [realXmarket user journey](applications/xcavate-dapp/xcavate-dapp-user-journey.md)
+    * [realXmarket user guide](applications/xcavate-dapp/xcavate-dapp-user-journey.md)
   * [realXtime](applications/realxtime.md)
   * [realXchange dApp](applications/user-instructions.md)
 * [Partnerships](partnerships.md)
