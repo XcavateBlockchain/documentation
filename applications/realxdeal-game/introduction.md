@@ -1,3 +1,0 @@
-# Introduction
-
-realXdeal has been developed as a submission for the 2024 Polkadot North America Hackathon. While it has been launched as its own Appchain on Tanssi it is still part of the Xcavate Blockchain project. It is vitally important that anyone considering investing in real estate do their own research, especially if they do not know the region where the property is located. Thats why we've developed realXdeal - a property price guessing and NFT trading game that makes doing real estate investing research fun! Think you are good at knowing real estate prices? Are you willing to stake your reputation on it? Guess correct property prices and win NFTs. Collect all the sets to be crowned the realXdeal champion.
