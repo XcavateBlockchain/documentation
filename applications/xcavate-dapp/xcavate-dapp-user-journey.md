@@ -73,7 +73,7 @@ Price: The total price of the property.📝 Example: Plot 34 – High Rise, loca
 * Tap the **heart icon** (♡) on the top right corner of any listing to save it to your favourites.
 * This helps you keep track of interesting properties for later.
 
-**4. View More Properties**Add comment
+**4. View More Properties**
 
 * Scroll down to load more listings. You can browse multiple locations and property types.
 * All listings are displayed in an easy-to-view card format, making it simple to compare opportunities.
@@ -85,26 +85,26 @@ Whenever you click on any of the listed property, you will be able to see the de
 **Basic Info**
 
 * You’ll see the plot name and location at the top.
-* Below that:Add comment
+* Below that:
   * **Price per token** in GBP and USDT (e.g., £1025 / 1250 USDT)
   * **Listing Price** (e.g., £205,000)
   * **Rental Yield** (e.g., 5.76%)
   * **Tokens Available** (e.g., 1 / 200)
   * **Property Type** (e.g., Flat)
-* **Area Prices & Income**Add comment
+* **Area Prices & Income**
   * A visual bar shows the local property price range.
   * Below that, you’ll see estimated **rental income** (e.g., £984).
-* **Rental Demand**Add comment
+* **Rental Demand**
   * A demand meter shows how in-demand the property area is.
-* **Description & Specs**Add comment
+* **Description & Specs**
   * See the property description (e.g., "1 bed apartment overlooking the river").
-  * Key specs:Add comment
+  * Key specs:
     * 📐 Size: 100sqm
     * 🛏 Bedrooms: 1
     * 🛁 Bathrooms: 1
     * 🏷 Type: Flat
     * 📍 Location: The Avenue, Hertford
-* **Taking Action**Add comment
+* **Taking Action**
   * Ready to invest?
     * Tap **Buy** at the bottom of the screen.
     * Follow the on-screen instructions to complete your token purchase.
