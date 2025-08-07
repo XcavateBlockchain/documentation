@@ -120,6 +120,8 @@
   * [realXmarket](applications/xcavate-dapp/README.md)
     * [realXmarket user flow](applications/xcavate-dapp/xcavate-dapp-user-flow.md)
     * [realXmarket user guide](applications/xcavate-dapp/xcavate-dapp-user-journey.md)
+    * [realXmarket tester guide](applications/xcavate-dapp/realxmarket-tester-guide/README.md)
+      * [Real Estate Developer](applications/xcavate-dapp/realxmarket-tester-guide/real-estate-developer.md)
   * [realXtime](applications/realxtime.md)
   * [realXchange dApp](applications/user-instructions.md)
 * [Partnerships](partnerships.md)
