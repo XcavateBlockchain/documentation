@@ -8,7 +8,7 @@ Steps for Account Setup / Login:
 
 1. Enter personal information and click continue:
 
-<figure><img src="../../../../../../.gitbook/assets/image.png" alt="" width="301"><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (4).png" alt="" width="301"><figcaption></figcaption></figure>
 
 
 
@@ -16,25 +16,25 @@ Steps for Account Setup / Login:
 
 2. Click Start Verification or Do It Later:
 
-<figure><img src="../../../../../../.gitbook/assets/image (1).png" alt="" width="302"><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (1) (1).png" alt="" width="302"><figcaption></figcaption></figure>
 
 
 
 3. Select either All countries except USA or United States of America:
 
-<figure><img src="../../../../../../.gitbook/assets/image (2).png" alt="" width="300"><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (2) (1).png" alt="" width="300"><figcaption></figcaption></figure>
 
 
 
 3. Choose either provide identity document or perform a liveness check for user verification and click continue:
 
-<figure><img src="../../../../../../.gitbook/assets/image (3).png" alt="" width="300"><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (3) (1).png" alt="" width="300"><figcaption></figcaption></figure>
 
 
 
 4. If Step 1 Provide identity document is chosen, choose to provide driver's license or residence permit or passport and then click continue:
 
-<figure><img src="../../../../../../.gitbook/assets/image (4).png" alt="" width="304"><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (4) (1).png" alt="" width="304"><figcaption></figcaption></figure>
 
 
 
