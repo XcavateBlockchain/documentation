@@ -134,6 +134,7 @@
         * [Mobile app](applications/xcavate-dapp/realxmarket-tester-guide/real-estate-developer/mobile-app/README.md)
           * [Getting Started](applications/xcavate-dapp/realxmarket-tester-guide/real-estate-developer/mobile-app/getting-started/README.md)
             * [Installation (iOS & Android)](applications/xcavate-dapp/realxmarket-tester-guide/real-estate-developer/mobile-app/getting-started/installation-ios-and-android.md)
+            * [Splash screen and Onboarding screens](applications/xcavate-dapp/realxmarket-tester-guide/real-estate-developer/mobile-app/getting-started/splash-screen-and-onboarding-screens.md)
             * [Account Setup / Login](applications/xcavate-dapp/realxmarket-tester-guide/real-estate-developer/mobile-app/getting-started/account-setup-login.md)
             * [Overview of Mobile Interface](applications/xcavate-dapp/realxmarket-tester-guide/real-estate-developer/mobile-app/getting-started/overview-of-mobile-interface.md)
   * [realXtime](applications/realxtime.md)
