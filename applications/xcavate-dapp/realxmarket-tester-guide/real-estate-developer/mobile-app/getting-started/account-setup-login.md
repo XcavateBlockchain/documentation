@@ -6,15 +6,9 @@ description: This is the process when first entering the app.
 
 Steps for Account Setup / Login:
 
-1. Enter personal information and click continue:
-
-<figure><img src="../../../../../../.gitbook/assets/image (4).png" alt="" width="301"><figcaption></figcaption></figure>
 
 
-
-
-
-2. Click Start Verification or Do It Later:
+1. Upon accepting the Terms and condition in the previous section, Click Start Verification or Do It Later will appear:
 
 <figure><img src="../../../../../../.gitbook/assets/image (1) (1).png" alt="" width="302"><figcaption></figcaption></figure>
 
