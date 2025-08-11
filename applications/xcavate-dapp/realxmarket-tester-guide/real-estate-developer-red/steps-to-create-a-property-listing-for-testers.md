@@ -13,7 +13,7 @@
 
 <figure><img src="../../../../.gitbook/assets/image (29).png" alt="" width="375"><figcaption></figcaption></figure>
 
-5. Review and publish the listing by click on the create button.
+5. Review and publish the listing by clicking on the create button.
 6. The listing will be in draft until approved.
 
 <figure><img src="../../../../.gitbook/assets/image (30).png" alt="" width="202"><figcaption></figcaption></figure>
