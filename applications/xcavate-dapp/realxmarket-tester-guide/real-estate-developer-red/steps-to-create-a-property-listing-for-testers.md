@@ -1,9 +1,19 @@
 # Steps to create a Property Listing (for Testers)
 
-1. Log in as a Real Estate Developer. Use credentials that have the appropriate permissions to add/edit listings.
-2. Navigate to the "Add Listing" Section.
-3. Enter the Property Details.&#x20;
-4. Review and publish the listing.
-5. The listing will be in draft until approved.
-6. There will be a notification when the listing is approved.
-7. The listing will be listed.
+1. Log in as a Real Estate Developer on the mobile app. Use credentials that have the appropriate permissions to add/edit listings.
+2. Navigate to the "Add Listing" Section on a laptop or desktop computer.
+
+<figure><img src="../../../../.gitbook/assets/image (27).png" alt="" width="375"><figcaption></figcaption></figure>
+
+3. Enter the Property Details. Press continue and the next screen will appear:
+
+<figure><img src="../../../../.gitbook/assets/image (28).png" alt="" width="375"><figcaption></figcaption></figure>
+
+4. Add additional features:
+
+<figure><img src="../../../../.gitbook/assets/image (29).png" alt="" width="375"><figcaption></figcaption></figure>
+
+5. Review and publish the listing by click on the create button.
+6. The listing will be in draft until approved.
+7. There will be a notification when the listing is approved.
+8. The listing will be listed.
