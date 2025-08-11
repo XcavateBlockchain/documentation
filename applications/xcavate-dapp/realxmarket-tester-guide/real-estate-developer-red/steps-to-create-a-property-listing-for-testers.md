@@ -15,5 +15,13 @@
 
 5. Review and publish the listing by click on the create button.
 6. The listing will be in draft until approved.
+
+<figure><img src="../../../../.gitbook/assets/image (30).png" alt="" width="202"><figcaption></figcaption></figure>
+
 7. There will be a notification when the listing is approved.
+
+<figure><img src="../../../../.gitbook/assets/image (31).png" alt="" width="203"><figcaption></figcaption></figure>
+
 8. The listing will be listed.
+
+<figure><img src="../../../../.gitbook/assets/image (32).png" alt="" width="202"><figcaption></figcaption></figure>
