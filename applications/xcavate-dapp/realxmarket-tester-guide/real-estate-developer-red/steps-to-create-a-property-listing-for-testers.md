@@ -1,6 +1,6 @@
 # Steps to create a Property Listing (for Testers)
 
-1. Log in as a Real Estate Developer on the mobile app and laptop/desktop computer. Use credentials that have the appropriate permissions to add/edit listings.
+1. Log in as a Real Estate Developer on the mobile app and laptop/desktop computer. Use credentials that have the appropriate permissions to add/edit listings. Credentials here refer to either import JSON with password or all the files to create a new account.&#x20;
 2. Navigate to the "Add Listing" Section on the desktop computer.
 
 <figure><img src="../../../../.gitbook/assets/image (27).png" alt="" width="375"><figcaption></figcaption></figure>
