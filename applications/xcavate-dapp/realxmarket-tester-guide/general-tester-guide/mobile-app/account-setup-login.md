@@ -57,11 +57,9 @@ Steps for Account Setup / Login:
 
 
 
-9. Question relating to real estate development will appear:
+9. Question relating to investor will appear:
 
-<figure><img src="../../../../../.gitbook/assets/image (10) (1).png" alt="" width="300"><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../../../.gitbook/assets/image (39).png" alt="" width="309"><figcaption></figcaption></figure>
 
 10. Setting up password will be the next screen:
 
