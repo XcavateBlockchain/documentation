@@ -2,13 +2,13 @@
 description: This is a step-by-step guide detailing all aspects of the user journey.
 ---
 
-# RealXmarket user guide
+# realXmarket user guide
 
-This section provides a clear walkthrough of the app’s main interface. Users can view investment performance, access wallet details, and explore features like token airdrops and marketplace access.
+This section provides a clear walkthrough of the app’s main interface. Users can browse the marketplace, create an account, purchase property tokens, view investment performance, access wallet details, and explore features like property governance.
 
 <figure><img src="../../.gitbook/assets/WhatsApp Image 2025-07-31 at 17.28.46_a6b86c8b.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
-The first (splash) screen users see when opening the app. It briefly displays the realXmarket brand identity and highlights its built using the latest blockchain based technology with Polkadot, reassuring users of the platform's decentralized foundation and security.
+The first (splash) screen users see when opening the app. It briefly displays the realXmarket brand identity and highlights its built using the latest blockchain based technology with Polkadot, reassuring users of the platform's decentralized foundation and industry leading security.
 
 <figure><img src="../../.gitbook/assets/WhatsApp Image 2025-07-31 at 19.17.28_ff34be66.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
@@ -18,27 +18,27 @@ This screen provides a snapshot of your current investment activity and balance,
 
 ## 🔍Key Elements of Dashboard
 
-**Disclaimer Banner**: A security warning advising users of the financial risks involved. Clicking “Take 2 mins to learn more” opens additional safety details.
+**Banner**: A security warning advising users of the financial risks involved. Clicking the “Take 2 mins to learn more” link opens a page with the details about the risks involved.
 
-* **Airdrop & Investment Stats**:
+* **Investment Stats**:
   * **Property Tokens Bought** – The total number of property tokens you've acquired.
   * **Total Invested** – The cumulative amount of money you’ve invested so far.
   * **ROI (Return on Investment)** – Shows your current investment return percentage.
-  * **Balance** – Your available wallet balance; tapping the right-arrow icon may lead to more detailed balance or token management options.
-* **No Properties Section**: Displays “No. of Properties” you have invested in.
+  * **Balance** – Your available wallet balance; tapping the right-arrow icon leads to more detailed balance or token management options.
+* **No Properties**: Is displayed if you don't have any property tokens in your account.
 * **Top Right Icons**:
-  * **Notifications** – View important alerts or updates.
+  * **Notifications** – View important alerts or updates about any of the properties you have invested in.
   * **QR Scanner** –  For scanning wallet addresses or QR codes.
   * **Menu** – Opens the app’s extended menu or settings.
 
 ## What You Can Do
 
 * **Track Investment Summary** at a glance.
-* **Click the Balance arrow** to manage or view your tokens.
+* **Click the Balance arrow** to view a summary of your tokens, manage your account or on/off ramp your tokens.
 * **Navigate using the Bottom Tabs**:
   * **My Account** – Access your personal profile and app settings.
-  * **Help** – Get support or read through common FAQs.
-  * **Marketplace** – Browse and invest in real estate properties.
+  * **Help** – Get app support or create a support ticket.
+  * **Marketplace** – Browse and invest in real estate property tokens.
 
 ## Marketplace
 
@@ -56,22 +56,27 @@ Tap on the Marketplace icon in the bottom navigation bar. You will now see a scr
 
 **2. Explore Property Listings**
 
-Each listing contains:Property Image: Visual representation of the building or plot.
+Each property listing page contains:
 
-Location: Where the property is situated (e.g., The Avenue, London).
+Primary Image: Photo of the building or plot.
 
-Plot Name & Type: Title of the plot, like Plot 40 – Lime House or Plot 34 – High Rise.
+Supporting Images: Photos of the internal features of the property.
+
+Location: Where the property is situated (e.g. The Avenue, London).
+
+Property Name: Title of the plot, like Plot 40 – Lime House or Plot 34 – High Rise.
+
+Type: House, Apartment etc...
 
 Tokens: Number of tokens available to purchase.
 
-APY: Annual Percentage Yield (estimated return on investment).
+APY: Annual Percentage Yield (estimated return on investment from the expected rental income).
 
 Price: The total price of the property.📝 Example: Plot 34 – High Rise, located at The Avenue, Enfield, offers an APY of 12.73%, with a price of £270600 and 52 tokens available.
 
 **3**. **Mark Your Favourites**
 
-* Tap the **heart icon** (♡) on the top right corner of any listing to save it to your favourites.
-* This helps you keep track of interesting properties for later.
+* Tap the **heart icon** (♡) on the top right corner of any listing to save it to your favourites. This helps you keep track of interesting properties you may want to share or invest in later.
 
 **4. View More Properties**
 
@@ -90,16 +95,16 @@ Whenever you click on any of the listed property, you will be able to see the de
 
 * You’ll see the plot name and location at the top.
 * Below that:
-  * **Price per token** in GBP and USDT (e.g., £1025 / 1250 USDT)
-  * **Listing Price** (e.g., £205,000)
-  * **Rental Yield** (e.g., 5.76%)
-  * **Tokens Available** (e.g., 1 / 200)
-  * **Property Type** (e.g., Flat)
+  * **Price per token** in GBP and USDT (e.g. £1025 / 1250 USDT)
+  * **Listing Price** (e.g. £205,000)
+  * **Rental Yield** (e.g. 5.76%)
+  * **Tokens Available** (e.g. 1 / 200)
+  * **Property Type** (e.g. Flat)
 * **Area Prices & Income**
-  * A visual bar shows the local property price range.
+  * A visual bar shows the local comparable property price range.
   * Below that, you’ll see estimated **rental income** (e.g., £984).
 * **Rental Demand**
-  * A demand meter shows how in-demand the property area is.
+  * A demand meter shows how in-demand property rentals are in that specific area.
 * **Description & Specs**
   * See the property description (e.g., "1 bed apartment overlooking the river").
   * Key specs:
@@ -137,7 +142,7 @@ This is your **secret backup phrase** used to restore your wallet. It’s super 
 
 <figure><img src="../../.gitbook/assets/WhatsApp Image 2025-08-04 at 15.43.00_80d8b7a1.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
-This section allows you to view and manage your **Decentralized Identifier (DID)**, which is a secure and private identity used across Web3 applications.
+This section allows you to view and manage your **Decentralized Identifier (DID)**, which is used to link your communications, documents and investments.
 
 Here’s how to understand and use each part of this screen:
 
@@ -200,8 +205,6 @@ Once inside, you’ll see a list of layout components you can add or rearrange. 
   Displays a compliance disclaimer about the risks involved in high-yield investment products.
 * **dApp Connection**\
   This section shows wallet connectivity status and interactions with decentralised applications (dApps).
-* **Xcavate Paseo Faucet**\
-  Allows users to request free Paseo tokens for testing purposes.
 * **Xcavate Investment Summary**\
   A quick summary of your investment status — how much you’ve invested, number of tokens held, etc.
 * **Xcavate ROI & Balance**\

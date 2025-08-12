@@ -119,7 +119,7 @@
 * [Applications](applications/README.md)
   * [realXmarket](applications/xcavate-dapp/README.md)
     * [realXmarket user flow](applications/xcavate-dapp/xcavate-dapp-user-flow.md)
-    * [RealXmarket user guide](applications/xcavate-dapp/xcavate-dapp-user-journey.md)
+    * [realXmarket user guide](applications/xcavate-dapp/xcavate-dapp-user-journey.md)
     * [realXmarket tester guide](applications/xcavate-dapp/realxmarket-tester-guide/README.md)
       * [General Tester Guide](applications/xcavate-dapp/realxmarket-tester-guide/general-tester-guide/README.md)
         * [Overview](applications/xcavate-dapp/realxmarket-tester-guide/general-tester-guide/overview/README.md)
