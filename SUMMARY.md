@@ -143,6 +143,7 @@
         * [Roles and Responsibilities](applications/xcavate-dapp/realxmarket-tester-guide/sumsub-kyc-kyb/roles-and-responsibilities.md)
         * [Step by Step Guides](applications/xcavate-dapp/realxmarket-tester-guide/sumsub-kyc-kyb/step-by-step-guides/README.md)
           * [Real-Estate Developers - KYB Verification](applications/xcavate-dapp/realxmarket-tester-guide/sumsub-kyc-kyb/step-by-step-guides/real-estate-developers-kyb-verification.md)
+          * [Investors - KYC Verification](applications/xcavate-dapp/realxmarket-tester-guide/sumsub-kyc-kyb/step-by-step-guides/investors-kyc-verification.md)
   * [realXtime](applications/realxtime.md)
   * [realXchange dApp](applications/user-instructions.md)
 * [Partnerships](partnerships.md)
