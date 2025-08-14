@@ -140,6 +140,7 @@
         * [Steps to create a Property Listing (for Testers)](applications/xcavate-dapp/realxmarket-tester-guide/real-estate-developer-red/steps-to-create-a-property-listing-for-testers.md)
       * [Sumsub KYC/KYB](applications/xcavate-dapp/realxmarket-tester-guide/sumsub-kyc-kyb/README.md)
         * [Introduction](applications/xcavate-dapp/realxmarket-tester-guide/sumsub-kyc-kyb/introduction.md)
+        * [Roles and Responsibilities](applications/xcavate-dapp/realxmarket-tester-guide/sumsub-kyc-kyb/roles-and-responsibilities.md)
   * [realXtime](applications/realxtime.md)
   * [realXchange dApp](applications/user-instructions.md)
 * [Partnerships](partnerships.md)
