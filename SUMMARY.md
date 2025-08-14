@@ -158,6 +158,7 @@
           * [Reviewing Results](applications/xcavate-dapp/realxmarket-tester-guide/elliptic-wallet-check-at-aml-stage/step-by-step-testing-guide/reviewing-results.md)
           * [Manual Case Handling (Lawyers and Compliance Team)](applications/xcavate-dapp/realxmarket-tester-guide/elliptic-wallet-check-at-aml-stage/step-by-step-testing-guide/manual-case-handling-lawyers-and-compliance-team.md)
         * [Best Practices](applications/xcavate-dapp/realxmarket-tester-guide/elliptic-wallet-check-at-aml-stage/best-practices.md)
+        * [Pass/Fail Criteria](applications/xcavate-dapp/realxmarket-tester-guide/elliptic-wallet-check-at-aml-stage/pass-fail-criteria.md)
   * [realXtime](applications/realxtime.md)
   * [realXchange dApp](applications/user-instructions.md)
 * [Partnerships](partnerships.md)
