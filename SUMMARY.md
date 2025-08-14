@@ -145,6 +145,7 @@
           * [Real-Estate Developers - KYB Verification](applications/xcavate-dapp/realxmarket-tester-guide/sumsub-kyc-kyb/step-by-step-guides/real-estate-developers-kyb-verification.md)
           * [Investors - KYC Verification](applications/xcavate-dapp/realxmarket-tester-guide/sumsub-kyc-kyb/step-by-step-guides/investors-kyc-verification.md)
           * [Lawyers - Legal Compliance Review](applications/xcavate-dapp/realxmarket-tester-guide/sumsub-kyc-kyb/step-by-step-guides/lawyers-legal-compliance-review.md)
+          * [Letting Agents - Tenant/Landlord verification](applications/xcavate-dapp/realxmarket-tester-guide/sumsub-kyc-kyb/step-by-step-guides/letting-agents-tenant-landlord-verification.md)
   * [realXtime](applications/realxtime.md)
   * [realXchange dApp](applications/user-instructions.md)
 * [Partnerships](partnerships.md)
