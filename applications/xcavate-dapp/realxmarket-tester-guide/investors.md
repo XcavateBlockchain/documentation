@@ -1,6 +1,6 @@
 # Investors
 
-1. When first access the app through Google Play Store, uninstall and upgrade button will appear (please excuse the following screenshot showing Open instead of Upgrade):
+1. Upon first access the app through Google Play Store, uninstall and upgrade button will appear (please excuse the following screenshot showing Open instead of Upgrade):
 
 <figure><img src="../../../.gitbook/assets/image (40).png" alt="" width="375"><figcaption></figcaption></figure>
 
