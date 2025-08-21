@@ -1,6 +1,6 @@
 # Investors
 
-1. In exisiting app (version 20/0.1), go to settings where the following page will appear
+1. In existing app (version 20/0.1), go to settings where the following page will appear
 
 <figure><img src="../../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
 
