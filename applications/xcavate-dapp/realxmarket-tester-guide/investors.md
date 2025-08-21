@@ -38,6 +38,6 @@
 
 <figure><img src="../../../.gitbook/assets/image (49).png" alt="" width="375"><figcaption></figcaption></figure>
 
-11. Click Continue on the screen where your DID has been created will reach 'My account' page
+11. Saved the mnemonics and Kilt DID on the screen where your DID has been created. Click Continue to reach 'My account' page
 
 <figure><img src="../../../.gitbook/assets/image (50).png" alt="" width="375"><figcaption></figcaption></figure>
