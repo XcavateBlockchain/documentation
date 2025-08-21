@@ -40,7 +40,7 @@
 
 <figure><img src="../../../.gitbook/assets/image (44).png" alt="" width="375"><figcaption></figcaption></figure>
 
-11. Click Continue and arriving at Enter mnemonics screen. Click import json.&#x20;
+11. Click Continue and arriving at Enter mnemonics screen. Click Import json.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (45).png" alt="" width="375"><figcaption></figcaption></figure>
 
