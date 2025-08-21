@@ -36,7 +36,7 @@
 
 <figure><img src="../../../.gitbook/assets/image (43).png" alt="" width="375"><figcaption></figcaption></figure>
 
-8. Select Create Account and set a new password as shown below
+8. Select Import Account and set a new password as shown below
 
 <figure><img src="../../../.gitbook/assets/image (44).png" alt="" width="375"><figcaption></figcaption></figure>
 
