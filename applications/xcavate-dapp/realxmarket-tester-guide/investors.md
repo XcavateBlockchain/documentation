@@ -1,6 +1,26 @@
 # Investors
 
-1. Upon first access the app through Google Play Store, uninstall and upgrade button will appear (please excuse the following screenshot showing Open instead of Upgrade):
+1. In exisiting app (version 20/0.1), go to settings where the following page will appear
+
+<figure><img src="../../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+
+2. Click on show mnemonics and enter password
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+3. Take note of the mnemonics and click export json
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+
+3. Enter password to Export json
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+
+3. Click save realxmarket.json&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
+
+3. Upon first access the app through Google Play Store, uninstall and upgrade button will appear (please excuse the following screenshot showing Open instead of Upgrade):
 
 <figure><img src="../../../.gitbook/assets/image (40).png" alt="" width="375"><figcaption></figcaption></figure>
 
