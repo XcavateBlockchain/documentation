@@ -3,7 +3,7 @@
 1. Use the web application on desktop or laptop.&#x20;
 2. Go to [https://realxmarket.xcavate.io/](https://realxmarket.xcavate.io/)
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Testers will be given a test account to be imported into testers SubWallet. Go to SubWallet account and import the Testers account (see highlighted yellow):
 
@@ -19,7 +19,7 @@
 
 6. Click Connect on the top right hand corner:&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 7. Select Subwallet. Select the imported test account.
 
@@ -59,3 +59,7 @@
 
 16. Filled in the detail as shown here with one exception. The Pproperty Number must be different for different testers.
 
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+17. Click Continue to arrive on this page:
+18.
