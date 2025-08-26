@@ -65,18 +65,18 @@
 
 <figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-17. Filled in with the following information and click Continue:
+18. Filled in with the following information and click Continue:
 
 <figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-17. This page will appear. Fill in the information as below:
+19. This page will appear. Fill in the information as below:
 
 <figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-18. Scroll down and upload images that will be provided to testers:
+20. Scroll down and upload images that will be provided to testers:
 
 <figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-19. Click Submit and the following will appear:
+21. Click Submit and the following will appear:
 
 <figure><img src="../../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
