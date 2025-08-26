@@ -53,5 +53,9 @@
 
 <figure><img src="../../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
-14. There will be a notification when the listing is approved.
-15. The listing will be listed.
+15. The following page will appear:
+
+<figure><img src="../../../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+
+16. Filled in the detail as shown here with one exception. The Pproperty Number must be different for different testers.
+
