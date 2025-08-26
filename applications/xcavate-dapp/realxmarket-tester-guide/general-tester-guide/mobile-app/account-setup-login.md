@@ -34,7 +34,7 @@ Steps for Account Setup / Login:
 
 5. Step 1 will continue to uploading document by taking picture of the front and back depending on the chosen document type:
 
-<figure><img src="../../../../../.gitbook/assets/image (5) (1) (2) (1).png" alt="" width="302"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (5) (1) (2) (1) (1).png" alt="" width="302"><figcaption></figcaption></figure>
 
 
 

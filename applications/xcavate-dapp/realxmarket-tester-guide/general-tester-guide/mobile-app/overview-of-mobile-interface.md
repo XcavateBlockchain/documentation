@@ -2,7 +2,7 @@
 
 1. Once the login setup completed, the main page of the app will appear:&#x20;
 
-<figure><img src="../../../../../.gitbook/assets/image (5) (1).png" alt="" width="201"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (5) (1) (2).png" alt="" width="201"><figcaption></figcaption></figure>
 
 This page is under my account, one of the three selection tab at the bottom of the page. The listed properties are shown on this page by scrolling this page.
 
@@ -30,7 +30,7 @@ The notification page with existing notifications will look like this:
 
 5. The second icon as highlighted yellow below is for scanning QR code:
 
-<figure><img src="../../../../../.gitbook/assets/image (5) (1) (2).png" alt="" width="199"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (5) (1) (2) (1).png" alt="" width="199"><figcaption></figcaption></figure>
 
 Upon pressing the second icon, the following page will appear:
 
