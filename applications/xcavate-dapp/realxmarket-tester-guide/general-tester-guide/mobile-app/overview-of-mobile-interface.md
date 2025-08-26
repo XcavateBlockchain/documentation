@@ -24,7 +24,7 @@ This page is under my account, one of the three selection tab at the bottom of t
 
 The notification page with existing notifications will look like this:
 
-<figure><img src="../../../../../.gitbook/assets/image (4) (1) (1).png" alt="" width="200"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (4) (1) (1) (2).png" alt="" width="200"><figcaption></figcaption></figure>
 
 
 

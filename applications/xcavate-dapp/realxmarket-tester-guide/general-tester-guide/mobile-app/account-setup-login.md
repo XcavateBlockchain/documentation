@@ -28,7 +28,7 @@ Steps for Account Setup / Login:
 
 4. If Step 1 Provide identity document is chosen, choose to provide driver's license or residence permit or passport and then click continue:
 
-<figure><img src="../../../../../.gitbook/assets/image (4) (1) (1) (2) (1).png" alt="" width="304"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (4) (1) (1) (2) (1) (1).png" alt="" width="304"><figcaption></figcaption></figure>
 
 
 
