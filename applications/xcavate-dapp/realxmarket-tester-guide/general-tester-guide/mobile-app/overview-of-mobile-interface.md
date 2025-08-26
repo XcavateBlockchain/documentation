@@ -10,17 +10,17 @@ This page is under my account, one of the three selection tab at the bottom of t
 
 2. The next selection tab in the middle after My account is help. This page contain AI support BobAi:
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (1).png" alt="" width="202"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="202"><figcaption></figcaption></figure>
 
 3. The third selection tab after help is the Marketplace tab. The Marketplace tab contains the list of properties:
 
-<figure><img src="../../../../../.gitbook/assets/image (2) (1).png" alt="" width="202"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="202"><figcaption></figcaption></figure>
 
 
 
 4. There are three selections at the top of the screen. The first icon as highlighted yellow below is a notification button:
 
-<figure><img src="../../../../../.gitbook/assets/image (3) (1).png" alt="" width="201"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (3) (1) (1).png" alt="" width="201"><figcaption></figcaption></figure>
 
 The notification page with existing notifications will look like this:
 

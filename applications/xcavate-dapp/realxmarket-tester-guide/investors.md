@@ -2,19 +2,19 @@
 
 1. In the existing app (version 20/0.1), go to settings where the following page will appear
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
 2. Click on show mnemonics and enter password
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 3. Take note of the mnemonics and click export json
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 4. Enter password to Export json
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 5. Click save realxmarket.json&#x20;
 
@@ -54,21 +54,18 @@
 
 <figure><img src="../../../.gitbook/assets/image (53).png" alt="" width="375"><figcaption></figcaption></figure>
 
-13. Enter Import DID and enter the Mnemonics saved from the old app
+14. Enter Create DID. The Import DID is not currently available.
 
-<figure><img src="../../../.gitbook/assets/image (46).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
 
-14. Import DID from old app
+15. Your DID has  been created screen will appear.
 
-<figure><img src="../../../.gitbook/assets/image (55).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-15. Click continue and will return to the following page
+16. Click on How to save Mnemonics, this page will appear:
 
-\
+<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
-
-<figure><img src="../../../.gitbook/assets/image (56).png" alt="" width="375"><figcaption></figcaption></figure>
-
-15. Click Open to reach 'My account' page
+17. Go back and  Click Continue and the 'My account' page appear:
 
 <figure><img src="../../../.gitbook/assets/image (50).png" alt="" width="375"><figcaption></figcaption></figure>

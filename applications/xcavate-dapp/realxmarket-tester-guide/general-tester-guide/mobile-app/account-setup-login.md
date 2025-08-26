@@ -10,19 +10,19 @@ Steps for Account Setup / Login:
 
 1. Upon accepting the Terms and condition in the previous section, Click Start Verification or Do It Later will appear:
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (2).png" alt="" width="302"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (2) (1).png" alt="" width="302"><figcaption></figcaption></figure>
 
 
 
 3. Select either All countries except USA or United States of America:
 
-<figure><img src="../../../../../.gitbook/assets/image (2) (1) (1) (2).png" alt="" width="300"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (2) (1) (1) (2) (1).png" alt="" width="300"><figcaption></figcaption></figure>
 
 
 
 3. Choose either provide identity document or perform a liveness check for user verification and click continue:
 
-<figure><img src="../../../../../.gitbook/assets/image (3) (1) (1) (2).png" alt="" width="300"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (3) (1) (1) (2) (1).png" alt="" width="300"><figcaption></figcaption></figure>
 
 
 
