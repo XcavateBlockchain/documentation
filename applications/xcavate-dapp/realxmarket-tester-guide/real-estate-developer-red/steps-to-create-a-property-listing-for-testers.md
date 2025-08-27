@@ -97,6 +97,6 @@
 
 <figure><img src="../../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
-21. Click View Draft and the property is located (circled by yellow highlight).&#x20;
+21. Click View Draft, click on refresh button and the property is located (circled by yellow highlight).&#x20;
 
 <figure><img src="../../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
