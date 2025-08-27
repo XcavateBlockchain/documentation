@@ -79,14 +79,14 @@
 
 <figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-15. Scroll down and upload images that will be provided to testers:
+17. Scroll down and upload images that will be provided to testers:
 
 <figure><img src="../../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
-21. Click Submit and the following will appear:
+18. Click Submit and the following will appear:
 
 <figure><img src="../../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
-22. Click View Draft and the property is located (circled by yellow highlight).&#x20;
+19. Click View Draft and the property is located (circled by yellow highlight).&#x20;
 
 <figure><img src="../../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
