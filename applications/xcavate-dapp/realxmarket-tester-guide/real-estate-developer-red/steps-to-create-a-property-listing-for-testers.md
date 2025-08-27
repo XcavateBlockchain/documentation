@@ -83,6 +83,6 @@ Property description : A light-filled apartment in a boutique 12-unit block, mom
 
 <figure><img src="../../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
-22. Click View Draft and click All (circle by yellow highlight). The property will be listed (circled by green highlight):
+22. Click View Draft and the property is located (circle by yellow highlight).&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
