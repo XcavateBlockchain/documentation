@@ -59,15 +59,19 @@
 
 16. This page will appear. Fill in the information as below.&#x20;
 
-Number of bedrooms - 2. Put number 2 in the box.
+**Internal area** - 72 m² (775 sq ft)
 
-Number of bathrooms - 1. Put number 1 in the box.
+**Finishing Quality** - High Quality
 
-Outdoor Space - Yes. Put Yes in the box.
+**Number of bedrooms** - 2. Put number 2 in the box.
 
-Off Street Parking - Yes. Put Yes in the box.
+**Number of bathrooms** - 1. Put number 1 in the box.
 
-Property description : A light-filled apartment in a boutique 12-unit block, moments from Verulamium Park and the historic city centre.  (copy and paste this)
+**Outdoor Space** - Yes. Put Yes in the box.
+
+**Off Street Parking** - Yes. Put Yes in the box.
+
+**Property description** : A light-filled apartment in a boutique 12-unit block, moments from Verulamium Park and the historic city centre.  (copy and paste this)
 
 
 
