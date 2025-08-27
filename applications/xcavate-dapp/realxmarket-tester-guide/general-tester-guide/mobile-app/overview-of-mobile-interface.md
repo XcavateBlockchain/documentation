@@ -34,18 +34,18 @@ The notification page with existing notifications will look like this:
 
 Upon pressing the second icon, the following page will appear:
 
-<figure><img src="../../../../../.gitbook/assets/image (6) (1).png" alt="" width="201"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (6) (1) (2).png" alt="" width="201"><figcaption></figcaption></figure>
 
 Click one of the three choices. Only either While using the app or Only this time, the following will appear:\
 
 
-<figure><img src="../../../../../.gitbook/assets/image (7) (1).png" alt="" width="199"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (7) (1) (2).png" alt="" width="199"><figcaption></figcaption></figure>
 
 
 
 6. The third icon highlighted below is the menu icon:
 
-<figure><img src="../../../../../.gitbook/assets/image (8) (1).png" alt="" width="201"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (8) (1) (2).png" alt="" width="201"><figcaption></figcaption></figure>
 
 Upon pressing the third icon, the following page will appear:\
 

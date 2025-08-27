@@ -40,20 +40,20 @@ Steps for Account Setup / Login:
 
 6. If Step 2 Perform a liveness check is chosen, the following view will appear:      &#x20;
 
-<figure><img src="../../../../../.gitbook/assets/image (7) (1) (2).png" alt="" width="301"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (7) (1) (2) (1).png" alt="" width="301"><figcaption></figcaption></figure>
 
 
 
 7.  Click Continue and allow camera access:\
 
 
-    <figure><img src="../../../../../.gitbook/assets/image (8) (1) (2).png" alt="" width="302"><figcaption></figcaption></figure>
+    <figure><img src="../../../../../.gitbook/assets/image (8) (1) (2) (1).png" alt="" width="302"><figcaption></figcaption></figure>
 
 
 
 8. Once approval is complete, select account type will appear. In this case, select Investor:
 
-<figure><img src="../../../../../.gitbook/assets/image (9) (1) (2).png" alt="" width="302"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (9) (1) (2) (1).png" alt="" width="302"><figcaption></figcaption></figure>
 
 
 
