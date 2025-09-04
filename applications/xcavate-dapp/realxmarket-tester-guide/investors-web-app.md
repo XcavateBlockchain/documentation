@@ -20,7 +20,7 @@ description: This exercise is web application on desktop or laptop
 
 <figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
-5. Choose your account name
+5. Choose your account name and click confirm.
 
 <figure><img src="../../../.gitbook/assets/image (65).png" alt="" width="375"><figcaption></figcaption></figure>
 
