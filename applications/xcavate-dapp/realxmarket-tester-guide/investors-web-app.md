@@ -22,16 +22,15 @@ description: This exercise is web application on desktop or laptop
 
 <figure><img src="../../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
-4. Click Import. You may or may not have this view.
+5. Click Import. You may or may not have this view.
 
 <figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
-5. Choose your account name and click confirm.
+6. Choose your account name and click confirm.
 
 <figure><img src="../../../.gitbook/assets/image (65).png" alt="" width="375"><figcaption></figcaption></figure>
 
-6. Go to [https://app.realxmarket.io/](https://app.realxmarket.io/)
-7. Click Connect on the top right hand corner. Select SubWallet. Your account should appear on the list.
+7. Go to [https://app.realxmarket.io/](https://app.realxmarket.io/). Click Connect on the top right hand corner. Select SubWallet. Your account should appear on the list.
 
 <figure><img src="../../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
