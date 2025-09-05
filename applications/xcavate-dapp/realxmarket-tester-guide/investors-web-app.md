@@ -18,7 +18,7 @@ description: This exercise is web application on desktop or laptop
 
 <figure><img src="../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
-4. Select Import from JSON file for those in version 26 of the mobile app. The password is the mobile realxmarket app password. Click Unlock file.
+4. Select Import from JSON file for those in version 26 of the mobile app and could not locate seed phrase. The password is the mobile realxmarket app password. Click Unlock file.
 
 <figure><img src="../../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
