@@ -4,7 +4,7 @@ description: This exercise is web application on desktop or laptop
 
 # Investors - web app
 
-1. Import own seed phrase from own mobile app account into SubWallet. Go to SubWallet account and select Import account. Seed phrase is the easiest way to import account in SubWallet. If you upgrade to version 26, you may need to export Json file if the Seed phrase do not appear. Your view might appear different from this view:&#x20;
+1. Import own seed phrase from own mobile app account into SubWallet. Go to SubWallet account and select Import account. Seed phrase is the easiest way to import account in SubWallet. If you upgrade to version 26, you may need to export Json file if the seed phrase do not appear. Your view might appear different from this view:&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
