@@ -124,7 +124,7 @@
   * [Step 5: Start Completing Tasks and Campaigns](xcavate-ultra-ambassadorship-program/step-5-start-completing-tasks-and-campaigns.md)
   * [Rewards and Expectations for Ultra Ambassadors](xcavate-ultra-ambassadorship-program/rewards-and-expectations-for-ultra-ambassadors/README.md)
     * [Your Monthly Reward Structure](xcavate-ultra-ambassadorship-program/rewards-and-expectations-for-ultra-ambassadors/your-monthly-reward-structure/README.md)
-      * [Base Reward](xcavate-ultra-ambassadorship-program/rewards-and-expectations-for-ultra-ambassadors/your-monthly-reward-structure/base-reward.md)
+      * [Rewards](xcavate-ultra-ambassadorship-program/rewards-and-expectations-for-ultra-ambassadors/your-monthly-reward-structure/rewards.md)
       * [Bonus for Pre-Approved Events](xcavate-ultra-ambassadorship-program/rewards-and-expectations-for-ultra-ambassadors/your-monthly-reward-structure/bonus-for-pre-approved-events.md)
       * [Monthly Blog Writing Competitions & App Testing Rewards](xcavate-ultra-ambassadorship-program/rewards-and-expectations-for-ultra-ambassadors/your-monthly-reward-structure/monthly-blog-writing-competitions-and-app-testing-rewards.md)
     * [Monthly Compulsory AMA](xcavate-ultra-ambassadorship-program/rewards-and-expectations-for-ultra-ambassadors/monthly-compulsory-ama.md)
