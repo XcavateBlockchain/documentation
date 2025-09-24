@@ -34,3 +34,4 @@ description: Only one person in each group can be a lawyer. Use Desktop/Laptop.
 
 <figure><img src="../../../../.gitbook/assets/Image 5 - SPV Lawyer after Approve.png" alt=""><figcaption></figcaption></figure>
 
+11\) The location where the claim button was, will show Legal Started.&#x20;
