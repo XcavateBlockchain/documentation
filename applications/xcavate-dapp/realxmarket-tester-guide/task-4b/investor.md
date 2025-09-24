@@ -30,12 +30,10 @@ description: Investor to claim tokens from the
 
 <figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-8. Log into your SubWallet or Talisman, whichever you use. You will reach the following screenshot:
+8. Log into your SubWallet or Talisman, whichever you use. You will reach the following screenshot. Click I understand button.
 
 <figure><img src="../../../../.gitbook/assets/Image 8 - Claim needs to Lock into SubWallet - edit.png" alt=""><figcaption></figcaption></figure>
 
-9. Click Approve:\
-   \
-
+9. Click Approve:&#x20;
 
 <figure><img src="../../../../.gitbook/assets/Image 9 - Claim into SubWallet click Approve - edit.png" alt=""><figcaption></figcaption></figure>
