@@ -175,7 +175,7 @@
       * [Investors - mobile app](applications/xcavate-dapp/realxmarket-tester-guide/investors-mobile-app.md)
       * [Investors - web app](applications/xcavate-dapp/realxmarket-tester-guide/investors-web-app.md)
       * [Task 4B](applications/xcavate-dapp/realxmarket-tester-guide/task-4b/README.md)
-        * [Investor - Claim Tokens](applications/xcavate-dapp/realxmarket-tester-guide/task-4b/investor-claim-tokens.md)
+        * [Investor - Claim Tokens](applications/xcavate-dapp/realxmarket-tester-guide/task-4b/investor.md)
   * [realXtime](applications/realxtime.md)
   * [realXchange dApp](applications/user-instructions.md)
 * [Partnerships](partnerships.md)

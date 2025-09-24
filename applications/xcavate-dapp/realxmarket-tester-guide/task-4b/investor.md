@@ -2,7 +2,7 @@
 description: Investor to claim tokens. Please use desktop/laptop
 ---
 
-# Investor
+# Investor - Claim Tokens
 
 1. Use Desktop/Laptop. Go to [https://app.realxmarket.io/](https://app.realxmarket.io/)
 2. Please connect to your mobile app account (highlighted yellow) that you used to purchase property tokens. Choose Investor.
