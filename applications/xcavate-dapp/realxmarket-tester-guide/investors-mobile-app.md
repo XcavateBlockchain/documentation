@@ -18,7 +18,7 @@
 
 5. Click save realxmarket.json&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 6. Upon first access the app through Google Play Store, uninstall and upgrade button will appear (please excuse the following screenshot showing Open instead of Upgrade):
 

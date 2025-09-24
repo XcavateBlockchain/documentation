@@ -50,7 +50,7 @@ Click one of the three choices. Only either While using the app or Only this tim
 Upon pressing the third icon, the following page will appear:\
 
 
-<figure><img src="../../../../../.gitbook/assets/image (10) (1).png" alt="" width="201"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (10) (1) (2).png" alt="" width="201"><figcaption></figcaption></figure>
 
 
 
