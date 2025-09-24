@@ -21,7 +21,7 @@ description: Investor to claim tokens. Please use desktop/laptop
 
 <figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-6. After you click the view button, you will see the page changed to the property you selected like the image shown below. Click Claim button, circled by yellow highlight.
+6. After you click the view button, you will see the page changed to the property you selected like the image shown below. In this example, the tokens owned is 6.  Click Claim button, circled by yellow highlight.
 
 <figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -34,6 +34,14 @@ description: Investor to claim tokens. Please use desktop/laptop
 
 <figure><img src="../../../../.gitbook/assets/Image 8 - Claim needs to Lock into SubWallet - edit.png" alt=""><figcaption></figcaption></figure>
 
-9. Click Approve:&#x20;
+9. Click Approve. It is possible that two attempts required if the first attempt failed.
 
-<figure><img src="../../../../.gitbook/assets/Image 9 - Claim into SubWallet click Approve - edit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Image 8 - Claim needs to Lock into SubWallet - edit3.png" alt=""><figcaption></figcaption></figure>
+
+10. A pop up for transaction successful will appear:
+
+<figure><img src="../../../../.gitbook/assets/Image 10 - transaction successful - edit.png" alt=""><figcaption></figcaption></figure>
+
+11. Once you are here, close the SubWallet. You should see the page below. This is the end of this step.
+
+<figure><img src="../../../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
