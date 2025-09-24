@@ -176,6 +176,7 @@
       * [Investors - web app](applications/xcavate-dapp/realxmarket-tester-guide/investors-web-app.md)
       * [Task 4B](applications/xcavate-dapp/realxmarket-tester-guide/task-4b/README.md)
         * [Investor - Claim Tokens](applications/xcavate-dapp/realxmarket-tester-guide/task-4b/investor.md)
+        * [SPV Lawyer Claim Property](applications/xcavate-dapp/realxmarket-tester-guide/task-4b/spv-lawyer-claim-property.md)
   * [realXtime](applications/realxtime.md)
   * [realXchange dApp](applications/user-instructions.md)
 * [Partnerships](partnerships.md)

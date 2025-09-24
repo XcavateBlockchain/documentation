@@ -11,11 +11,11 @@ description: Investor to claim tokens. Please use desktop/laptop
 
 3. Select Profile ( highlighted yellow):
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Go to Portfolio (highlighted yellow):
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. You will see the following page. Please ignore the Expired label. Please do not touch the Reclaim button. Please click on View button for each property in your portfolio in turn:
 
