@@ -3,7 +3,7 @@
 1. Use the web application on desktop or laptop.&#x20;
 2. Go to [https://app.realxmarket.io/](https://app.realxmarket.io/)
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Testers will be given a test account to be imported into testers SubWallet. Go to SubWallet account and import the Testers account (see highlighted yellow):
 
@@ -19,7 +19,7 @@
 
 6. Click Import
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 7. Fill in an Account name and click confirm
 
@@ -27,11 +27,11 @@
 
 8. Click Connect on the top right hand corner:&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 9. Select Subwallet. Select the imported test account.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 10. This page will appear, select Developer.&#x20;
 

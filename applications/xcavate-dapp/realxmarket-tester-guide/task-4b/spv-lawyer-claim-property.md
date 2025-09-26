@@ -16,7 +16,7 @@ description: Only one person in each group can be a lawyer. Use Desktop/Laptop.
 
 6\) Go to Profile and this page will appear:
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 7\) Select property and click claim button. The following view will appear. Select SPV Lawyer.
 
