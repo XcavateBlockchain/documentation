@@ -12,7 +12,7 @@ While the application can be accessed on both web browser as well as mobile, all
 
 The first (splash) screen users see when opening the app. It briefly displays the realXmarket brand identity. The user is then presented with a risk warning and a number options.
 
-<figure><img src="../../.gitbook/assets/0.0.2 Onbbboarding 1.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/0.0.2 Onbbboarding 1.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 ### Create account
 
@@ -24,7 +24,7 @@ The user needs to create a 6-20 character password
 
 Each user role has specific user account associated with the user type.
 
-<figure><img src="../../.gitbook/assets/Select account type.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Select account type.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 Enter your information and click proceed
 
@@ -52,13 +52,13 @@ Once you have successfully passed KYC will be asked to accept each document afte
 
 Once all documents have been digitally signed you will be sent to My Account.
 
-<figure><img src="../../.gitbook/assets/3.0.0 My account.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3.0.0 My account.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 This screen provides a snapshot of your current investment activity and balance, and gives you access to the most essential features of the app. It’s designed to help you track your financial performance and quickly navigate to other sections like your account, the help centre, and the marketplace.
 
-## 🔍Key Elements of Dashboard
+## 🔍Key Elements
 
-**Banner**: A security warning advising users of the financial risks involved. Clicking the “Take 2 mins to learn more” link opens a page with the details about the risks involved.
+**Banner**: A security warning advising users of the financial risks involved. Clicking the “Take 2 mins to learn more” link opens a page with the details about the full risks associated with this type of investment.
 
 * **Investment Stats**:
   * **Property Tokens Bought** – The total number of property tokens you've acquired.
@@ -71,7 +71,7 @@ This screen provides a snapshot of your current investment activity and balance,
   * **QR Scanner** –  For scanning wallet addresses or QR codes.
   * **Menu** – Opens the app’s extended menu or settings.
 
-## What You Can Do
+### My Account
 
 * **Track Investment Summary** at a glance.
 * **Click the Balance arrow** to view a summary of your tokens, manage your account or on/off ramp your tokens.
@@ -80,21 +80,27 @@ This screen provides a snapshot of your current investment activity and balance,
   * **Help** – Get app support or create a support ticket.
   * **Marketplace** – Browse and invest in real estate property tokens.
 
-## Marketplace
+### Help
+
+This help feature allows the user to type in a question getting an instant response. Should more support be necessary a support ticket can be raised.
+
+<figure><img src="../../.gitbook/assets/3.1.0 Help.jpg" alt="" width="188"><figcaption></figcaption></figure>
+
+### Marketplace
 
 The Marketplace section is where you can browse through available property listings and explore investment opportunities.
 
-**Step-by-Step Guide:**
+### **Step-by-Step Guide:**
 
-**1. Access the Marketplace**
+#### **1. Access the Marketplace**
 
 Tap on the Marketplace icon in the bottom navigation bar. You will now see a scrollable list of properties available for investment.
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3.2.0 Maarketplace.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3.3.1 Details Page -  Buy (1).jpg" alt="" width="188"><figcaption></figcaption></figure>
 
-**2. Explore Property Listings**
+#### **2. Explore Property Listings**
 
 Each property listing page contains:
 
@@ -124,10 +130,6 @@ Price: The total price of the property.📝 Example: Plot 34 – High Rise, loca
 * All listings are displayed in an easy-to-view card format, making it simple to compare opportunities.
 
 **Property Details Page**
-
-<figure><img src="../../.gitbook/assets/image (35).png" alt="" width="188"><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (36).png" alt="" width="188"><figcaption></figcaption></figure>
 
 Whenever you click on any of the listed property, you will be able to see the detail of the property:
 
@@ -160,8 +162,6 @@ Whenever you click on any of the listed property, you will be able to see the de
 
 ### ⚙️ Settings
 
-<figure><img src="../../.gitbook/assets/image (37).png" alt="" width="188"><figcaption></figcaption></figure>
-
 The **Settings** section lets you manage your account's security, wallet credentials, developer options, and access helpful links like the FAQ or whitepaper. Here's how to navigate and use each option:
 
 #### 🔐 1. Show Mnemonics
@@ -169,9 +169,6 @@ The **Settings** section lets you manage your account's security, wallet credent
 This is your **secret backup phrase** used to restore your wallet. It’s super important.
 
 * Tap on **"Show mnemonics"**.
-
-<figure><img src="../../.gitbook/assets/WhatsApp Image 2025-08-04 at 15.38.02_bae0e199.jpg" alt="" width="188"><figcaption></figcaption></figure>
-
 * You’ll be asked to confirm your identity (Face ID/Passcode or similar).
 * Once unlocked, you’ll see your **mnemonic phrase** (usually 12 or 24 words).
 * **Write it down somewhere secure** — don’t screenshot or share it.
@@ -179,8 +176,6 @@ This is your **secret backup phrase** used to restore your wallet. It’s super 
 ⚠️ If you lose your phone and don’t have this phrase, **you’ll lose access to your wallet permanently**.
 
 ### 🪪 Manage Kilt DID
-
-<figure><img src="../../.gitbook/assets/WhatsApp Image 2025-08-04 at 15.43.00_80d8b7a1.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 This section allows you to view and manage your **Decentralized Identifier (DID)**, which is used to link your communications, documents and investments.
 
@@ -209,7 +204,7 @@ Not sure what these words are for?
 DIDs are how Web3 apps recognize you — like a **secure digital ID**.
 
 * Tap on **“What are DIDs”**
-* This provides a beginner-friendly explanation of how DIDs work, how they’re used in RealXMarket, and why they matter.
+* This provides a beginner-friendly explanation of how DIDs work, how they’re used in realXmarket, and why they matter.
 
 Understanding your DID means better control over your personal data and how it’s used.
 
@@ -221,53 +216,6 @@ If you ever want to **remove your identity** from the app:
 * Confirm that you understand this will **delete your DID permanently**.
 * Your identity is now removed from the app.
 
-#### 🧑‍💻 3. Developer Settings
-
-For advanced users and testers.
-
-* Tap **"Developer settings"** to tweak experimental features.
-* Use only if you know what you're doing — this can affect wallet operations.
-* This is useful mostly for beta testers or developers.
-
-### Developer Settings
-
-<figure><img src="../../.gitbook/assets/image (38).png" alt="" width="188"><figcaption></figcaption></figure>
-
-This section is mainly for **advanced users** or developers who want to enable experimental features or interact with the app in a more technical way.
-
-**Create Custom Layouts:**
-
-<figure><img src="../../.gitbook/assets/WhatsApp Image 2025-08-05 at 05.12.06_a9397f6a.jpg" alt="" width="188"><figcaption></figcaption></figure>
-
-Once inside, you’ll see a list of layout components you can add or rearrange. Here's what each of them does:
-
-* &#x20;**Xcavate Risk Warning**\
-  Displays a compliance disclaimer about the risks involved in high-yield investment products.
-* **dApp Connection**\
-  This section shows wallet connectivity status and interactions with decentralised applications (dApps).
-* **Xcavate Investment Summary**\
-  A quick summary of your investment status — how much you’ve invested, number of tokens held, etc.
-* **Xcavate ROI & Balance**\
-  Displays return on investment and your current available balance.
-* **Xcavate Paseo Owned Properties**\
-  A list of properties where the user already owns tokens.
-
 #### 4. Log Out (Delete Private Key)
 
 This will **log you out** and permanently remove your wallet from the device.
-
-**Footer**
-
-<figure><img src="../../.gitbook/assets/WhatsApp Image 2025-08-05 at 05.29.16_19e39383.jpg" alt="" width="188"><figcaption></figcaption></figure>
-
-At the very bottom, you’ll find helpful links:
-
-* **FAQ:** Frequently Asked Questions
-* **Team:** Learn about the people behind Xcavate
-* **Blog:** Product updates and insights
-* **Whitepaper:** Deep-dive into how RealXMarket works
-
-You’ll also see social links to platforms like:
-
-* \[X/Twitter], \[YouTube], \[GitHub], \[Subsocial], \[Discord]\
-  &#xNAN;_(Tap on any of them to open in your browser)_
