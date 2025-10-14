@@ -6,13 +6,53 @@ description: This is a step-by-step guide detailing all aspects of the user jour
 
 This section provides a clear walkthrough of the app’s main interface. Users can browse the marketplace, create an account, purchase property tokens, view investment performance, access wallet details, and explore features like property governance.
 
-<figure><img src="../../.gitbook/assets/WhatsApp Image 2025-07-31 at 17.28.46_a6b86c8b.jpg" alt="" width="188"><figcaption></figcaption></figure>
+While the application can be accessed on both web browser as well as mobile, all transactions need to be approved through verification of the users identity. Connecting your mobile through scanning a simple QR code makes the connection seamless.
 
-The first (splash) screen users see when opening the app. It briefly displays the realXmarket brand identity and highlights its built using the latest blockchain based technology with Polkadot, reassuring users of the platform's decentralized foundation and industry leading security.
+### Mobile
 
-<figure><img src="../../.gitbook/assets/WhatsApp Image 2025-07-31 at 19.17.28_ff34be66.jpg" alt="" width="188"><figcaption></figcaption></figure>
+The first (splash) screen users see when opening the app. It briefly displays the realXmarket brand identity. The user is then presented with a risk warning and a number options.
 
-When you launch the realXmarket mobile application, the first screen you see is the dashboard.
+<figure><img src="../../.gitbook/assets/0.0.2 Onbbboarding 1.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+### Create account
+
+By clicking this option the user creates a brand new account, which includes a self custody wallet address.
+
+The user needs to create a 6-20 character password
+
+#### Select account type
+
+Each user role has specific user account associated with the user type.
+
+<figure><img src="../../.gitbook/assets/Select account type.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+Enter your information and click proceed
+
+You are then presented with a number of documents associated with the regional operator and the regulatory compliance in that region.
+
+#### Risk Warning & Questionnaire
+
+The user will need to accept the full risk warning before being presented with a questionnaire to assess their suitable to property investment.
+
+There are three potential outcomes;
+
+Pass: Message asking to proceed
+
+Margin Failure: Risk warning acceptance before continuing
+
+Fail: Message displayed that indicates property investment is not suitable.
+
+### KYC / AML & Liveness
+
+This is carried out through SumSub
+
+#### Privacy, Terms & Agreement
+
+Once you have successfully passed KYC will be asked to accept each document after you have read and scrolled to the bottom of each PDF.
+
+Once all documents have been digitally signed you will be sent to My Account.
+
+<figure><img src="../../.gitbook/assets/3.0.0 My account.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 This screen provides a snapshot of your current investment activity and balance, and gives you access to the most essential features of the app. It’s designed to help you track your financial performance and quickly navigate to other sections like your account, the help centre, and the marketplace.
 
