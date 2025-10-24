@@ -129,6 +129,7 @@
       * [Monthly Blog Writing Competitions & App Testing Rewards](xcavate-ultra-ambassadorship-program/rewards-and-expectations-for-ultra-ambassadors/your-monthly-reward-structure/monthly-blog-writing-competitions-and-app-testing-rewards.md)
     * [Monthly Compulsory AMA](xcavate-ultra-ambassadorship-program/rewards-and-expectations-for-ultra-ambassadors/monthly-compulsory-ama.md)
   * [Welcome to the Ultra League — let’s build something extraordinary together!](xcavate-ultra-ambassadorship-program/welcome-to-the-ultra-league-lets-build-something-extraordinary-together.md)
+* [Paseo Xcavate Testnet](paseo-xcavate-testnet.md)
 * [Applications](applications/README.md)
   * [realXmarket](applications/xcavate-dapp/README.md)
     * [realXmarket user flow](applications/xcavate-dapp/xcavate-dapp-user-flow.md)
