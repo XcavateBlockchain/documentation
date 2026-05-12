@@ -7,3 +7,5 @@ description: >-
 # realXmarket
 
 This application forms a framework to; easily verify the identity of all participants, verify all property credentials, ownership & asset price compared to other similar properties in a specific geographic area. All of this information is presented in a simple user friendly format to allow the potential investor to make an informed decision about whether investment is right for them.
+
+The range of investment opportunities listed and available on the platform is focused on a professional investor that has knowledge of real estate and the risks associated with that kind of investment.
