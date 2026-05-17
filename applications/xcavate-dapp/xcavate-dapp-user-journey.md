@@ -1,8 +1,8 @@
 ---
-description: This is a step-by-step guide detailing all aspects of the user journey.
+description: This is a step-by-step guide detailing aspects of the initial user journey.
 ---
 
-# realXmarket user guide
+# General user guide
 
 This section provides a clear walkthrough of the app’s main interface. Users can browse the marketplace, create an account, purchase property shares, review documents and messages, vote on SPV decisions, view investment performance, access digital identity and wallet details, and explore features like property governance.
 
