@@ -32,7 +32,7 @@ You are then presented with a number of documents associated with the regional o
 
 #### Risk Warning & Questionnaire
 
-The user will need to accept the full risk warning before being presented with a questionnaire to assess their suitable to property investment.
+The user will need to accept the full risk warning before being presented with a questionnaire to assess their suitability to property investment.
 
 There are three potential outcomes;
 
@@ -40,11 +40,11 @@ Pass: Message asking to proceed
 
 Margin Failure: Risk warning acceptance before continuing
 
-Fail: Message displayed that indicates property investment is not suitable.
+Fail: Message displayed that indicates property investment is not suitable for them.
 
 ### KYC / AML & Liveness
 
-This is carried out through SumSub
+This is carried out through a third party SumSub
 
 #### Privacy, Terms & Agreement
 
@@ -61,24 +61,24 @@ This screen provides a snapshot of your current investment activity and balance,
 **Banner**: A security warning advising users of the financial risks involved. Clicking the “Take 2 mins to learn more” link opens a page with the details about the full risks associated with this type of investment.
 
 * **Investment Stats**:
-  * **Property Tokens Bought** – The total number of property tokens you've acquired.
+  * **Property Shares Bought** – The total number of property shares you've acquired.
   * **Total Invested** – The cumulative amount of money you’ve invested so far.
   * **ROI (Return on Investment)** – Shows your current investment return percentage.
-  * **Balance** – Your available wallet balance; tapping the right-arrow icon leads to more detailed balance or token management options.
-* **No Properties**: Is displayed if you don't have any property tokens in your account.
+  * **Balance** – Your available account balance; tapping the right-arrow icon leads to more details and payment integration options.
+* **No Properties**: Is displayed if you don't have any property shares in your account.
 * **Top Right Icons**:
   * **Notifications** – View important alerts or updates about any of the properties you have invested in.
-  * **QR Scanner** –  For scanning wallet addresses or QR codes.
+  * **QR Scanner** –  For scanning account addresses or QR codes.
   * **Menu** – Opens the app’s extended menu or settings.
 
 ### My Account
 
 * **Track Investment Summary** at a glance.
-* **Click the Balance arrow** to view a summary of your tokens, manage your account or on/off ramp your tokens.
+* **Click the Balance arrow** to view a summary of your shares, manage your account and payment integration options.
 * **Navigate using the Bottom Tabs**:
   * **My Account** – Access your personal profile and app settings.
   * **Help** – Get app support or create a support ticket.
-  * **Marketplace** – Browse and invest in real estate property tokens.
+  * **Marketplace** – Browse and invest in real estate property shares.
 
 ### Help
 
@@ -114,11 +114,11 @@ Property Name: Title of the plot, like Plot 40 – Lime House or Plot 34 – Hig
 
 Type: House, Apartment etc...
 
-Tokens: Number of tokens available to purchase.
+Shares: Number of shares available to purchase.
 
 APY: Annual Percentage Yield (estimated return on investment from the expected rental income).
 
-Price: The total price of the property.📝 Example: Plot 34 – High Rise, located at The Avenue, Enfield, offers an APY of 12.73%, with a price of £270600 and 52 tokens available.
+Price: The total price of the property.📝 Example: Plot 34 – High Rise, located at The Avenue, Enfield, offers an APY of 12.73%, with a price of £270600 and 52 shares available.
 
 **3**. **Mark Your Favourites**
 
@@ -137,10 +137,10 @@ Whenever you click on any of the listed property, you will be able to see the de
 
 * You’ll see the plot name and location at the top.
 * Below that:
-  * **Price per token** in GBP and USDT (e.g. £1025 / 1250 USDT)
+  * **Price per share** in GBP and USDT (e.g. £1025 / 1250 USD)
   * **Listing Price** (e.g. £205,000)
   * **Rental Yield** (e.g. 5.76%)
-  * **Tokens Available** (e.g. 1 / 200)
+  * **Shares Available** (e.g. 1 / 200)
   * **Property Type** (e.g. Flat)
 * **Area Prices & Income**
   * A visual bar shows the local comparable property price range.
@@ -158,24 +158,24 @@ Whenever you click on any of the listed property, you will be able to see the de
 * **Taking Action**
   * Ready to invest?
     * Tap **Buy** at the bottom of the screen.
-    * Follow the on-screen instructions to complete your token purchase.
+    * Follow the on-screen instructions to complete your share purchase.
 
 ### ⚙️ Settings
 
-The **Settings** section lets you manage your account's security, wallet credentials, developer options, and access helpful links like the FAQ or whitepaper. Here's how to navigate and use each option:
+The **Settings** section lets you manage your account's security, account credentials, developer options, and access helpful links. Here's how to navigate and use each option:
 
 #### 🔐 1. Show Mnemonics
 
-This is your **secret backup phrase** used to restore your wallet. It’s super important.
+This is your **secret backup phrase** used to restore your account. It’s super important.
 
 * Tap on **"Show mnemonics"**.
 * You’ll be asked to confirm your identity (Face ID/Passcode or similar).
 * Once unlocked, you’ll see your **mnemonic phrase** (usually 12 or 24 words).
-* **Write it down somewhere secure** — don’t screenshot or share it.
+* **Write it down somewhere and store it in a secure place** — don’t screenshot or share it.
 
-⚠️ If you lose your phone and don’t have this phrase, **you’ll lose access to your wallet permanently**.
+⚠️ If you lose your phone and don’t have this phrase, **you’ll lose access to your account permanently**.
 
-### 🪪 Manage Kilt DID
+### 🪪 Manage DID
 
 This section allows you to view and manage your **Decentralized Identifier (DID)**, which is used to link your communications, documents and investments.
 
@@ -185,7 +185,7 @@ Here’s how to understand and use each part of this screen:
 
 These 12 words (e.g., “flat high label mobile...”) act as your **backup identity** for the DID. If you ever need to recover your identity, these mnemonics are what you’ll use.
 
-* Tap the **“Manage Kilt DID”** section from the **Settings** menu.
+* Tap the **“Manage DID”** section from the **Settings** menu.
 * You’ll see your **DID Mnemonics** displayed in a sentence-like list.
 *   **Write these down and store them somewhere safe.**
 
@@ -197,11 +197,11 @@ Not sure what these words are for?
 
 * Tap on **“What are mnemonics?”**
 * You’ll be taken to a helpful explanation (or possibly a link) that breaks it down for you.
-* This is great for new users who’ve never interacted with a Web3 identity before.
+* This is great for new users who’ve never interacted with a digital identity before.
 
 #### 👤 What are DIDs?
 
-DIDs are how Web3 apps recognize you — like a **secure digital ID**.
+DIDs are how Web3 apps recognise you — like a **secure digital ID**.
 
 * Tap on **“What are DIDs”**
 * This provides a beginner-friendly explanation of how DIDs work, how they’re used in realXmarket, and why they matter.
