@@ -12,7 +12,7 @@ While the application can be accessed on both web browser as well as mobile, all
 
 The first (splash) screen users see when opening the app. It briefly displays the realXmarket brand identity. The user is then presented with a risk warning and a number options.
 
-<figure><img src="../../.gitbook/assets/0.0.2 Onbbboarding 1.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/0.0.2 Onbbboarding 1.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 ### Create account
 
@@ -24,7 +24,7 @@ The user needs to create a 6-20 character password
 
 Each user role has specific user account associated with the user type.
 
-<figure><img src="../../.gitbook/assets/Select account type.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Select account type.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 Enter your information and click proceed
 
@@ -52,7 +52,7 @@ Once you have successfully passed KYC will be asked to accept each document afte
 
 Once all documents have been digitally signed you will be sent to My Account.
 
-<figure><img src="../../.gitbook/assets/3.0.0 My account.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3.0.0 My account.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 This screen provides a snapshot of your current investment activity and balance, and gives you access to the most essential features of the app. It’s designed to help you track your financial performance and quickly navigate to other sections like your account, the help centre, and the marketplace.
 
@@ -84,7 +84,7 @@ This screen provides a snapshot of your current investment activity and balance,
 
 This help feature allows the user to type in a question getting an instant response. Should more support be necessary a support ticket can be raised.
 
-<figure><img src="../../.gitbook/assets/3.1.0 Help.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3.1.0 Help.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 ### Marketplace
 
@@ -96,9 +96,9 @@ The Marketplace section is where you can browse through available property listi
 
 Tap on the Marketplace icon in the bottom navigation bar. You will now see a scrollable list of properties available for investment.
 
-<figure><img src="../../.gitbook/assets/3.2.0 Maarketplace.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3.2.0 Maarketplace.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/3.3.1 Details Page -  Buy (1).jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3.3.1 Details Page -  Buy (1).jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 #### **2. Explore Property Listings**
 

@@ -8,7 +8,7 @@ description: This section is focused on the property verification, listing and s
 
 Enter your company details. These will appear as your company profile on the platform.
 
-<figure><img src="../../.gitbook/assets/RED company account.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/RED company account.jpg" alt=""><figcaption></figcaption></figure>
 
 #### Add Team
 
@@ -22,7 +22,7 @@ Before a property can be listed it must be added to a real estate developer acco
 
 Click the blue 'Add Property' button and follow instructions to fill in the form.
 
-<figure><img src="../../.gitbook/assets/Form1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Form1.png" alt=""><figcaption></figcaption></figure>
 
 Once you have completed property information section please press the blue continue button.
 
