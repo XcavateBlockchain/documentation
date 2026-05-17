@@ -36,4 +36,16 @@ Click on marketplace and browse listings by scrolling or by using the search / f
 
 It is important to review all the information on a specific property listing to ensure the investment is right for you before you make any purchase.
 
+Each property listing page contains:
+
+Primary Image: Photo of the building or plot.
+
+Supporting Images: Photos of the internal features of the property.
+
+Location: Where the property is situated (e.g. The Avenue, London).
+
+Property Name: Title of the plot, like Plot 40 – Lime House or Plot 34 – High Rise.
+
+Type: House, Apartment etc...
+
 <figure><img src="../../../.gitbook/assets/3.3.2 Purchase notification.jpg" alt="" width="375"><figcaption></figcaption></figure>
