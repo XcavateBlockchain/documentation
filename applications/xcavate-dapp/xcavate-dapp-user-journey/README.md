@@ -50,22 +50,12 @@ This is carried out through a third party SumSub
 
 Once you have successfully passed KYC will be asked to accept each document after you have read and scrolled to the bottom of each PDF.
 
-Once all documents have been digitally signed you will be sent to My Account.
-
-<figure><img src="../../../.gitbook/assets/3.0.0 My account.jpg" alt="" width="188"><figcaption></figcaption></figure>
-
-This screen provides a snapshot of your current investment activity and balance, and gives you access to the most essential features of the app. It’s designed to help you track your financial performance and quickly navigate to other sections like your account, the help centre, and the marketplace.
+Once all documents have been digitally signed you will be sent to My Account, which maybe different based on the type of user you are.
 
 ## 🔍Key Elements
 
 **Banner**: A security warning advising users of the financial risks involved. Clicking the “Take 2 mins to learn more” link opens a page with the details about the full risks associated with this type of investment.
 
-* **Investment Stats**:
-  * **Property Shares Bought** – The total number of property shares you've acquired.
-  * **Total Invested** – The cumulative amount of money you’ve invested so far.
-  * **ROI (Return on Investment)** – Shows your current investment return percentage.
-  * **Balance** – Your available account balance; tapping the right-arrow icon leads to more details and payment integration options.
-* **No Properties**: Is displayed if you don't have any property shares in your account.
 * **Top Right Icons**:
   * **Notifications** – View important alerts or updates about any of the properties you have invested in.
   * **QR Scanner** –  For scanning account addresses or QR codes.
