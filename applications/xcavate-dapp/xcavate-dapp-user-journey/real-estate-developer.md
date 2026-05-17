@@ -33,3 +33,7 @@ Fill out the Pricing details section and click the blue continue button.
 Fill out the Additional details section and click the blue continue button.
 
 <figure><img src="../../../.gitbook/assets/Form3.jpg" alt=""><figcaption></figcaption></figure>
+
+Once all sections and information has been completed. Click the blue Submit button so the property can be verified.
+
+<figure><img src="../../../.gitbook/assets/Form submitted.jpg" alt=""><figcaption></figcaption></figure>
