@@ -24,5 +24,12 @@ Click the blue 'Add Property' button and follow instructions to fill in the form
 
 <figure><img src="../../../.gitbook/assets/Form1.png" alt=""><figcaption></figcaption></figure>
 
-Once you have completed property information section please press the blue continue button.
+Once you have completed property information section please press the blue continue button (pressing cancel saves the property details in the drafts section).
 
+Fill out the Pricing details section and click the blue continue button.
+
+<figure><img src="../../../.gitbook/assets/Form2.jpg" alt=""><figcaption></figcaption></figure>
+
+Fill out the Additional details section and click the blue continue button.
+
+<figure><img src="../../../.gitbook/assets/Form3.jpg" alt=""><figcaption></figcaption></figure>
