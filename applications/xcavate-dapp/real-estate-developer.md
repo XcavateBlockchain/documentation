@@ -8,7 +8,7 @@ description: This section is focused on the property verification, listing and s
 
 Enter your company details. These will appear as your company profile on the platform.
 
-<figure><img src="../../.gitbook/assets/RED company account.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/RED company account.jpg" alt=""><figcaption></figcaption></figure>
 
 #### Add Team
 
