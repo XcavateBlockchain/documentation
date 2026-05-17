@@ -1,2 +1,0 @@
-# Your Monthly Reward Structure
-

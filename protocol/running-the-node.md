@@ -1,9 +1,5 @@
 # Running the node
 
-#### Accessing Tanssi Node
-
-[`https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc1-polkadot.xcavate.io#/explorer`](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc1-polkadot.xcavate.io#/explorer)
-
 #### Running Xcavate\_Node Locally
 
 git clone [https://github.com/XcavateBlockchain/xcavate-node-paseo](https://github.com/XcavateBlockchain/xcavate-node-paseo)
