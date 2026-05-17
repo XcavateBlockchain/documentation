@@ -48,4 +48,35 @@ Property Name: Title of the plot, like Plot 40 – Lime House or Plot 34 – Hig
 
 Type: House, Apartment etc...
 
+**Property Details Page**
+
+Whenever you click on any of the listed property, you will be able to see the detail of the property:
+
+**Basic Info**
+
+* You’ll see the plot name and location at the top.
+* Below that:
+  * **Price per share** in GBP and USDT (e.g. £1025 / 1250 USD)
+  * **Listing Price** (e.g. £205,000)
+  * **Rental Yield** (e.g. 5.76%)
+  * **Shares Available** (e.g. 1 / 200)
+  * **Property Type** (e.g. Flat)
+* **Area Prices & Income**
+  * A visual bar shows the local comparable property price range.
+  * Below that, you’ll see estimated **rental income** (e.g., £984).
+* **Rental Demand**
+  * A demand meter shows how in-demand property rentals are in that specific area.
+* **Description & Specs**
+  * See the property description (e.g., "1 bed apartment overlooking the river").
+  * Key specs:
+    * 📐 Size: 100sqm
+    * 🛏 Bedrooms: 1
+    * 🛁 Bathrooms: 1
+    * 🏷 Type: Flat
+    * 📍 Location: The Avenue, Hertford
+* **Taking Action**
+  * Ready to invest?
+    * Tap **Buy** at the bottom of the screen.
+    * Follow the on-screen instructions to complete your share purchase.
+
 <figure><img src="../../../.gitbook/assets/3.3.2 Purchase notification.jpg" alt="" width="375"><figcaption></figcaption></figure>
