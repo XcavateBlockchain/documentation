@@ -2,7 +2,7 @@
 description: This is a step-by-step guide detailing aspects of the initial user journey.
 ---
 
-# General user guide
+# Getting started
 
 This section provides a clear walkthrough of the app’s main interface. Users can browse the marketplace, create an account, purchase property shares, review documents and messages, vote on SPV decisions, view investment performance, access digital identity and wallet details, and explore features like property governance.
 
@@ -10,13 +10,13 @@ While the application can be accessed on both web browser as well as mobile, all
 
 ### Mobile
 
-The first (splash) screen users see when opening the app. It briefly displays the realXmarket brand identity. The user is then presented with a risk warning and a number options.
+When the application first loads the user is presented with a risk warning and a number options.
 
 <figure><img src="../../../.gitbook/assets/0.0.2 Onbbboarding 1.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 ### Create account
 
-By clicking this option the user creates a brand new account, which includes a self custody wallet address.
+By clicking this option the user creates a brand new account, which includes a self custody account address.
 
 The user needs to create a 6-20 character password
 
