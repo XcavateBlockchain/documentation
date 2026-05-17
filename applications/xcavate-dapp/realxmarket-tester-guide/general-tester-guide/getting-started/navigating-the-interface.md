@@ -1,2 +1,0 @@
-# Navigating the Interface
-
