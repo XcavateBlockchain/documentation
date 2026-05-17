@@ -114,4 +114,5 @@
     * [Key Features and Benefits](applications/xcavate-dapp/key-features-and-benefits.md)
     * [Getting started](applications/xcavate-dapp/xcavate-dapp-user-journey/README.md)
       * [Real Estate Developer](applications/xcavate-dapp/xcavate-dapp-user-journey/real-estate-developer.md)
+      * [Investor](applications/xcavate-dapp/xcavate-dapp-user-journey/investor.md)
 * [Partnerships](partnerships.md)
