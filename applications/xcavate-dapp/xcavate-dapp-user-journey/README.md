@@ -74,7 +74,7 @@ Once all documents have been digitally signed you will be sent to My Account, wh
 
 The **Settings** section lets you manage your account's security, account credentials, developer options, and access helpful links. Here's how to navigate and use each option:
 
-#### 🔐 1. Show Mnemonics
+#### Show Mnemonics
 
 This is your **secret backup phrase** used to restore your account. It’s super important.
 
@@ -85,13 +85,13 @@ This is your **secret backup phrase** used to restore your account. It’s super
 
 ⚠️ If you lose your phone and don’t have this phrase, **you’ll lose access to your account permanently**.
 
-### 🪪 Manage DID
+### Manage DID
 
 This section allows you to view and manage your **Decentralized Identifier (DID)**, which is used to link your communications, documents and investments.
 
 Here’s how to understand and use each part of this screen:
 
-#### 🧾 DID Mnemonics
+#### DID Mnemonics
 
 These 12 words (e.g., “flat high label mobile...”) act as your **backup identity** for the DID. If you ever need to recover your identity, these mnemonics are what you’ll use.
 
@@ -101,7 +101,7 @@ These 12 words (e.g., “flat high label mobile...”) act as your **backup iden
 
     > ⚠️ Just like wallet mnemonics, if you lose these, your identity is gone for good.
 
-#### 🧠 What are mnemonics?
+#### What are mnemonics?
 
 Not sure what these words are for?
 
@@ -109,7 +109,7 @@ Not sure what these words are for?
 * You’ll be taken to a helpful explanation (or possibly a link) that breaks it down for you.
 * This is great for new users who’ve never interacted with a digital identity before.
 
-#### 👤 What are DIDs?
+#### What are DIDs?
 
 DIDs are how Web3 apps recognise you — like a **secure digital ID**.
 
@@ -118,7 +118,7 @@ DIDs are how Web3 apps recognise you — like a **secure digital ID**.
 
 Understanding your DID means better control over your personal data and how it’s used.
 
-#### 🗑️ Delete DID
+#### Delete DID
 
 If you ever want to **remove your identity** from the app:
 
@@ -126,6 +126,6 @@ If you ever want to **remove your identity** from the app:
 * Confirm that you understand this will **delete your DID permanently**.
 * Your identity is now removed from the app.
 
-#### 4. Log Out (Delete Private Key)
+#### Log Out (Delete Private Key)
 
 This will **log you out** and permanently remove your wallet from the device.
