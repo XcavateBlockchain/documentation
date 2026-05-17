@@ -36,8 +36,7 @@ Upon pressing the second icon, the following page will appear:
 
 <figure><img src="../../../../../.gitbook/assets/image (6) (1) (2).png" alt="" width="201"><figcaption></figcaption></figure>
 
-Click one of the three choices. Only either While using the app or Only this time, the following will appear:\
-
+Click one of the three choices. Only either While using the app or Only this time, the following will appear:<br>
 
 <figure><img src="../../../../../.gitbook/assets/image (7) (1) (2).png" alt="" width="199"><figcaption></figcaption></figure>
 
@@ -47,8 +46,7 @@ Click one of the three choices. Only either While using the app or Only this tim
 
 <figure><img src="../../../../../.gitbook/assets/image (8) (1) (2).png" alt="" width="201"><figcaption></figcaption></figure>
 
-Upon pressing the third icon, the following page will appear:\
-
+Upon pressing the third icon, the following page will appear:<br>
 
 <figure><img src="../../../../../.gitbook/assets/image (10) (1) (2).png" alt="" width="201"><figcaption></figcaption></figure>
 

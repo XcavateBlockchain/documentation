@@ -4,8 +4,7 @@ Every Ultra Ambassador is required to attend one AMA session per month with the 
 
 * Review monthly achievements and highlights.
 * Share feedback and identify areas of improvement.
-* Strengthen our collaboration and synergy as a team.  \
-
+* Strengthen our collaboration and synergy as a team.  <br>
 
 AMA sessions will typically hold at the end of each month. Final dates and times will be\
 communicated in advance.

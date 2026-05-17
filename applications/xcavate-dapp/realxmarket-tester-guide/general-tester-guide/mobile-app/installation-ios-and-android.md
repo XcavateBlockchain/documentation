@@ -21,13 +21,12 @@
 
 
 
-    <figure><img src="../../../../../../.gitbook/assets/image (26).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../../../../.gitbook/assets/image (26).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Download the app. If you are not a new user, update the app will appear when update is available.
 
 
 
 \
-\
-
+<br>
 

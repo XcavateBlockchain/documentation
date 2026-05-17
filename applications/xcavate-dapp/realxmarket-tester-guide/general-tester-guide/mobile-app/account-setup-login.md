@@ -44,8 +44,7 @@ Steps for Account Setup / Login:
 
 
 
-7.  Click Continue and allow camera access:\
-
+7.  Click Continue and allow camera access:<br>
 
     <figure><img src="../../../../../.gitbook/assets/image (8) (1) (2) (1).png" alt="" width="302"><figcaption></figcaption></figure>
 

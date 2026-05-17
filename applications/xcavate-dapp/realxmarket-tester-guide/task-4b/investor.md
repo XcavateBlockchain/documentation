@@ -25,8 +25,7 @@ description: Investor to claim tokens. Please use desktop/laptop
 
 <figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-7. When you click claim button, the wallet will be activated. If you use SubWallet, SubWallet will be activated:\
-
+7. When you click claim button, the wallet will be activated. If you use SubWallet, SubWallet will be activated:<br>
 
 <figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 

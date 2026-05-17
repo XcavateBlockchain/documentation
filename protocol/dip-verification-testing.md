@@ -51,8 +51,7 @@ Once created the DID verification test can be executed. This extrinsic execution
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdHQGmDsvfJMAHks-nSHWjc5-o9mMGleSku2D_3F06NjFjgvNTIHEBrBzdzqAzjcck2KKsKZCV0I8PJ_1SNa_0vncyhLwCXNqxnpgAAhmCjWq3cejBS7nPawhnAecb1X4Ej3uc6PkTXpihnTpLN7du27AZn?key=HzgHVXYUZN16cG22fhmMVg" alt=""><figcaption></figcaption></figure>
 
-If the transaction is going through it means that the DID is verified. If the DID were not verified, there would be an InvalidProof error.\
-
+If the transaction is going through it means that the DID is verified. If the DID were not verified, there would be an InvalidProof error.<br>
 
 \
-\
+<br>

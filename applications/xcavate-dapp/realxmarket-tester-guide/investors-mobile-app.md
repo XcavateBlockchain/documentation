@@ -45,8 +45,7 @@
 <figure><img src="../../../.gitbook/assets/image (45).png" alt="" width="375"><figcaption></figcaption></figure>
 
 12. realxmarket.json happen to be saved twice, hence two lines, select one of the files\
-    \
-
+    <br>
 
 <figure><img src="../../../.gitbook/assets/image (52).png" alt="" width="375"><figcaption></figcaption></figure>
 

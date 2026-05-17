@@ -5,8 +5,7 @@ description: How to verify tXCAV on Xcavate Paseo Network
 # Paseo Xcavate Testnet
 
 1. Open browser and go to [https://polkadot.js.org/apps/#/accounts](https://polkadot.js.org/apps/#/accounts)
-2.  Click on “Test Paseo & Parachains” \
-
+2.  Click on “Test Paseo & Parachains” <br>
 
     <figure><img src=".gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -47,4 +46,4 @@ description: How to verify tXCAV on Xcavate Paseo Network
 
 <figure><img src=".gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
-\
+<br>

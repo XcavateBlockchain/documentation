@@ -62,4 +62,4 @@ Here are the recommended and minimum basic system requirements for desktop/web a
 
 These standards cover most real estate developer desktop/web apps and ensure solid performance and compatibility in 2025. Testers should confirm app-specific requirements with each release.
 
-\
+<br>
