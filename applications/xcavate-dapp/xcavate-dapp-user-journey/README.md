@@ -70,64 +70,6 @@ Once all documents have been digitally signed you will be sent to My Account, wh
   * **Help** – Get app support or create a support ticket.
   * **Marketplace** – Browse and invest in real estate property shares.
 
-### **Step-by-Step Guide:**
-
-#### **1. Access the Marketplace**
-
-Tap on the Marketplace icon in the bottom navigation bar. You will now see a scrollable list of properties available for investment.
-
-<figure><img src="../../../.gitbook/assets/3.2.0 Maarketplace.jpg" alt="" width="188"><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/3.3.1 Details Page -  Buy (1).jpg" alt="" width="188"><figcaption></figcaption></figure>
-
-
-
-Shares: Number of shares available to purchase.
-
-APY: Annual Percentage Yield (estimated return on investment from the expected rental income).
-
-Price: The total price of the property.📝 Example: Plot 34 – High Rise, located at The Avenue, Enfield, offers an APY of 12.73%, with a price of £270600 and 52 shares available.
-
-**3**. **Mark Your Favourites**
-
-* Tap the **heart icon** (♡) on the top right corner of any listing to save it to your favourites. This helps you keep track of interesting properties you may want to share or invest in later.
-
-**4. View More Properties**
-
-* Scroll down to load more listings. You can browse multiple locations and property types.
-* All listings are displayed in an easy-to-view card format, making it simple to compare opportunities.
-
-**Property Details Page**
-
-Whenever you click on any of the listed property, you will be able to see the detail of the property:
-
-**Basic Info**
-
-* You’ll see the plot name and location at the top.
-* Below that:
-  * **Price per share** in GBP and USDT (e.g. £1025 / 1250 USD)
-  * **Listing Price** (e.g. £205,000)
-  * **Rental Yield** (e.g. 5.76%)
-  * **Shares Available** (e.g. 1 / 200)
-  * **Property Type** (e.g. Flat)
-* **Area Prices & Income**
-  * A visual bar shows the local comparable property price range.
-  * Below that, you’ll see estimated **rental income** (e.g., £984).
-* **Rental Demand**
-  * A demand meter shows how in-demand property rentals are in that specific area.
-* **Description & Specs**
-  * See the property description (e.g., "1 bed apartment overlooking the river").
-  * Key specs:
-    * 📐 Size: 100sqm
-    * 🛏 Bedrooms: 1
-    * 🛁 Bathrooms: 1
-    * 🏷 Type: Flat
-    * 📍 Location: The Avenue, Hertford
-* **Taking Action**
-  * Ready to invest?
-    * Tap **Buy** at the bottom of the screen.
-    * Follow the on-screen instructions to complete your share purchase.
-
 ### ⚙️ Settings
 
 The **Settings** section lets you manage your account's security, account credentials, developer options, and access helpful links. Here's how to navigate and use each option:
