@@ -70,16 +70,6 @@ Once all documents have been digitally signed you will be sent to My Account, wh
   * **Help** – Get app support or create a support ticket.
   * **Marketplace** – Browse and invest in real estate property shares.
 
-### Help
-
-This help feature allows the user to type in a question getting an instant response. Should more support be necessary a support ticket can be raised.
-
-<figure><img src="../../../.gitbook/assets/3.1.0 Help.jpg" alt="" width="188"><figcaption></figcaption></figure>
-
-### Marketplace
-
-The Marketplace section is where you can browse through available property listings and explore investment opportunities.
-
 ### **Step-by-Step Guide:**
 
 #### **1. Access the Marketplace**
@@ -90,19 +80,7 @@ Tap on the Marketplace icon in the bottom navigation bar. You will now see a scr
 
 <figure><img src="../../../.gitbook/assets/3.3.1 Details Page -  Buy (1).jpg" alt="" width="188"><figcaption></figcaption></figure>
 
-#### **2. Explore Property Listings**
 
-Each property listing page contains:
-
-Primary Image: Photo of the building or plot.
-
-Supporting Images: Photos of the internal features of the property.
-
-Location: Where the property is situated (e.g. The Avenue, London).
-
-Property Name: Title of the plot, like Plot 40 – Lime House or Plot 34 – High Rise.
-
-Type: House, Apartment etc...
 
 Shares: Number of shares available to purchase.
 
