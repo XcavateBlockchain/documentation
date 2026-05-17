@@ -25,3 +25,8 @@ Click on marketplace and browse listings by scrolling or by using the search / f
 
 <figure><img src="../../../.gitbook/assets/2.1.0 Marketplace.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
+#### Review property information
+
+It is important to review all the information on a specific property listing to ensure the investment is right for you before you make any purchase.
+
+<figure><img src="../../../.gitbook/assets/3.3.2 Purchase notification.jpg" alt="" width="375"><figcaption></figcaption></figure>
