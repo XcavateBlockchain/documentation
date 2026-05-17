@@ -4,9 +4,9 @@ description: This is a step-by-step guide detailing all aspects of the user jour
 
 # realXmarket user guide
 
-This section provides a clear walkthrough of the app’s main interface. Users can browse the marketplace, create an account, purchase property tokens, view investment performance, access wallet details, and explore features like property governance.
+This section provides a clear walkthrough of the app’s main interface. Users can browse the marketplace, create an account, purchase property shares, review documents and messages, vote on SPV decisions, view investment performance, access digital identity and wallet details, and explore features like property governance.
 
-While the application can be accessed on both web browser as well as mobile, all transactions need to be approved through verification of the users identity. Connecting your mobile through scanning a simple QR code makes the connection seamless.
+While the application can be accessed on both web browser as well as mobile, all transactions need to be approved through verification of the users identity. Connecting your mobile through scanning a simple QR code makes the connection seamless and secure.
 
 ### Mobile
 
