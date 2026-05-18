@@ -4,7 +4,7 @@ description: >-
   claim, information review, voting to approve documents and property sale.
 ---
 
-# SPV Lawyer
+# Lawyer
 
 ### Mobile
 
@@ -12,7 +12,7 @@ description: >-
 
 This is where you can see your account key metrics.
 
-* **Investment Stats**:
+* **Core Stats**:
   * **Properties claimed** – The total number of properties you have successfully claimed.
   * **Property sales** – The cumulative amount of your property sales completed.
   * **Average completion** – The average number of days a sale takes to complete.
