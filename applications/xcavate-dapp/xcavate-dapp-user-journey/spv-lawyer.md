@@ -4,13 +4,13 @@ description: >-
   claim, information review, voting to approve documents and property sale.
 ---
 
-# Lawyer
+# SPV Lawyer
 
 ### Mobile
 
 #### My account
 
-This is where you can see your account balance and key investment metrics.
+This is where you can see your account key metrics.
 
 * **Investment Stats**:
   * **Properties claimed** – The total number of properties you have successfully claimed.
