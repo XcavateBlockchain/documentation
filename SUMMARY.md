@@ -116,5 +116,5 @@
       * [Help](applications/xcavate-dapp/xcavate-dapp-user-journey/help.md)
       * [Real Estate Developer](applications/xcavate-dapp/xcavate-dapp-user-journey/real-estate-developer.md)
       * [Investor](applications/xcavate-dapp/xcavate-dapp-user-journey/investor.md)
-      * [Lawyer](applications/xcavate-dapp/xcavate-dapp-user-journey/lawyer.md)
+      * [SPV Lawyer](applications/xcavate-dapp/xcavate-dapp-user-journey/spv-lawyer.md)
 * [Partnerships](partnerships.md)
