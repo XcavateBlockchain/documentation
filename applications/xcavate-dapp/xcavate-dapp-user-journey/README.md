@@ -4,7 +4,7 @@ description: This is a step-by-step guide detailing aspects of the initial user 
 
 # Getting started
 
-This section provides a clear walkthrough of the app’s main interface. Users can browse the marketplace, create an account, purchase property shares, review documents and messages, vote on SPV decisions, view investment performance, access digital identity and wallet details, and explore features like property governance.
+This section provides a clear walkthrough of the app’s main interface. Users can browse the marketplace, create an account (after successfully passing KYC), purchase property SPV shares, review documents and messages, vote on SPV decisions, view investment performance, access digital identity and wallet details, and explore features like property SPV governance.
 
 While the application can be accessed on both web browser as well as mobile, all transactions need to be approved through verification of the users identity. Connecting your mobile through scanning a simple QR code makes the connection seamless and secure.
 
@@ -16,9 +16,11 @@ When the application first loads the user is presented with a risk warning and a
 
 ### Create account
 
-By clicking this option the user creates a brand new account, which includes a self custody account address.
+Before your full account with payment address can be created you will need to successfully pass KYC / AML and risk questionnaire.
 
-The user needs to create a 6-20 character password
+To initiate the KYC / AML process you will need a self custody wallet.
+
+The user needs to create a 6-20 character password to access this wallet
 
 #### Select account type
 
