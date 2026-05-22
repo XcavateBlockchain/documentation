@@ -45,6 +45,10 @@ The status of the interaction between the SPV lawyer and the Real Estate Develop
 
 <figure><img src="../../../.gitbook/assets/4.5.2 Document.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
+#### **Issues found**
+
+If there are any issues found then the lawyers can either reject a document or message to get the problem resolved. If both lawyers vote to reject the sale, then the sale is cancelled and funds less fees are returned to the investors. If one lawyer votes to accept and the other to reject then there can be one more vote to reach approval of the sale.
+
 #### **Property sale outcome**
 
 Legal process completed and sale concluded. Funds are sent to Real Estate Developer. Fees sent to Lawyer and Regional Operator.<br>
