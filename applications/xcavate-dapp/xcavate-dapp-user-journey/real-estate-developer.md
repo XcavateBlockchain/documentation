@@ -24,7 +24,7 @@ Before a property can be listed it must be added to a real estate developer acco
 
 #### Properties
 
-This is where you will see the current selection and states of any of your properties.
+This is where you will see the current selection and status of any of your properties.
 
 <figure><img src="../../../.gitbook/assets/Property - Draft.jpg" alt=""><figcaption></figcaption></figure>
 
