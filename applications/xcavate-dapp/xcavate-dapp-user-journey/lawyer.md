@@ -25,6 +25,14 @@ This is where you can see your account key metrics.
 
 <br>
 
+### Lawyer property claim
+
+Verified lawyers can now claim the property to represent the SPV. Before a lawyer is appointed by the SPV the shareholders need to vote for a particular lawyer and accept their terms.
+
+<figure><img src="../../../.gitbook/assets/4.3.0 Claim.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/4.3.01 Claim.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
 #### **Property sale process**
 
 The status of the interaction between the SPV lawyer and the Real Estate Developer lawyer can be monitored by the SPV shareholders.
