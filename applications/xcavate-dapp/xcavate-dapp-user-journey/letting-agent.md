@@ -26,3 +26,5 @@ This is where you can see your account key metrics.
 ### Letting Agent property claim
 
 Verified letting agents can now claim the property to represent the SPV. Before a letting agent is appointed by the SPV the shareholders need to vote for a particular letting agent and accept their terms.
+
+<figure><img src="../../../.gitbook/assets/5.1.0 Details Page - Claim.jpg" alt="" width="375"><figcaption></figcaption></figure>
