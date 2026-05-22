@@ -39,6 +39,10 @@ Verified lawyers can now claim the property to represent the SPV. Before a lawye
 
 The status of the interaction between the SPV lawyer and the Real Estate Developer lawyer can be monitored by the SPV shareholders.
 
+<figure><img src="../../../.gitbook/assets/4.5.1 (a) messages - Verify sale.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Reject.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
 #### **Property sale outcome**
 
 Legal process completed and sale concluded. Funds are sent to Real Estate Developer. Fees sent to Lawyer and Regional Operator.<br>
