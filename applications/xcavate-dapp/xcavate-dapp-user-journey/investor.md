@@ -132,3 +132,19 @@ Verified letting agents can now claim the property to represent the SPV. Before 
 #### Property letting process
 
 The status of the interaction between the Letting Agent and the potential Renters can be monitored by the SPV shareholders.
+
+### Re-list property shares
+
+If you wish to re-list the property shares once the initial 90 day lock-in period expires after the primary listing sale. You can do so by clicking the re-list shares button to have the property share display on the noticeboard.
+
+<figure><img src="../../../.gitbook/assets/2.6.0 Details Page - listed (4) (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/2.6.0 Details Page - listed (5).jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+Interested parties express interest in your shares through the realXmessenger app where you negotiate a sale price one to one.
+
+<figure><img src="../../../.gitbook/assets/2.7.1 (a) messages.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Offer message.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+&#x20;
