@@ -22,3 +22,7 @@ This is where you can see your account key metrics.
 * **Under instruction**: These are properties you are representing in a rental agreement.
 
 <figure><img src="../../../.gitbook/assets/5.0.0 My account - Newly listed.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+### Letting Agent property claim
+
+Verified letting agents can now claim the property to represent the SPV. Before a letting agent is appointed by the SPV the shareholders need to vote for a particular letting agent and accept their terms.
