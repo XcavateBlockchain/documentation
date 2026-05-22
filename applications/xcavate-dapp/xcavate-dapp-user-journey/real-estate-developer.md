@@ -22,6 +22,12 @@ Click the blue 'Add Team' button and follow instructions.
 
 Before a property can be listed it must be added to a real estate developer account and be independently verified. A property can be added by a real estate developer, or an authorised member of their team, after receiving an invite link and following the account setup in the general user guide.
 
+#### Properties
+
+This is where you will see the current selection and states of any of your properties.
+
+<figure><img src="../../../.gitbook/assets/Property - Draft.jpg" alt=""><figcaption></figcaption></figure>
+
 #### Adding a property
 
 Click the blue 'Add Property' button and follow instructions to fill in the form.
