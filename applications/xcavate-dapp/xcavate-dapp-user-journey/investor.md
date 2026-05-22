@@ -80,3 +80,15 @@ Whenever you click on any of the listed property, you will be able to see the de
     * Follow the on-screen instructions to complete your share purchase.
 
 <figure><img src="../../../.gitbook/assets/3.3.2 Purchase notification.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+#### Cancelling a reserved property share
+
+You can cancel your reserved property share by clicking the "Cancel reserve" button at anytime until the last property share has been reserved in that particular property.
+
+<figure><img src="../../../.gitbook/assets/Reserve notification.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+#### Property share purchase process
+
+When the last property share in a particular property has been reserved this completes the contract to start the legal purchase process.
+
+Verified lawyers can now claim the property to represent the SPV. Before a lawyer is appointed the SPV shareholders need to vote to accept the terms of a particular lawyer.
