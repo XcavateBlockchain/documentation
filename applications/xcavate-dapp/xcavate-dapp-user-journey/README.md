@@ -34,12 +34,6 @@ To initiate the KYC / AML process you will need to create your account.
 
 You will need to create a 6-20 character password to access this account
 
-#### Select account type
-
-Choose the user type that best describes your role.
-
-<figure><img src="../../../.gitbook/assets/Select account type.jpg" alt="" width="188"><figcaption></figcaption></figure>
-
 #### Risk Warning & Questionnaire
 
 You will need to accept the risk warning before being presented with a questionnaire to assess your suitability to property investment.
