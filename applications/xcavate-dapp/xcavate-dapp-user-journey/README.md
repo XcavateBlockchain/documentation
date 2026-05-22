@@ -22,7 +22,7 @@ Once you have downloaded the mobile app from either Google or Apple depending on
 
 ### Mobile
 
-When the application first loads the user is presented with a risk warning and a number options.
+When the application first loads you are presented with a risk warning and a number options.
 
 <figure><img src="../../../.gitbook/assets/0.0.2 Onbbboarding 1.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
