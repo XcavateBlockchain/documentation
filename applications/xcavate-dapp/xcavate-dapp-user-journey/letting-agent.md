@@ -28,3 +28,10 @@ This is where you can see your account key metrics.
 Verified letting agents can now claim the property to represent the SPV. Before a letting agent is appointed by the SPV the shareholders need to vote for a particular letting agent and accept their terms.
 
 <figure><img src="../../../.gitbook/assets/5.1.0 Details Page - Claim.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/5.1.0 (a) Details Page -  Submit terms.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/5.0.1 B My account.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/5.1.1 Details Page -  Voting in progress.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
