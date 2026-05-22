@@ -28,25 +28,21 @@ When the application first loads you are presented with a risk warning and a num
 
 ### Create account
 
-Before your full account with payment address can be created you will need to successfully pass KYC / AML and risk questionnaire.
+Before your full account can be active you will need to successfully pass KYC / AML and risk questionnaire.
 
-To initiate the KYC / AML process you will need a self custody wallet.
+To initiate the KYC / AML process you will need to create your account.
 
-The user needs to create a 6-20 character password to access this wallet
+You will need to create a 6-20 character password to access this account
 
 #### Select account type
 
-Each user role has specific user account associated with the user type.
+Choose the user type that best describes your role.
 
 <figure><img src="../../../.gitbook/assets/Select account type.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
-Enter your information and click proceed
-
-You are then presented with a number of documents associated with the regional operator and the regulatory compliance in that region.
-
 #### Risk Warning & Questionnaire
 
-The user will need to accept the full risk warning before being presented with a questionnaire to assess their suitability to property investment.
+You will need to accept the risk warning before being presented with a questionnaire to assess your suitability to property investment.
 
 There are three potential outcomes;
 
@@ -54,7 +50,7 @@ Pass: Message asking to proceed
 
 Margin Failure: Risk warning acceptance before continuing
 
-Fail: Message displayed that indicates property investment is not suitable for them.
+Fail: Message displayed that indicates property investment is not suitable for you.
 
 ### KYC / AML & Liveness
 
@@ -66,7 +62,13 @@ Once you have successfully passed KYC will be asked to accept each document afte
 
 Once all documents have been digitally signed you will be sent to My Account, which maybe different based on the type of user you are.
 
-## 🔍Key Elements
+#### Select account type
+
+Choose the user type that best describes your role.
+
+<figure><img src="../../../.gitbook/assets/Select account type.jpg" alt="" width="188"><figcaption></figcaption></figure>
+
+### General
 
 **Banner**: A security warning advising users of the financial risks involved. Clicking the “Take 2 mins to learn more” link opens a page with the details about the full risks associated with this type of investment.
 
