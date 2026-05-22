@@ -4,6 +4,10 @@ description: This section is focused on the property verification, listing and s
 
 # Real Estate Developer
 
+### Web
+
+Once you have connected your verified mobile account with your preferred web browser (see getting started) you will be able to interact with your account through the browser.
+
 #### Add company
 
 Enter your company details. These will appear as your company profile on the platform.
