@@ -93,8 +93,10 @@ When the last property share in a particular property SPV has been reserved, thi
 
 <figure><img src="../../../.gitbook/assets/Claim share.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-Once all property shares have been claimed this starts the legal purchase process. If successful, then the SPV and its property shareholders will own the particular property asset, which will be registered with land registry after the sale has completed.
+Once all property shares have been claimed a SPV (LLP) is automatically created at Companies House for the specific property. The legal process starts and if the sale is successful, then the SPV and its property shareholders will own the particular property asset, which will be registered with land registry after the sale has completed.
 
 #### Lawyer property claim
 
 Verified lawyers can now claim the property to represent the SPV. Before a lawyer is appointed by the SPV the shareholders need to vote to accept the terms of a particular lawyer.
+
+<figure><img src="../../../.gitbook/assets/SPV lawyer vote.jpg" alt="" width="375"><figcaption></figcaption></figure>
