@@ -43,6 +43,8 @@ The status of the interaction between the SPV lawyer and the Real Estate Develop
 
 <figure><img src="../../../.gitbook/assets/Reject.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
+<figure><img src="../../../.gitbook/assets/4.5.2 Document.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
 #### **Property sale outcome**
 
 Legal process completed and sale concluded. Funds are sent to Real Estate Developer. Fees sent to Lawyer and Regional Operator.<br>
