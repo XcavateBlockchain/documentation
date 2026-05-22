@@ -80,9 +80,9 @@ Choose the user type that best describes your role.
   * **Help** – Get app support or create a support ticket.
   * **Marketplace** – Browse and invest in real estate property shares.
 
-### ⚙️ Settings
+### Settings
 
-The **Settings** section lets you manage your account's security, account credentials, developer options, and access helpful links. Here's how to navigate and use each option:
+The **Settings** section lets you manage your account's security, account credentials and access helpful links. Here's how to navigate and use each option:
 
 #### Show Mnemonics
 
@@ -95,7 +95,7 @@ This is your **secret backup phrase** used to restore your account. It’s super
 
 ⚠️ If you lose your phone and don’t have this phrase, **you’ll lose access to your account permanently**.
 
-### Manage DID
+#### Manage DID
 
 This section allows you to view and manage your **Decentralized Identifier (DID)**, which is used to link your communications, documents and investments.
 
@@ -103,7 +103,7 @@ Here’s how to understand and use each part of this screen:
 
 #### DID Mnemonics
 
-These 12 words (e.g., “flat high label mobile...”) act as your **backup identity** for the DID. If you ever need to recover your identity, these mnemonics are what you’ll use.
+These 12 words (e.g., “flat high label mobile...”) act as your **backup** for the DID. If you ever need to recover your DID, these mnemonics are what you’ll use.
 
 * Tap the **“Manage DID”** section from the **Settings** menu.
 * You’ll see your **DID Mnemonics** displayed in a sentence-like list.
