@@ -18,7 +18,7 @@ Using any web browser you can access the realXmarket platform. Access is limited
 
 Once you have downloaded the mobile app from either Google or Apple depending on your device, you can then connect with the web browser by clicking the "Connect" button in the top right of the screen.
 
-<figure><img src="../../../.gitbook/assets/Connect mobile.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Connect mobile (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ### Mobile
 
