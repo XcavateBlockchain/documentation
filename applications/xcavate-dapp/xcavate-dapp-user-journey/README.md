@@ -8,6 +8,18 @@ This section provides a clear walkthrough of the app’s main interface. Users c
 
 While the application can be accessed on both web browser as well as mobile, all transactions need to be approved through verification of the users identity. Connecting your mobile through scanning a simple QR code makes the connection seamless and secure.
 
+### Web
+
+Using any web browser you can access the realXmarket platform. Access is limited to browsing the marketplace, FAQ, Help and Docs unless you have completed the verification process to create your account.
+
+<figure><img src="../../../.gitbook/assets/Landing page (1).jpg" alt=""><figcaption></figcaption></figure>
+
+### Connecting mobile
+
+Once you have downloaded the mobile app from either Google or Apple depending on your device, you can then connect with the web browser by clicking the "Connect" button in the top right of the screen.
+
+<figure><img src="../../../.gitbook/assets/Connect mobile.jpg" alt=""><figcaption></figcaption></figure>
+
 ### Mobile
 
 When the application first loads the user is presented with a risk warning and a number options.
