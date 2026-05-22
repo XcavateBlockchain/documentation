@@ -111,7 +111,7 @@ The status of the interaction between the SPV lawyer and the Real Estate Develop
 
 <figure><img src="../../../.gitbook/assets/2.0.0 My account - Listed (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-### Property sale outcome
+#### Property sale outcome
 
 Legal process completed and sale concluded. Funds are sent to Real Estate Developer. Fees sent to Lawyer and Regional Operator.
 
@@ -120,3 +120,15 @@ Legal process completed and sale concluded. Funds are sent to Real Estate Develo
 If the lawyers do not agree the sale then the sale is cancelled and the funds are available to be reclaimed less fees.
 
 <figure><img src="../../../.gitbook/assets/2.6.0 Details Page - listed (2).jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+#### Letting Agent property claim
+
+Verified letting agents can now claim the property to represent the SPV. Before a letting agent is appointed by the SPV the shareholders need to vote for a particular letting agent and accept their terms.
+
+<figure><img src="../../../.gitbook/assets/2.6.0 Details Page - listed.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/SPV lawyer vote.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+#### Property letting process
+
+The status of the interaction between the Letting Agent and the potential Renters can be monitored by the SPV shareholders.
