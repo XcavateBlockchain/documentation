@@ -35,3 +35,5 @@ Verified letting agents can now claim the property to represent the SPV. Before 
 
 <figure><img src="../../../.gitbook/assets/5.1.1 Details Page -  Voting in progress.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
+<figure><img src="../../../.gitbook/assets/5.2.1 A messages.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
