@@ -24,7 +24,7 @@ This is where you can see your account balance and key investment metrics.
 
 #### Balance
 
-Click on the arrow to view your balance, top up or withdraw from your balance.
+Click on the arrow to view your balance, choose your preferred payment provider to top up or withdraw your balance.
 
 #### Property selection
 
