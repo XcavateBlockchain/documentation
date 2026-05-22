@@ -97,6 +97,9 @@ Once all property shares have been claimed a SPV (LLP) is automatically created 
 
 #### Lawyer property claim
 
-Verified lawyers can now claim the property to represent the SPV. Before a lawyer is appointed by the SPV the shareholders need to vote to accept the terms of a particular lawyer.
+Verified lawyers can now claim the property to represent the SPV. Before a lawyer is appointed by the SPV the shareholders need to vote for a particular lawyer and accept their terms.
+
+<figure><img src="../../../.gitbook/assets/2.6.0 Details Page - listed.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/SPV lawyer vote.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
