@@ -127,7 +127,7 @@ Verified letting agents can now claim the property to represent the SPV. Before 
 
 <figure><img src="../../../.gitbook/assets/2.6.0 Details Page - listed.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/SPV lawyer vote.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2.6.0 Details Page - listed (3).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 #### Property letting process
 
