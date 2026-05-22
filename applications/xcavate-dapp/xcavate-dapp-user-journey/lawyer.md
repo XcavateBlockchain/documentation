@@ -23,3 +23,12 @@ This is where you can see your account key metrics.
 
 <figure><img src="../../../.gitbook/assets/4.0.1 My account - Newly listed.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
+<br>
+
+#### **Property sale process**
+
+The status of the interaction between the SPV lawyer and the Real Estate Developer lawyer can be monitored by the SPV shareholders.
+
+#### **Property sale outcome**
+
+Legal process completed and sale concluded. Funds are sent to Real Estate Developer. Fees sent to Lawyer and Regional Operator.<br>
