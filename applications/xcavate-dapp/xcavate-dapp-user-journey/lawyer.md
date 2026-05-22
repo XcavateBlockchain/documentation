@@ -31,7 +31,9 @@ Verified lawyers can now claim the property to represent the SPV. Before a lawye
 
 <figure><img src="../../../.gitbook/assets/4.3.0 Claim.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/4.3.01 Claim.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/4.3.02 Claim.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/4.3.1 Detail Page - Voting in progress.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 #### **Property sale process**
 
