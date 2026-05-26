@@ -39,3 +39,8 @@ Verified letting agents can now claim the property to represent the SPV. Before 
 
 <figure><img src="../../../.gitbook/assets/5.2.1 B messages.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
+#### Rental Income
+
+The letting agent managing a particular property will need to credit the SPV account with the income received from the renter.
+
+<figure><img src="../../../.gitbook/assets/rental-income.png" alt="" width="375"><figcaption></figcaption></figure>
