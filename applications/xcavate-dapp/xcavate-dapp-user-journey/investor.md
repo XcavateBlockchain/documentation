@@ -149,7 +149,7 @@ If you wish to re-list the property shares once the initial 90 day lock-in perio
 
 <figure><img src="../../../.gitbook/assets/2.6.0 Details Page - listed (4) (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/2.6.0 Details Page - listed (5).jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2.6.0 Details Page - listed (6).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 Interested parties express interest in your shares through the realXmessenger app where you negotiate a sale price one to one.
 
