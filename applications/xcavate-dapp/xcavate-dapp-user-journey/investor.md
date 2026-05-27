@@ -133,6 +133,14 @@ Verified letting agents can now claim the property to represent the SPV. Before 
 
 The status of the interaction between the Letting Agent and the potential Renters can be monitored by the SPV shareholders.
 
+#### Property rental income
+
+The rental income collected by the letting agent is deposited in the SPV account and is automatically distributed to all the property shareholders.
+
+#### Property repairs & costs
+
+Any property costs are paid for by the SPV shareholders, either through the rental income or by an additional payment.
+
 ### Seller
 
 #### Re-list property shares
@@ -158,4 +166,3 @@ Buyers browse the noticeboard and click to make offer on any of the property sha
 <figure><img src="../../../.gitbook/assets/re-listed.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/messages.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
