@@ -41,6 +41,6 @@ Verified letting agents can now claim the property to represent the SPV. Before 
 
 #### Rental Income
 
-The letting agent managing a particular property will need to credit the SPV account with the income received from the renter.
+Rental income is managed in-line with the rental agreement between the SPV and the Letting Agent. The letting agent managing a particular property will need to credit the SPV account with the income received from the renter, which is then distributed automatically to the property shareholders.
 
 <figure><img src="../../../.gitbook/assets/rental-income.png" alt="" width="375"><figcaption></figcaption></figure>
