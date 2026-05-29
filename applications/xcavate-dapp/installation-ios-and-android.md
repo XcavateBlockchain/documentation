@@ -2,7 +2,7 @@
 
 1.  iOS
 
-    1. Receive the invitation email. Click the link to accept terms.
+    1. Use the following testing invitation link. [https://testflight.apple.com/join/2211G9eW](https://testflight.apple.com/join/2211G9eW) Click the link to accept terms.
     2. Install TestFlight (if not already having this app). This is a free Apple app in the App Store.
     3. Testers will be added to the testers list.
     4. Testers will then receive a code from TestFlight. The code has time limit. Redeem the code.
@@ -21,7 +21,7 @@
 
 
 
-    <figure><img src="../../../../../.gitbook/assets/image (26).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (26).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Download the app. If you are not a new user, update the app will appear when update is available.
 
