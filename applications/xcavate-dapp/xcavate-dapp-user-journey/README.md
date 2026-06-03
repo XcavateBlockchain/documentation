@@ -4,7 +4,7 @@ description: This is a step-by-step guide detailing aspects of the initial user 
 
 # Getting started
 
-This section provides a clear walkthrough of the app’s main interface. Users can browse the marketplace, create an account (after successfully passing KYC), purchase property SPV shares, review documents and messages, vote on SPV decisions, view investment performance, access digital identity and wallet details, and explore features like property SPV governance.
+This section provides a clear walkthrough of the app’s main interface and initial on-boarding for any user type.
 
 While the application can be accessed on both web browser as well as mobile, all transactions need to be approved through verification of the users identity. Connecting your mobile through scanning a simple QR code makes the connection seamless and secure.
 
