@@ -1,10 +1,10 @@
 ---
-description: This is a step-by-step guide detailing aspects of the initial user journey.
+description: >-
+  This section provides a clear walkthrough of the app’s main interface and
+  initial on-boarding for any user type.
 ---
 
 # Getting started
-
-This section provides a clear walkthrough of the app’s main interface and initial on-boarding for any user type.
 
 While the application can be accessed on both web browser as well as mobile, all transactions need to be approved through verification of the users identity. Connecting your mobile through scanning a simple QR code makes the connection seamless and secure.
 
