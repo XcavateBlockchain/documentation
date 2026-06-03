@@ -109,6 +109,7 @@
     * [Installation (iOS & Android)](applications/xcavate-dapp/installation-ios-and-android.md)
     * [System Requirements](applications/xcavate-dapp/system-requirements.md)
     * [Key Features and Benefits](applications/xcavate-dapp/key-features-and-benefits.md)
+    * [Testing](applications/xcavate-dapp/testing.md)
     * [Getting started](applications/xcavate-dapp/xcavate-dapp-user-journey/README.md)
       * [Help](applications/xcavate-dapp/xcavate-dapp-user-journey/help.md)
       * [Real Estate Developer](applications/xcavate-dapp/xcavate-dapp-user-journey/real-estate-developer.md)
