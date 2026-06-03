@@ -1,3 +1,9 @@
+---
+description: >-
+  This page focuses on the property share re-sale process from a property share
+  investor perspective.
+---
+
 # Investor Resale
 
 ### Seller

@@ -1,6 +1,6 @@
 ---
 description: >-
-  This page focuses on the letting and property rental process from an property
+  This page focuses on the letting and property rental process from a property
   share investor perspective.
 ---
 
