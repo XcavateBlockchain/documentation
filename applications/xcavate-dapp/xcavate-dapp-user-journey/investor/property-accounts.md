@@ -1,6 +1,6 @@
 ---
 description: >-
-  This page focuses on the automated accounts process from an property share
+  This page focuses on the automated accounts process from a property share
   investor perspective
 ---
 
