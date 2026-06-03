@@ -117,6 +117,7 @@
         * [Investor Legal](applications/xcavate-dapp/xcavate-dapp-user-journey/investor/investor-legal.md)
         * [Investor Lettings](applications/xcavate-dapp/xcavate-dapp-user-journey/investor/investor-lettings.md)
         * [Investor Resale](applications/xcavate-dapp/xcavate-dapp-user-journey/investor/investor-resale.md)
+        * [Property accounts](applications/xcavate-dapp/xcavate-dapp-user-journey/investor/property-accounts.md)
       * [Lawyer](applications/xcavate-dapp/xcavate-dapp-user-journey/lawyer.md)
       * [Letting Agent](applications/xcavate-dapp/xcavate-dapp-user-journey/letting-agent.md)
 * [Partnerships](partnerships.md)
