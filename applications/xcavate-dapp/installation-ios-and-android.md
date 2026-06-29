@@ -8,8 +8,9 @@
 
 
 2. Android
-   1. Use the following testing invitation link. [https://play.google.com/apps/testing/com.xcavate.realxmarket](https://play.google.com/apps/testing/com.xcavate.realxmarket)
-   2. Testers will be added to the testers list.
+   1. Search com.xcavate.realxmarket on Google Play
+   2. Download realXmarket app and click open
+   3. Testers will be added to the testers list.
 
 
 
