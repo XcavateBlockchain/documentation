@@ -112,7 +112,7 @@
     * [Testing](applications/xcavate-dapp/testing.md)
     * [Getting started](applications/xcavate-dapp/xcavate-dapp-user-journey/README.md)
       * [Help](applications/xcavate-dapp/xcavate-dapp-user-journey/help/README.md)
-        * [FAQ](applications/xcavate-dapp/xcavate-dapp-user-journey/help/faq.md)
+        * [FAQs](applications/xcavate-dapp/xcavate-dapp-user-journey/help/faqs.md)
       * [Real Estate Developer](applications/xcavate-dapp/xcavate-dapp-user-journey/real-estate-developer.md)
       * [Investor](applications/xcavate-dapp/xcavate-dapp-user-journey/investor/README.md)
         * [Investor Legal](applications/xcavate-dapp/xcavate-dapp-user-journey/investor/investor-legal.md)
