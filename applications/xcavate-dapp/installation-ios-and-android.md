@@ -8,7 +8,7 @@
 
 
 2. Android
-   1. Search com.xcavate.realxmarket on Google Play
+   1. Search com.xcavate.realxmarket on the Google Play app
    2. Download realXmarket app and click open
 
 
