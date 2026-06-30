@@ -12,7 +12,13 @@ If you deemed to be a suitable investor, then you will be asked if you understan
 
 #### Sumsub KYC
 
-When you are asked to supply your passport and proof of address please just take any live photos rather than your own actual documents.
+When you are asked to supply your passport and proof of address please just use these test documents rather than your own actual documents.
+
+<figure><img src="../../.gitbook/assets/germany-passport.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/proof of address.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+
 
 #### Faucet
 
