@@ -12,8 +12,34 @@ If you deemed to be a suitable investor, then you will be asked if you understan
 
 #### Sumsub KYC
 
-When you are asked to supply your passport and proof of address please use these test documents rather than your own actual documents.
+When you are asked to supply your passport and proof of address please just take any live photos rather than your own actual documents.
 
-<figure><img src="../../.gitbook/assets/BobTPassport.jpg" alt="" width="375"><figcaption></figcaption></figure>
+#### Faucet
 
-<figure><img src="../../.gitbook/assets/BobTUtilityBill1.jpeg" alt="" width="375"><figcaption></figcaption></figure>
+Once you have successfully passed KYC you can link your mobile with the desktop version of the app and access the faucet to provide you with some test tGBP so you can start to purchase property shares.
+
+Firstly using your desktop browser go to [https://app.realxmarket.io/](https://app.realxmarket.io/) and click on the CONNECT button in the top right.
+
+<figure><img src="../../.gitbook/assets/Connect mobile to desktop.png" alt=""><figcaption></figcaption></figure>
+
+Once you click connect the following QR code should appear
+
+<figure><img src="../../.gitbook/assets/Scan QR code.png" alt=""><figcaption></figcaption></figure>
+
+Now go back on your mobile and click My account on the realXmarket app. Click on the QR code icon (in between the bell and the menu) on the top right of the screen and scan the QR code on your desktop browser.
+
+<figure><img src="../../.gitbook/assets/Phone QR code icon.PNG" alt="" width="375"><figcaption></figcaption></figure>
+
+Click the Accept button to connect.
+
+<figure><img src="../../.gitbook/assets/Connect mobile to browser (1).PNG" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Connected mobile to browser.PNG" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Mobile connected on browser.png" alt=""><figcaption></figcaption></figure>
+
+You should now see the QR scan icon then your account in the connect button.
+
+Click on the connect button to access the faucet which is a gas icon.
+
+<figure><img src="../../.gitbook/assets/Faucet button.png" alt=""><figcaption></figcaption></figure>
