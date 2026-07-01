@@ -20,11 +20,19 @@ When you are asked to supply your passport and proof of address please just use 
 
 
 
-#### Faucet
+#### Faucets
 
-Once you have successfully passed KYC you can link your mobile with the desktop version of the app and access the faucet to provide you with some test tGBP so you can start to purchase property shares.
+We have a faucet for XCAV (on the browser version menu). We also have a faucet for tGBP which is in your browser account wallet.
 
-Firstly using your desktop browser go to [https://app.realxmarket.io/](https://app.realxmarket.io/) and click on the CONNECT button in the top right.
+Once you have successfully passed KYC you will need some XCAV before you can get some tGBP to start investing.
+
+Using your desktop browser go to [https://app.realxmarket.io/](https://app.realxmarket.io/) and click on the FAUCET menu item and paste in your account before clicking the Get some XCAV button.
+
+<figure><img src="../../.gitbook/assets/XCAV Faucet.png" alt=""><figcaption></figcaption></figure>
+
+Then you can link your mobile with the desktop version of the app and access the faucet to provide you with some test tGBP so you can start to purchase property shares.
+
+Ensure the desktop browser is open at [https://app.realxmarket.io/](https://app.realxmarket.io/) and click on the CONNECT button in the top right.
 
 <figure><img src="../../.gitbook/assets/Connect mobile to desktop.png" alt=""><figcaption></figcaption></figure>
 
