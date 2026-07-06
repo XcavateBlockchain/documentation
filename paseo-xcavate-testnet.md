@@ -1,5 +1,6 @@
 ---
 description: How to verify tXCAV on Xcavate Paseo Network
+hidden: true
 ---
 
 # Paseo Xcavate Testnet

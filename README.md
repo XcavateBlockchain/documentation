@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Introduction
 
 The Xcavate community believes that real estate should be accessible and affordable to everyone.
