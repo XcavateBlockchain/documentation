@@ -8,7 +8,7 @@
 
 
 2. Android
-   1. Use the following testing invitation link. [https://play.google.com/store/apps/details?id=com.xcavate.realxmarket](https://play.google.com/store/apps/details?id=com.xcavate.realxmarket) or search com.xcavate.realxmarket in the Google PLay store
+   1. Use the following testing invitation link. [https://play.google.com/store/apps/details?id=com.xcavate.realxmarket](https://play.google.com/store/apps/details?id=com.xcavate.realxmarket) or search com.xcavate.realxmarket in the Google Play store
    2. Download realXmarket app and click open
 
 
