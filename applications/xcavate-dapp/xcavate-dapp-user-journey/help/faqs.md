@@ -10,9 +10,17 @@ Your account is a combination of public and private keys. To back up these detai
 
 Firstly, go to My account and then click on the menu icon at the top right of the screen.
 
+<figure><img src="../../../../.gitbook/assets/account recovery1.PNG" alt="" width="375"><figcaption></figcaption></figure>
+
 Then click on 'Security' with the key icon.
 
+<figure><img src="../../../../.gitbook/assets/account recovery2.PNG" alt="" width="375"><figcaption></figcaption></figure>
+
 Select Sr25519 key and enter your password.
+
+<figure><img src="../../../../.gitbook/assets/account recovery4.PNG" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/account recovery3.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
 To back up your seed phrase click on the eye icon and write down all twelve words in order on a piece of paper (do not make a screenshot and store on your phone)... do not share this will anyone and keep the paper safe.
 
