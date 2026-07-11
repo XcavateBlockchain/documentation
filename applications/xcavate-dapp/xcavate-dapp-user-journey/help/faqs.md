@@ -42,6 +42,13 @@ This will be added soon
 
 #### Why is KYC and how do I complete it
 
-KYC stands for 'Know Your Customer' and it is a global regulatory requirement that all users under go a series of checks to confirm their identity and suitability to interact with the regulated activity.
+KYC stands for 'Know Your Customer' (or Know Your Client) and it is a global regulatory requirement that all users under go a series of checks to confirm their identity and suitability to interact with the regulated activity.
 
-See the 'Getting started' page to understand the process.
+The Core Steps of KYC
+
+* Identity Verification: Collecting and confirming standard details like your full name, date of birth, and an ID number.
+* Document Verification: Confirming the legitimacy of documents like passports, national ID cards, or utility bills.
+* Customer Due Diligence (CDD): Assessing the potential risk a customer might present to the business or platform.
+* Ongoing Monitoring: Continuously screening transactions for suspicious behavior and periodically checking for updated customer records.
+
+See the 'Getting started' page to understand the process relating to the realXmarket application.
