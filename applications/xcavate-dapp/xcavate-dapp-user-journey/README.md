@@ -28,27 +28,41 @@ When the application first loads you are presented with a risk warning and a num
 
 ### Create account
 
-Before your full account can be active you will need to successfully pass KYC / AML and risk questionnaire.
+Before your full account can be active you will need to fill in some details and successfully pass KYC / AML and risk questionnaire.
 
-To initiate the KYC / AML process you will need to create your account.
+#### Create account password
 
-You will need to create a 6-20 character password to access this account
+You will need to create a unique password between 6-20 characters
+
+<figure><img src="../../../.gitbook/assets/Create password.PNG" alt="" width="375"><figcaption></figcaption></figure>
+
+#### Select user role
+
+To initiate the KYC / AML process you will need to select your user role by clicking on the most relevant button.
+
+<figure><img src="../../../.gitbook/assets/Select user role.PNG" alt="" width="375"><figcaption></figcaption></figure>
+
+#### Enter information
+
+Your email is used to send you the code to start the KYC process.
+
+<figure><img src="../../../.gitbook/assets/enter information.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
 #### Risk Warning & Questionnaire
 
-You will need to accept the risk warning before being presented with a questionnaire to assess your suitability to property investment.
+You will initially be presented with a questionnaire to assess your suitability to property investment.
 
-There are three potential outcomes;
+<figure><img src="../../../.gitbook/assets/Risk questionnaire.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
-Pass: Message asking to proceed
-
-Margin Failure: Risk warning acceptance before continuing
+There are two potential outcomes;
 
 Fail: Message displayed that indicates property investment is not suitable for you.
 
-### KYC / AML & Liveness
+Pass: Shows a declaration which you need to accept if you wish to proceed to creating your account.
 
-This is carried out through a third party SumSub
+<figure><img src="../../../.gitbook/assets/Declaration.PNG" alt="" width="375"><figcaption></figcaption></figure>
+
+Once you click accept to the declaration you will automatically move the the next stage to accept the privacy, terms and agreement.
 
 #### Privacy, Terms & Agreement
 
@@ -56,11 +70,11 @@ Once you have successfully passed KYC will be asked to accept each document afte
 
 Once all documents have been digitally signed you will be sent to My Account, which maybe different based on the type of user you are.
 
-#### Select account type
-
 Choose the user type that best describes your role.
 
-<figure><img src="../../../.gitbook/assets/Select account type.jpg" alt="" width="188"><figcaption></figcaption></figure>
+### KYC / AML & Liveness
+
+This is carried out through a third party SumSub app
 
 ### General
 
