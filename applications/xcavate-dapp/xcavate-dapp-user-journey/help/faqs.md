@@ -30,7 +30,19 @@ You can also download a json file. Simply click on the 'Export json' button and 
 
 #### Account recovery / restore
 
-If you accidentally delete your app (and your account) or have a new device you will need to redownload the realXmarket app (see onboarding)
+If you accidentally delete your app (and your account) or have a new device you will need to redownload the realXmarket app (see onboarding).
+
+From the initial app loading screen click 'import account'.
+
+Choose whether to import from the seed phrase or a json file.
+
+#### Seed Phase
+
+Enter all twelve words in order from your backup piece of paper.
+
+#### JSON File
+
+Click on the file you saved. Enter the password and follow instructions to go through KYC.
 
 #### Where can I see my transaction history
 
