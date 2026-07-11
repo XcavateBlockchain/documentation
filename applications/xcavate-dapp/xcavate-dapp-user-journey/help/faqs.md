@@ -34,15 +34,21 @@ If you accidentally delete your app (and your account) or have a new device you 
 
 From the initial app loading screen click 'import account'.
 
+<figure><img src="../../../../.gitbook/assets/import account 1.PNG" alt="" width="375"><figcaption></figcaption></figure>
+
 Choose whether to import from the seed phrase or a json file.
 
-#### Seed Phase
+<figure><img src="../../../../.gitbook/assets/import account 2.PNG" alt="" width="375"><figcaption></figcaption></figure>
+
+#### Seed Phase (Mnemonics)
 
 Enter all twelve words in order from your backup piece of paper.
 
 #### JSON File
 
-Click on the file you saved. Enter the password and follow instructions to go through KYC.
+Click on the file you saved.
+
+Enter the password and follow instructions to go through KYC.
 
 #### Where can I see my transaction history
 
