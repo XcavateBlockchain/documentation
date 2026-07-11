@@ -40,6 +40,8 @@ This will be added soon
 
 This will be added soon
 
-#### Why is KYC and hpw do I complete it
+#### Why is KYC and how do I complete it
 
-This will be added soon
+KYC stands for 'Know Your Customer' and it is a global regulatory requirement that all users under go a series of checks to confirm their identity and suitability to interact with the regulated activity.
+
+See the 'Getting started' page to understand the process.
