@@ -66,11 +66,13 @@ Once you click accept to the declaration you will automatically move the the nex
 
 #### Privacy, Terms & Agreement
 
-Once you have successfully passed KYC will be asked to accept each document after you have read and scrolled to the bottom of each PDF.
+Once you have successfully passed the questionnaire you will be asked to accept each document after you have read and scrolled to the bottom and clicked accept.
 
-Once all documents have been digitally signed you will be sent to My Account, which maybe different based on the type of user you are.
+<figure><img src="../../../.gitbook/assets/Accept terms.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
-Choose the user type that best describes your role.
+Once all documents have been digitally signed you need to give consent to start the verification process.
+
+<figure><img src="../../../.gitbook/assets/Start sumsub verification.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
 ### KYC / AML & Liveness
 
