@@ -34,7 +34,15 @@ If you accidentally delete your app (and your account) or have a new device you 
 
 #### Where can I see my transaction history
 
-This will be added soon
+Your full transaction history can be viewed when you sign in to your account using the web browser. Follow 'Getting start' to understand how to link your mobile with the browser version.
+
+Once you are logged in then navigate to the blue person icon at the top right of the screen and cliuck on 'profile'.
+
+<figure><img src="../../../../.gitbook/assets/transactions 1.jpg" alt=""><figcaption></figcaption></figure>
+
+Click on the 'Transactions' tab to view your acount transaction history.
+
+<figure><img src="../../../../.gitbook/assets/transactions 2.jpg" alt=""><figcaption></figcaption></figure>
 
 #### I need help with a failed transaction
 
