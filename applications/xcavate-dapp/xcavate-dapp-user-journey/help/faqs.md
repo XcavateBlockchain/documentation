@@ -4,7 +4,9 @@ description: This section is focused on the main questions qsked
 
 # FAQs
 
-#### How can I recover my account
+#### How can I backup and recover my account
+
+#### Account backup
 
 Your account is a combination of public and private keys. To back up these details you will need to follow these instructions.
 
@@ -25,6 +27,10 @@ Select Sr25519 key and enter your password.
 To back up your seed phrase click on the eye icon and write down all twelve words in order on a piece of paper (do not make a screenshot and store on your phone)... do not share this will anyone and keep the paper safe.
 
 You can also download a json file. Simply click on the 'Export json' button and select where to store the file.
+
+#### Account recovery / restore
+
+If you accidentally delete your app (and your account) or have a new device you will need to redownload the realXmarket app (see onboarding)
 
 #### Where can I see my transaction history
 

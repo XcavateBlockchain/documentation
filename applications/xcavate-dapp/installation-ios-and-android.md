@@ -1,3 +1,9 @@
+---
+description: >-
+  This page instructs on how to download the realXmarket app on both IOS and
+  Android devices.
+---
+
 # Installation (iOS & Android)
 
 1.  iOS
@@ -10,8 +16,6 @@
 2. Android
    1. Use the following testing invitation link. [https://play.google.com/store/apps/details?id=com.xcavate.realxmarket](https://play.google.com/store/apps/details?id=com.xcavate.realxmarket) or search com.xcavate.realxmarket in the Google Play store
    2. Download realXmarket app and click open
-
-
 
 \
 <br>
