@@ -54,7 +54,7 @@ Enter the password and follow instructions to go through KYC.
 
 Your full transaction history can be viewed when you sign in to your account using the web browser. Follow 'Getting start' to understand how to link your mobile with the browser version.
 
-Once you are logged in then navigate to the blue person icon at the top right of the screen and cliuck on 'profile'.
+Once you are logged in then navigate to the blue round person icon at the top right of the screen and click on 'profile'.
 
 <figure><img src="../../../../.gitbook/assets/transactions 1.jpg" alt=""><figcaption></figcaption></figure>
 
