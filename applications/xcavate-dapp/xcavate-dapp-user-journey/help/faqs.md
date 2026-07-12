@@ -64,7 +64,7 @@ Click on the 'Transactions' tab to view your acount transaction history.
 
 #### I need help with a failed transaction
 
-This will be added soon
+Click on the 'Help' button and type in the steps you performed to make the transaction. This will prompt you to receive advice from the in-app support agent. If you cannot get a satisfactory response after supplying the information plus a few follow up actions, then click to raise a support ticket and one of our team will respond to your issue asap.
 
 #### Why is KYC and how do I complete it
 
