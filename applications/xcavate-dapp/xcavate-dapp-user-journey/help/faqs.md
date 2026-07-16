@@ -4,7 +4,7 @@ description: This section is focused on the frequently asked questions.
 
 # FAQs
 
-#### How can I backup and recover my account?
+### How can I backup and recover my account?
 
 #### Account backup
 
@@ -50,7 +50,7 @@ Click on the file you saved.
 
 Enter the password and follow instructions to go through KYC.
 
-#### Where can I see my transaction history
+### Where can I see my transaction history?
 
 Your full transaction history can be viewed when you sign in to your account using the web browser. Follow 'Getting start' to understand how to link your mobile with the browser version.
 
@@ -62,18 +62,18 @@ Click on the 'Transactions' tab to view your acount transaction history.
 
 <figure><img src="../../../../.gitbook/assets/transactions 2.jpg" alt=""><figcaption></figcaption></figure>
 
-#### I need help with a failed transaction
+### I need help with a failed transaction
 
 Click on the 'Help' button and type in the steps you performed to make the transaction. This will prompt you to receive advice from the in-app support agent.&#x20;
 
 Common issues could be;
 
-* Not sufficient balance in your account - check the amount you have available (excluding reserved funds)/
-* Issue with your KYC status - check your KYC status in the settings area.
+* Insufficient balance in your account - check the amount you have available (excluding reserved funds)/
+* Issue with your KYC status - check your KYC status is passed / green in the settings area.
 
 If you cannot get a satisfactory response after supplying the information plus a few follow up actions, then click to raise a support ticket and one of our team will respond to your issue asap.
 
-#### Why is KYC and how do I complete it
+### What is KYC and how do I complete it?
 
 KYC stands for 'Know Your Customer' (or Know Your Client) and it is a global regulatory requirement that all users under go a series of checks to confirm their identity and suitability to interact with the regulated activity.
 
@@ -85,3 +85,9 @@ The Core Steps of KYC
 * Ongoing Monitoring: Continuously screening transactions for suspicious behavior and periodically checking for updated customer records.
 
 See the 'Getting started' page to understand the process relating to the realXmarket application.
+
+### Can I get a refund or cancel my property share reservation?
+
+#### Refunds
+
+While there are no actual refunds available once you have bought your property shares. You can cancel your property share reservation at any point up to when the last property share is reserved for a specific property. At this point you will be asked to claim your property shares and your 'reserved' funds will be sent to the SPV account in preparation to pay for the property once the legal process has been completed. If the legal process is not completed within 30 days of the start, then the sale is cancelled and you will be able to claim back your funds by sending your property shares to the SPV account.
