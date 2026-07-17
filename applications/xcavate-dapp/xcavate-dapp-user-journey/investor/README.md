@@ -1,7 +1,7 @@
 ---
 description: >-
-  This section is focused on the following general user screens; my account and
-  marketplace.
+  This section is focused on the general aspects relating to the investors my
+  account and related screens.
 ---
 
 # Investor
