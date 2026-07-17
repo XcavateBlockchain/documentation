@@ -115,6 +115,7 @@
         * [FAQs](applications/xcavate-dapp/xcavate-dapp-user-journey/help/faqs.md)
       * [Real Estate Developer](applications/xcavate-dapp/xcavate-dapp-user-journey/real-estate-developer.md)
       * [Investor](applications/xcavate-dapp/xcavate-dapp-user-journey/investor/README.md)
+        * [Property share reservation](applications/xcavate-dapp/xcavate-dapp-user-journey/investor/property-share-reservation.md)
         * [Investor Legal](applications/xcavate-dapp/xcavate-dapp-user-journey/investor/investor-legal.md)
         * [Investor Lettings](applications/xcavate-dapp/xcavate-dapp-user-journey/investor/investor-lettings.md)
         * [Investor Resale](applications/xcavate-dapp/xcavate-dapp-user-journey/investor/investor-resale.md)
